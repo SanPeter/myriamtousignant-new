@@ -1,3 +1,5 @@
 baseURL = 'http://myriamtousignant.com/'
 languageCode = 'fr-ca'
 title = 'Myriam Tousignant'
+[params]
+copyrightInfo = '© 2021 Myriam Tousignant Tous Droits Réservés.'
