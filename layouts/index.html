@@ -1,3 +1,7 @@
 {{ define "main" }}
-    <p>Accueil - Myriam Tousignant</p>
+   <div class="text-center mt-5">
+    {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true }}
+        {{ .Render "summary" }}
+    {{ end }}
+   </div>
 {{ end }}
