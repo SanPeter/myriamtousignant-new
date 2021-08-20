@@ -12,3 +12,11 @@
   padding-left: 0.75rem;
   padding-right: 0.75rem;
 }
+
+@media (min-width: 576px) {
+  .carousel-item img {
+    width: auto !important;
+    height: 480px;
+    max-height: 480px;
+  }
+}
