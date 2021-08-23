@@ -1,3 +1,10 @@
 <li class="col-lg-4 col-md-12">
-    <a href="{{ .Permalink }}" class=''><img src="{{ .Params.SummaryImage }}" alt="Image de projet" class="img-fluid mb-4"></a>
+    <a href="{{ .Permalink }}" class=''>
+        {{ $alt := .Params.Title }}
+        {{ $resource := .Resources.GetMatch (.Params.ListImage) }}
+        {{ $image := $resource.Fill "220x140 center" }}
+        {{ with $image }}
+            <img src="{{ .RelPermalink }}" alt="{{ $alt }}" class="img-fluid mb-4">
+        {{ end }}
+    </a>
 </li>

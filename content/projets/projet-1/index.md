@@ -5,4 +5,5 @@ draft: false
 featured: true
 weight: 1
 summaryImage: 'http://www.myriamtousignant.com/wp-content/uploads/2021/08/petites_mains_web_sans_texte.jpg'
+listImage: 'images/petites_mains_web_sans_texte.jpg'
 ---

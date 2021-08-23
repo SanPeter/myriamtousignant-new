@@ -3,7 +3,7 @@
     <h1>Projets</h1>
     
     <ul class="row flex-container ">
-        {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true }}
+        {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true}}
             {{ .Render "li" }}
         {{ end }}
     </ul>
