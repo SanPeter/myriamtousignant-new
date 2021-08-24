@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    
+    <ul class="row flex-container ">
+        {{ range where .Site.RegularPages "Section" "publications"}}
+            {{ .Render "li" }}
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
