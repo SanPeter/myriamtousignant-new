@@ -1,10 +1,9 @@
 <li class="col-lg-4 col-md-12">
     <a href="{{ .Permalink }}" class=''>
-        {{ $alt := .Params.Title }}
-        {{ $resource := .Resources.GetMatch (.Params.ListImage) }}
+        {{ $resource := .Resources.GetMatch (.Params.listImage) }}
         {{ $image := $resource.Fill "220x140 center" }}
         {{ with $image }}
-            <img src="{{ .RelPermalink }}" alt="{{ $alt }}" class="img-fluid mb-4">
+            <img src="{{ .RelPermalink }}" alt="{{ $.Params.Title }}" class="img-fluid mb-4">
         {{ end }}
     </a>
 </li>
