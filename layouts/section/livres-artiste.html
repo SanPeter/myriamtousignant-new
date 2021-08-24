@@ -3,7 +3,7 @@
     <h1>{{ .Title }}</h1>
     
     <ul class="row flex-container ">
-        {{ range where .Site.RegularPages "Section" "projets"}}
+        {{ range where .Site.RegularPages "Section" "livres-artiste"}}
             {{ .Render "li" }}
         {{ end }}
     </ul>

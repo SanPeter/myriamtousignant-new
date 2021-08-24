@@ -5,5 +5,6 @@ draft: true
 weight: 1
 featured: false
 summaryImage: ''
-listImage: 'images/image_accueil_residence.jpg'
+listImage: ''
+projectImages:
 ---
