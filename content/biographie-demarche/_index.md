@@ -2,6 +2,7 @@
 title: 'Biographie & démarche'
 date: 2021-08-24T14:16:38-04:00
 draft: false
+weight: 4
 heroImage: '/images/bio_demarche_2021.jpg'
 ---
 

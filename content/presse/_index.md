@@ -2,6 +2,7 @@
 title: 'Presse'
 date: 2021-08-24T14:37:58-04:00
 draft: false
+weight: 5
 ---
 
 ["Petites mains"/ Une histoire de famille, entrevue pour l'émission Studio Direct sur TVRS, Jeudi 11 mars 2021, 6min13 sec.](https://www.tvrs.ca/emissions/studio-direct/sur-demande?show=199980&fbclid=IwAR29q90fOyEs-Fvl8u9q3Kne_PvFkDJlMRsQ5wokHdIFWNe16p5UU06SuCg)
