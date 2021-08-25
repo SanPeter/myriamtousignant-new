@@ -1,7 +1,7 @@
 <div class="summary">
     {{ $resource := .Resources.GetMatch (.Params.summaryImage) }}
-    {{ $image := $resource }}
+    {{ $image := $resource.Resize "x1500" }}
     {{ with $image }}
-        <a href="{{ $.Permalink }}" class=''><img src="{{ $image.RelPermalink }}" alt="{{ $.Title }}" class='img-fluid mb-2' style="object-fit: cover;"></a>
+        <a href="{{ $.Permalink }}" class=''><img src="{{ $image.RelPermalink }}" alt="{{ $.Title }}" class='img-fluid mb-5'></a>
     {{ end }}
 </div>

@@ -1,7 +1,7 @@
 <li class="col-lg-4 col-md-12">
     <a href="{{ .Permalink }}" class=''>
         {{ $resource := .Resources.GetMatch (.Params.listImage) }}
-        {{ $image := $resource.Fill "220x140 center" }}
+        {{ $image := $resource.Fill "880x560 center" }}
         {{ with $image }}
             <img src="{{ .RelPermalink }}" alt="{{ $.Params.Title }}" class="img-fluid mb-4">
         {{ end }}

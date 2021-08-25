@@ -19,12 +19,15 @@
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>
 <body>
-    {{ partial "header.html" . }}
+    <div style="padding-bottom: 60px;">
+        {{ partial "header.html" . }}
 
-    {{ block "main" . }}
-        
-    {{ end }}
-
-    {{ partial "footer.html" . }}
+        {{ block "main" . }}
+            
+        {{ end }}
+    
+        {{ partial "footer.html" . }}
+   
+    </div>
 </body>
 </html>

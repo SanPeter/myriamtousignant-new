@@ -4,8 +4,8 @@ date: 2021-08-19T18:44:11-04:00
 draft: false
 featured: true
 weight: 1
-summaryImage: 'images/petites_mains_web_sans_texte.jpg'
-listImage: 'images/petites_mains_web_sans_texte.jpg'
+summaryImage: 'images/petites_mains_fullres.jpg'
+listImage: 'images/petites_mains_fullres.jpg'
 projectImages:
   - images/20210729_182315871.jpg
   - images/20210802_180940700.jpg
