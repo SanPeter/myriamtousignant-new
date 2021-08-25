@@ -7,12 +7,12 @@ weight: 1
 summaryImage: 'images/petites_mains_fullres.jpg'
 listImage: 'images/petites_mains_fullres.jpg'
 projectImages:
-  - images/20210729_182315871.jpg
-  - images/20210802_180940700.jpg
-  - images/20210802_180940892.jpg
-  - images/20210802_180940991.jpg
-  - images/20210806_131856864.jpg
-  - images/20210806_131857076.jpg
+  - images/petites-mains-01.jpg
+  - images/petites-mains-02.jpg
+  - images/petites-mains-03.jpg
+  - images/petites-mains-04.jpg
+  - images/petites-mains-05.jpg
+  - images/petites-mains-06.jpg
 ---
 
 Le projet multidisciplinaire Petites mains est né pour donner suite à la découverte des archives personnelles de ma grand-mère maternelle, Réjanne Martin, décédée à l’âge de 94 ans. Ces documents témoignent des nombreux changements survenus lors du siècle dernier et font écho à des enjeux récemment soulevés comme la place qu’occupent les aînés au sein de la société québécoise.
