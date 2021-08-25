@@ -3,7 +3,10 @@
         {{ $resource := .Resources.GetMatch (.Params.listImage) }}
         {{ $image := $resource.Fill "880x560 center" }}
         {{ with $image }}
-            <img src="{{ .RelPermalink }}" alt="{{ $.Params.Title }}" class="img-fluid mb-4">
+            <div class="overlay-container">
+                <img src="{{ .RelPermalink }}" alt="{{ $.Params.Title }}" class="img-fluid mb-4">
+                <div class="overlay">{{ $.Params.Title }}</div>
+            </div>
         {{ end }}
     </a>
 </li>
