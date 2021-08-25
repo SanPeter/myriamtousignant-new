@@ -33,9 +33,9 @@
     <div style="padding-bottom: 60px;">
         {{ partial "header.html" . }}
 
-        {{ block "main" . }}
-            
-        {{ end }}
+        <div class="mt-4">
+            {{ block "main" . }}{{ end }}
+        </div>
     
         {{ partial "footer.html" . }}
    
