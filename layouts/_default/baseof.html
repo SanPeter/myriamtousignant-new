@@ -26,8 +26,16 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 
-    {{ $style := resources.Get "sass/custom.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{ $styles := resources.Get "sass/custom.scss" | resources.ToCSS }}
+    {{ if .Site.IsServer }}
+      <link rel="stylesheet" href="{{ $styles.RelPermalink }}"/>
+    {{ else }}
+      {{ $styles := $styles | resources.Minify | resources.Fingerprint  }}
+      <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"/>
+    {{ end }}
+
+    <!-- {{ $style := resources.Get "sass/custom.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}"> -->
 </head>
 <body>
     <div style="padding-bottom: 60px;">

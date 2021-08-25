@@ -2,7 +2,7 @@
 <div class="container">
     <h1 class='mb-5'>{{ .Title }}</h1>
     
-    <ul class="row flex-container ">
+    <ul class="row flex-container list-unstyled">
         {{ range where .Site.RegularPages "Section" "projets"}}
             {{ .Render "li" }}
         {{ end }}

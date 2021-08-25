@@ -4,7 +4,7 @@
         {{ $image := $resource.Fill "880x560 center" }}
         {{ with $image }}
             <div class="overlay-container">
-                <img src="{{ .RelPermalink }}" alt="{{ $.Params.Title }}" class="img-fluid mb-4">
+                <img src="{{ .RelPermalink }}" alt="{{ $.Params.Title }}" class="img-fluid mb-4 mh-100 align-bottom">
                 <div class="overlay">{{ $.Params.Title }}</div>
             </div>
         {{ end }}
