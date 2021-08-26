@@ -11,6 +11,21 @@ projectImages:
   - images/2-LongueuilLesFenetresQuiParlent-(2-of-29)_resized.jpg
   - images/3-LongueuilLesFenetresQuiParlent-(3-of-29)_resized.jpg
   - images/4-LongueuilLesFenetresQuiParlent-(4-of-29)_resized.jpg
+  - images/5-LongueuilLesFenetresQuiParlent-(5-of-29)_resized.jpg
+  - images/6-LongueuilLesFenetresQuiParlent-(6-of-29)_resized.jpg
+  - images/7-LongueuilLesFenetresQuiParlent-(7-of-29)_resized.jpg
+  - images/8-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/9-LongueuilLesFenetresQuiParlent-(9-of-29)_resized.jpg
+  - images/10-LongueuilLesFenetresQuiParlent-(10-of-29)_resized.jpg
+  - images/11-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/12-LongueuilLesFenetresQuiParlent-(12-of-29)_resized.jpg
+  - images/13-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/14-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/15-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/16-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/17-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/18-LongueuilLesFenetresQuiParlent_resized.jpg
+  - images/19-LongueuilLesFenetresQuiParlent_resized.jpg
 ---
 
 Poésie dans la ville/ Parcours éphémère
