@@ -22,7 +22,7 @@
                     {{ $image := $resource.Resize "x560" }}
                     {{ with $image }}
                     <div class="carousel-item {{ if $active }} active {{ $active = false }} {{ end }}">
-                        <div class="d-flex justify-content-center"><img src="{{ .RelPermalink }}" alt="{{ $.Title }}"></div>
+                        <div class="d-flex justify-content-center"><img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="img-fluid"></div>
                     </div>
                     {{ end }}
                 {{ end }}
