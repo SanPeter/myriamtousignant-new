@@ -2,7 +2,7 @@
 title: 'Studios Éphémères'
 date: 2021-08-25T16:32:32-04:00
 draft: false
-weight: 21
+weight: 70
 featured: false
 summaryImage: 'images/photo_studio.jpg'
 listImage: 'images/photo_studio.jpg'

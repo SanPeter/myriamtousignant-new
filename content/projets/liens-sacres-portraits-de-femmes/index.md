@@ -2,7 +2,7 @@
 title: 'Liens sacrés, Portraits de femmes / Zocalo'
 date: 2021-08-25T16:31:24-04:00
 draft: false
-weight: 14
+weight: 90
 featured: false
 summaryImage: 'images/Web-zoc-2.png'
 listImage: 'images/Web-zoc-2.png'

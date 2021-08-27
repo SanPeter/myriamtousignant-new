@@ -3,7 +3,7 @@ title: 'Petites mains'
 date: 2021-08-19T18:44:11-04:00
 draft: false
 featured: true
-weight: 1
+weight: 10
 summaryImage: 'images/petites_mains_fullres.jpg'
 listImage: 'images/petites_mains_fullres.jpg'
 projectImages:

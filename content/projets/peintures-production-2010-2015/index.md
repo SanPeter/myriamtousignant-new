@@ -1,7 +1,7 @@
 ---
 title: 'Peintures - Production 2010 / 2015'
 date: 2021-08-25T16:31:42-04:00
-draft: false
+draft: true
 weight: 16
 featured: false
 summaryImage: 'images/toiles-8.jpg'

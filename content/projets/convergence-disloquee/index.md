@@ -1,8 +1,8 @@
 ---
 title: 'Convergence disloquée'
 date: 2021-08-25T16:30:42-04:00
-draft: trfakseue
-weight: 10
+draft: false
+weight: 140
 featured: false
 summaryImage: 'images/Matane-Regnes-1.png'
 listImage: 'images/Matane-Regnes-1.png'

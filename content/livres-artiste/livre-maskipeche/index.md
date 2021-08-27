@@ -3,7 +3,7 @@ type: 'projets'
 title: 'Maskipêche'
 date: 2021-08-26T09:59:17-04:00
 draft: false
-weight: 1
+weight: 20
 featured: false
 summaryImage: 'images/maskipeche-1.jpg'
 listImage: 'images/maskipeche-1.jpg'

@@ -2,7 +2,7 @@
 title: 'Maskipêche oeuvre installative'
 date: 2021-08-25T16:31:34-04:00
 draft: false
-weight: 15
+weight: 60
 featured: false
 summaryImage: 'images/1-MTousignant.jpg'
 listImage: 'images/1-MTousignant.jpg'

@@ -3,7 +3,7 @@ type: 'projets'
 title: 'Fanzines #MoiAussi et Les racines enfouies'
 date: 2021-08-26T09:58:07-04:00
 draft: false
-weight: 1
+weight: 30
 featured: false
 summaryImage: 'images/Zine_3.jpg'
 listImage: 'images/Zine_3.jpg'

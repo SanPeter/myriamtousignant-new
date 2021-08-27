@@ -2,7 +2,7 @@
 title: 'Pour passer au travers - Poésie quotidienne'
 date: 2021-08-25T16:31:57-04:00
 draft: false
-weight: 18
+weight: 50
 featured: false
 summaryImage: 'images/jour24_8avril.jpg'
 listImage: 'images/jour24_8avril.jpg'

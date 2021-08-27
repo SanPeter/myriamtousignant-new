@@ -3,7 +3,7 @@ type: 'projets'
 title: 'Série - Les formes'
 date: 2021-08-24T11:46:51-04:00
 draft: false
-weight: 1
+weight: 10
 featured: false
 summaryImage: ''
 listImage: 'images/livrets-arprim-8.jpg'

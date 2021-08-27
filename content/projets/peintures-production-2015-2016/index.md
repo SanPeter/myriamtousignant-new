@@ -2,7 +2,7 @@
 title: 'Peintures - Production 2015 / 2016'
 date: 2021-08-25T16:31:49-04:00
 draft: false
-weight: 17
+weight: 80
 featured: false
 summaryImage: 'images/fac-2016-1.jpg'
 listImage: 'images/fac-2016-1.jpg'

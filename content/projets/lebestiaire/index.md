@@ -2,7 +2,7 @@
 title: 'Le Bestiaire'
 date: 2021-08-25T16:31:08-04:00
 draft: false
-weight: 13
+weight: 120
 featured: false
 summaryImage: 'images/Bestiaire-9.png'
 listImage: 'images/Bestiaire-9.png'
