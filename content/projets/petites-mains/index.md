@@ -1,5 +1,5 @@
 ---
-title: '« Petites mains » / Projet en cours de réalisation'
+title: 'Petites mains'
 date: 2021-08-19T18:44:11-04:00
 draft: false
 featured: true

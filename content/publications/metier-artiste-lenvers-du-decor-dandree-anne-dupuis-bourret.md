@@ -1,8 +1,9 @@
 ---
 title: "Métier artiste: l'envers du décor d'Andrée-Anne Dupuis Bourret"
 date: 2021-08-24T14:09:55-04:00
-summary: "« À mon avis, les artistes qui réussissent le mieux dans ce milieu sont à l'image de cette créatrice. Ils travaillent tous de façon boulimique et acharnée. »"
 draft: false
+weight: 9
+summary: "« À mon avis, les artistes qui réussissent le mieux dans ce milieu sont à l'image de cette créatrice. Ils travaillent tous de façon boulimique et acharnée. »"
 publicationDate: 'Avril 2016'
 ---
 

@@ -13,10 +13,7 @@ projectImages:
   - images/Web-Zocalo-1-Cara-Dery-copy.png
 ---
 
-Liens sacrés / Portraits de femmes
-
-Présenté à Zocalo du 8 au 22 avril 2013.
-
-crédit photo : Cara Déry
+_Présenté à Zocalo du 8 au 22 avril 2013.  
+crédit photo : Cara Déry_
 
 Liens sacrés / Portraits de femmes, est la deuxième présentation publique de mon travail de recherche mené lors de la maîtrise à l&rsquo;université du Québec à Montréal. Il s&rsquo;agit d&rsquo;une réinterprétation de l&rsquo;exposition présenté en octobre 2012 au CDEx lors de mon exposition de diplômation.

@@ -45,7 +45,7 @@ projectImages:
   - images/jour60_14mai.jpg
 ---
 
-16 mars 2020 - en cours
+_16 mars 2020 - en cours_
 
 « Pour passer au travers » est un projet d’autorésidence qui mènera à la réalisation d’un livre d’artiste, composé de poèmes quotidiens issus d’extraits de journaux produits pendant cette période d’isolement.
 

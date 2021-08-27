@@ -20,7 +20,7 @@ projectImages:
   - images/1-MTousignant.jpg
 ---
 
-Juin 2020
+_Juin 2020_
 
 Je suis une artiste multidisciplinaire qui privilégie les arts d’impressions au sein de sa pratique. Je m’intéresse à conserver et à transmettre notre patrimoine par le biais de l’art. À ma façon, je témoigne de la petite comme de la grande Histoire. Mes projets antérieurs sont ponctués de récits de vie de gens de mon entourage et/ou encore historiques. Avant tout, je souhaite raconter des histoires trouvant écho chez les autres.
 

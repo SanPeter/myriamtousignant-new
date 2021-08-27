@@ -18,4 +18,4 @@ projectImages:
   - images/fac-2016-9.jpg
 ---
 
-crédit photo : Eric St-Pierre
+_crédit photo : Eric St-Pierre_

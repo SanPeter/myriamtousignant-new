@@ -17,13 +17,9 @@ projectImages:
   - images/le-corps-pictural-8.jpg
 ---
 
-Le corps pictural
-
-Exposition de Julien Boily et Myriam Tousignant, 30 janvier au 7 mars 2009
-
-acrylique et huile sur bois, sérigraphie, médiums mixtes, 2006
-
-crédit photo : Steve Leroux
+_Exposition de Julien Boily et Myriam Tousignant, 30 janvier au 7 mars 2009  
+acrylique et huile sur bois, sérigraphie, médiums mixtes, 2006  
+crédit photo : Steve Leroux_
 
 Quelle est la gêne du peintre devant l’image à faire? Quelle est son hésitation? Les couleurs sont pourtant bien à leur place, chacune dans leur tube. Les pinceaux sont sur la table, empêtrés dans la térébenthine ou dans leur étui. Un seul en suspend, attendant l’impulsion fatale, le recoupement nerveux, de l’œil jusqu’à la main qui actualisera la vision du peintre en une image – picturale – nouvelle. Mais quelque chose alourdit le regard de l’artiste, quelque chose comme la présence d’un savoir imagier plié dans son regard et qui l’empêcherait de rapporter directement ce qu’il perçoit du visible. Comme si le médium du peintre, matière colorée appliquée sur un support, était lié résolument à son histoire. Comme si peindre voulait dire peindre avec et par l’histoire.
 

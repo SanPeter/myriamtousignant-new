@@ -19,6 +19,5 @@ projectImages:
   - images/maskipeche-9.jpg
 ---
 
-Production 2015
-
-crédit photo : Eric St-Pierre
+_Production 2015  
+crédit photo : Eric St-Pierre_

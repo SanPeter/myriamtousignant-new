@@ -16,13 +16,9 @@ projectImages:
   - images/1-Bestiaire.png
 ---
 
-Le Bestiaire
-
-Présenté au centre L&rsquo;Écart, 15 oct au 14 nov 2010
-
-Acrylique et huile sur bois,sérigraphie, médiums mixtes, 76 X 76 cm, 2009
-
-crédit photo : Cyclopes
+_Présenté au centre L&rsquo;Écart, 15 oct au 14 nov 2010  
+Acrylique et huile sur bois,sérigraphie, médiums mixtes, 76 X 76 cm, 2009  
+crédit photo : Cyclopes_
 
 Quand la bête devient oeuvre...
 

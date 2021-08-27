@@ -17,5 +17,5 @@ projectImages:
   - images/toiles-1.jpg
 ---
 
-Production 2010 / 2015
-crédit photo : Eric St-Pierre
+_Production 2010 / 2015  
+crédit photo : Eric St-Pierre_

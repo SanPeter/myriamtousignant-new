@@ -28,11 +28,9 @@ projectImages:
   - images/19-LongueuilLesFenetresQuiParlent_resized.jpg
 ---
 
-Poésie dans la ville/ Parcours éphémère
-
-Projet d’art public
-
-Du 12 au 24 août 2020
+_Poésie dans la ville/ Parcours éphémère  
+Projet d’art public  
+Du 12 au 24 août 2020_
 
 Poésie dans la ville est un projet d’art public réalisé dans le cadre de l’appel de projet Les fenêtres qui parlent soutenu par la ville de Longueuil à l’été 2020.
 

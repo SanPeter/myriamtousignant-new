@@ -22,11 +22,9 @@ projectImages:
   - images/Maman-puff.png
 ---
 
-Présenté au CDEx (centre de diffusion et d&rsquo;expérimentation), 15 oct au 20 oct 2012
-
-Sérigraphie sur papier peint et tissus, 30 X 30 cm
-
-Crédit photo : [Atelier Oil and sugar](http://oilandsugar.com)
+_Présenté au CDEx (centre de diffusion et d&rsquo;expérimentation), 15 oct au 20 oct 2012  
+Sérigraphie sur papier peint et tissus, 30 X 30 cm  
+Crédit photo : [Atelier Oil and sugar](http://oilandsugar.com)_
 
 Où réside le sacré et comment le traduire en image ? Cette recherche a pour but d&rsquo;aborder le détournement de la mythologie du sacré au sein d&rsquo;une production picturale. Ici, les éléments du féminin et de l&rsquo;autobiographique prennent la forme de tondi où se déclinent des portraits de femmes. Le tondo fut choisi pour sa symbolique la sphère agissant comme un signe trancendental, où apparaît un visage rappelant l&rsquo;icônicité des madones. Un rapport au temps et à la mémoire s&rsquo;établit dans ce travail par la récupération d&rsquo;artefacts liés au domaine de l&rsquo;intime tels que des photographies provenant d&rsquo;archives personnelles. Ainsi ces tableaux révèlent un processus de transferts techniques à travers plusieurs procédés dont notamment : la photographie, la peinture, la sérigraphie et la broderie.
 
