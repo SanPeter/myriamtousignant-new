@@ -2,35 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://myriamtousignant.com/livres-artiste/livre-maskipeche/</loc>
-    <lastmod>2021-08-26T09:59:17-04:00</lastmod>
-  </url><url>
-    <loc>http://myriamtousignant.com/livres-artiste/fanzines/</loc>
-    <lastmod>2021-08-26T09:58:07-04:00</lastmod>
-  </url><url>
     <loc>http://myriamtousignant.com/projets/</loc>
     <lastmod>2021-08-25T16:32:32-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/livres-artiste/serie-formes/</loc>
-    <lastmod>2021-08-24T11:46:51-04:00</lastmod>
-  </url><url>
-    <loc>http://myriamtousignant.com/projets/petites-mains/</loc>
-    <lastmod>2021-08-19T18:44:11-04:00</lastmod>
-  </url><url>
     <loc>http://myriamtousignant.com/livres-artiste/</loc>
     <lastmod>2021-08-26T09:59:17-04:00</lastmod>
-  </url><url>
-    <loc>http://myriamtousignant.com/projets/fenetres-qui-parlent/</loc>
-    <lastmod>2021-08-19T19:41:45-04:00</lastmod>
   </url><url>
     <loc>http://myriamtousignant.com/publications/</loc>
     <lastmod>2021-08-26T10:10:36-04:00</lastmod>
   </url><url>
     <loc>http://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-jennifer-lupien/</loc>
     <lastmod>2021-08-26T10:09:56-04:00</lastmod>
-  </url><url>
-    <loc>http://myriamtousignant.com/projets/diffuser-confinee/</loc>
-    <lastmod>2021-08-23T11:47:33-04:00</lastmod>
   </url><url>
     <loc>http://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-cynthia-dinan-mithcell/</loc>
     <lastmod>2021-08-26T10:09:37-04:00</lastmod>
@@ -56,44 +38,56 @@
     <loc>http://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-dandree-anne-dupuis-bourret/</loc>
     <lastmod>2021-08-24T14:09:55-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/projets/convergence-disloquee/</loc>
-    <lastmod>2021-08-25T16:30:42-04:00</lastmod>
-  </url><url>
     <loc>http://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-stanley-fevrier/</loc>
     <lastmod>2021-08-24T13:54:56-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/projets/extase-a-emporter/</loc>
-    <lastmod>2021-08-25T16:31:00-04:00</lastmod>
+    <loc>http://myriamtousignant.com/livres-artiste/serie-formes/</loc>
+    <lastmod>2021-08-24T11:46:51-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/projets/le-corps-pictural/</loc>
-    <lastmod>2021-08-25T16:31:17-04:00</lastmod>
+    <loc>http://myriamtousignant.com/projets/petites-mains/</loc>
+    <lastmod>2021-08-19T18:44:11-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/projets/lebestiaire/</loc>
-    <lastmod>2021-08-25T16:31:08-04:00</lastmod>
+    <loc>http://myriamtousignant.com/livres-artiste/livre-maskipeche/</loc>
+    <lastmod>2021-08-26T09:59:17-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/projets/liens-sacres-portraits-de-femmes/</loc>
-    <lastmod>2021-08-25T16:31:24-04:00</lastmod>
+    <loc>http://myriamtousignant.com/projets/fenetres-qui-parlent/</loc>
+    <lastmod>2021-08-19T19:41:45-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/projets/maskipeche/</loc>
-    <lastmod>2021-08-25T16:31:34-04:00</lastmod>
+    <loc>http://myriamtousignant.com/livres-artiste/fanzines/</loc>
+    <lastmod>2021-08-26T09:58:07-04:00</lastmod>
   </url><url>
-    <loc>http://myriamtousignant.com/projets/peintures-production-2010-2015/</loc>
-    <lastmod>2021-08-25T16:31:42-04:00</lastmod>
-  </url><url>
-    <loc>http://myriamtousignant.com/projets/peintures-production-2015-2016/</loc>
-    <lastmod>2021-08-25T16:31:49-04:00</lastmod>
-  </url><url>
-    <loc>http://myriamtousignant.com/projets/poesie-quotidienne/</loc>
-    <lastmod>2021-08-25T16:31:57-04:00</lastmod>
-  </url><url>
-    <loc>http://myriamtousignant.com/projets/portraits-de-femmes-liens-sacres/</loc>
-    <lastmod>2021-08-25T16:32:06-04:00</lastmod>
+    <loc>http://myriamtousignant.com/projets/diffuser-confinee/</loc>
+    <lastmod>2021-08-23T11:47:33-04:00</lastmod>
   </url><url>
     <loc>http://myriamtousignant.com/projets/pour-passer-au-travers/</loc>
     <lastmod>2021-08-25T16:32:15-04:00</lastmod>
   </url><url>
+    <loc>http://myriamtousignant.com/projets/poesie-quotidienne/</loc>
+    <lastmod>2021-08-25T16:31:57-04:00</lastmod>
+  </url><url>
+    <loc>http://myriamtousignant.com/projets/maskipeche/</loc>
+    <lastmod>2021-08-25T16:31:34-04:00</lastmod>
+  </url><url>
     <loc>http://myriamtousignant.com/projets/studios-ephemeres/</loc>
     <lastmod>2021-08-25T16:32:32-04:00</lastmod>
+  </url><url>
+    <loc>http://myriamtousignant.com/projets/peintures-production-2015-2016/</loc>
+    <lastmod>2021-08-25T16:31:49-04:00</lastmod>
+  </url><url>
+    <loc>http://myriamtousignant.com/projets/liens-sacres-portraits-de-femmes/</loc>
+    <lastmod>2021-08-25T16:31:24-04:00</lastmod>
+  </url><url>
+    <loc>http://myriamtousignant.com/projets/portraits-de-femmes-liens-sacres/</loc>
+    <lastmod>2021-08-25T16:32:06-04:00</lastmod>
+  </url><url>
+    <loc>http://myriamtousignant.com/projets/lebestiaire/</loc>
+    <lastmod>2021-08-25T16:31:08-04:00</lastmod>
+  </url><url>
+    <loc>http://myriamtousignant.com/projets/le-corps-pictural/</loc>
+    <lastmod>2021-08-25T16:31:17-04:00</lastmod>
+  </url><url>
+    <loc>http://myriamtousignant.com/projets/convergence-disloquee/</loc>
+    <lastmod>2021-08-25T16:30:42-04:00</lastmod>
   </url><url>
     <loc>http://myriamtousignant.com/</loc>
     <lastmod>2021-08-26T10:10:36-04:00</lastmod>
