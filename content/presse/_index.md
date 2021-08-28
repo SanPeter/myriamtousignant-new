@@ -17,6 +17,6 @@ weight: 5
 
 [Mémoire de création, Portraits de femmes, liens sacrés](docs/memoire-myriam-tousignant.pdf)
 
-[Communiqué de presse Le Bestiaire 30/30/30](http://www.myriamtousignant.com/wp-content/uploads/2013/05/commmtousignant2.pdf)
+[Communiqué de presse Le Bestiaire 30/30/30](docs/commmtousignant2.pdf)
 
-[Le corps pictural, carton invitation](http://www.myriamtousignant.com/wp-content/uploads/2013/05/15-1_cartonlecorpspicturalcaravanserail2009.pdf)
+[Le corps pictural, carton invitation](docs/15-1_cartonlecorpspicturalcaravanserail2009.pdf)
