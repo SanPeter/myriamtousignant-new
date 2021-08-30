@@ -1,6 +1,13 @@
 {{ define "main" }}
     <div class="container">
 
+        <div class="jumbotron jumbotron-fluid mb-5">
+            <div class="container">
+              <h1 class="display-4">{{ .Title }}</h1>
+              <p class="lead">Courte description du projet</p>
+            </div>
+          </div>
+
         <!-- Carousel -->
         {{ with .Params.projectImages}}
         <div id="carouselControls" class="carousel carousel-dark slide mx-auto mb-5" data-bs-ride="carousel" data-bs-interval="false">
@@ -42,7 +49,7 @@
         <!-- Carousel -->
 
         <!-- Page content -->
-        <h1>{{ .Title }}</h1>
+        {{/*}}<h1>{{ .Title }}</h1>{{*/}}
 
         {{ .Content }}
         <!-- END -- Page content -->
