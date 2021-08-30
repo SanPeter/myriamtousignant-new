@@ -23,5 +23,5 @@ Au cours des prochains mois, j’entends également mener des entretiens auprès
 
 Mon objectif est qu'il émerge de ce processus des portraits de femmes intéressants qui témoignent de leur identité culturelle commune et convoque à vivre une expérience artistique. En terminant, je tiens à remercier le Conseil des arts et des lettres du Québec de son appui financier.
 
-[![CALQ](http://www.myriamtousignant.com/wp-content/uploads/2021/03/calq_logo.jpg)](https://www.calq.gouv.qc.ca)
-[![Culture Montérégie](http://www.myriamtousignant.com/wp-content/uploads/2021/03/culture_monteregie_couleur_Modif.png)](https://culturemonteregie.qc.ca/)
+[![CALQ](images/calq_logo.jpg)](https://www.calq.gouv.qc.ca)
+[![Culture Montérégie](images/culture_monteregie_couleur_Modif.png)](https://culturemonteregie.qc.ca/)
