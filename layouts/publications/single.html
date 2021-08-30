@@ -1,7 +1,7 @@
 {{ define "main" }}
     <div class="container">
         <!-- Page content -->
-        <h1 class='mb-5'>{{ .Title }}</h1>
+        {{ partial "jumbotron.html" . }}
 
         {{ partial "social-sharing.html" . }}
         {{ .Content }}
