@@ -1,6 +1,8 @@
 {{ define "main" }}
     <div class="container">
 
+        {{ partial "jumbotron.html" . }}
+
         <!-- Carousel -->
         {{ with .Params.projectImages}}
         <div id="carouselControls" class="carousel carousel-dark slide mx-auto mb-5" data-bs-ride="carousel" data-bs-interval="false">
@@ -40,9 +42,6 @@
         </div> 
         {{ end }}
         <!-- Carousel -->
-
-        <!-- Page content -->
-        <h1>{{ .Title }}</h1>
 
         {{ .Content }}
         <!-- END -- Page content -->

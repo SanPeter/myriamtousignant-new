@@ -3,7 +3,7 @@
         <!-- Page content -->
         <img src="{{ .Params.heroImage }}" alt="{{ .Title }}" class="img-fluid mb-5">
         
-        <h1 class="mb-5">{{ .Title }}</h1>
+        {{ partial "jumbotron.html" . }}
 
         {{ .Content }}
         <!-- END -- Page content -->
