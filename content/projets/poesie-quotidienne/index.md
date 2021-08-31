@@ -1,49 +1,53 @@
 ---
+type: projet-grille
 title: 'Pour passer au travers - Poésie quotidienne'
 date: 2021-08-25T16:31:57-04:00
 draft: false
 weight: 50
 featured: false
-gridLayout: true
 summaryImage: 'images/jour24_8avril.jpg'
 listImage: 'images/jour24_8avril.jpg'
-projectImages:
-  - images/jour24_8avril.jpg
-  - images/jour25_9avril.jpg
-  - images/jour26_10avril.jpg
-  - images/jour27_11avril.jpg
-  - images/jour28_12avril.jpg
-  - images/jour29_13avril.jpg
-  - images/jour30_14avril.jpg
-  - images/jour31_15avril.jpg
-  - images/jour32_16avril.jpg
-  - images/jour33_17avril.jpg
-  - images/jour34_18avril.jpg
-  - images/jour35_19avril.jpg
-  - images/jour36_20avril.jpg
-  - images/jour37_21avril.jpg
-  - images/jour38_22avril.jpg
-  - images/jour39_23avril.jpg
-  - images/jour40_24avril.jpg
-  - images/jour41_25avril.jpg
-  - images/jour42_26avril.jpg
-  - images/jour43_27avril.jpg
-  - images/jour44_28avril.jpg
-  - images/jour45_29avril.jpg
-  - images/jour46_30avril.jpg
-  - images/jour47_1mai.jpg
-  - images/jour48_2mai.jpg
-  - images/jour49_3mai.jpg
-  - images/jour50_4mai.jpg
-  - images/jour51_5mai.jpg
-  - images/jour52_6mai.jpg
-  - images/jour53_7mai.jpg
-  - images/jour54_8mai.jpg
-  - images/jour55_9mai.jpg
-  - images/jour56_10mai.jpg
-  - images/jour57_11mai.jpg
-  - images/jour59_13mai.jpg
-  - images/jour60_14mai.jpg
+grids:
+  - title: 'Poésie - Avril'
+    images:
+      - images/jour24_8avril.jpg
+      - images/jour25_9avril.jpg
+      - images/jour26_10avril.jpg
+      - images/jour27_11avril.jpg
+      - images/jour28_12avril.jpg
+      - images/jour29_13avril.jpg
+      - images/jour30_14avril.jpg
+      - images/jour31_15avril.jpg
+      - images/jour32_16avril.jpg
+      - images/jour33_17avril.jpg
+      - images/jour34_18avril.jpg
+      - images/jour35_19avril.jpg
+      - images/jour36_20avril.jpg
+      - images/jour37_21avril.jpg
+      - images/jour38_22avril.jpg
+      - images/jour39_23avril.jpg
+      - images/jour40_24avril.jpg
+      - images/jour41_25avril.jpg
+      - images/jour42_26avril.jpg
+      - images/jour43_27avril.jpg
+      - images/jour44_28avril.jpg
+      - images/jour45_29avril.jpg
+      - images/jour46_30avril.jpg
+  - title: 'Poésie - Mai'
+    images:
+      - images/jour47_1mai.jpg
+      - images/jour48_2mai.jpg
+      - images/jour49_3mai.jpg
+      - images/jour50_4mai.jpg
+      - images/jour51_5mai.jpg
+      - images/jour52_6mai.jpg
+      - images/jour53_7mai.jpg
+      - images/jour54_8mai.jpg
+      - images/jour55_9mai.jpg
+      - images/jour56_10mai.jpg
+      - images/jour57_11mai.jpg
+      - images/jour59_13mai.jpg
+      - images/jour60_14mai.jpg
 ---
 
 _16 mars 2020 - en cours_
