@@ -1,6 +1,7 @@
 ---
 type: projet-grille
 title: 'Pour passer au travers - Poésie quotidienne'
+description: 'Autorésidence - printemps 2020'
 date: 2021-08-25T16:31:57-04:00
 draft: false
 weight: 50
@@ -49,8 +50,6 @@ grids:
       - images/jour59_13mai.jpg
       - images/jour60_14mai.jpg
 ---
-
-_16 mars 2020 - en cours_
 
 « Pour passer au travers » est un projet d’autorésidence qui mènera à la réalisation d’un livre d’artiste, composé de poèmes quotidiens issus d’extraits de journaux produits pendant cette période d’isolement.
 

@@ -1,5 +1,6 @@
 ---
-title: 'Les fenêtres qui parlent'
+title: 'Les fenêtres qui parlent - Poésie dans la ville'
+description: "Projet d'art public sur le territoire de Longueuil - 2020"
 date: 2021-08-19T19:41:45-04:00
 draft: false
 featured: true
@@ -36,6 +37,6 @@ Poésie dans la ville est un projet d’art public réalisé dans le cadre de l�
 
 « Poésie dans la ville » se propose comme une série d’interventions poétiques in situ qui prend la forme d’un parcours déambulatoire dans la ville. Les poèmes sont tous composés à l’aide de la technique de la poésie par soustraction et abordent principalement les thèmes du territoire et de la culture locale. Un parcours éphémère est ici proposé dans différents lieux dans la ville de Longueuil : Vieux-Longueuil, Métro Drouin Plus, Bibliothèque Raymond-Lévesque et au Parc de la cité).
 
-### Célébrer notre territoire et la culture locale
+##### Célébrer notre territoire et la culture locale
 
 À la manière de microrécits, mes poèmes se déclinent en différent temps (passé, présent et futur). Ces « espaces temps » me permettent de construire une « histoire » et d’émettre une certaine vision des évènements liés à l’actualité. Notamment, concernant la richesse de nos ressources locales en termes de culture et de produits. De la manière dont nous pouvons vivre notre territoire et le commerce. C’est donc un projet qui propose de célébrer notre collectivité à l’aide de la poésie.
