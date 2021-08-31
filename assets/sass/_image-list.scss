@@ -18,3 +18,7 @@
     width: auto !important;
   }
 }
+
+.carousel-item img {
+  object-fit: cover;
+}
