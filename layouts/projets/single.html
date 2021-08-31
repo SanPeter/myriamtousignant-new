@@ -2,8 +2,6 @@
     <div class="container">
         {{ partial "jumbotron.html" . }}
 
-        {{ if not .Params.gridLayout  }}
-        
         {{/* Carousel */}}
         {{ with .Params.projectImages}}
         <div id="carouselControls" class="carousel carousel-dark slide mx-auto mb-5" data-bs-ride="carousel" data-bs-interval="false">
@@ -42,22 +40,9 @@
             </button>        
         </div> 
         {{ end }}
-        {{ end }}
         {{/* END - Carousel */}}
 
         {{ .Content }}
-        
-        {{/* Grid Layout */}}
-        {{ if .Params.gridLayout }}
-        <ul class="row flex-container list-unstyled">
-            {{ range .Params.projectImages }}
-            <li class="col-lg-4 col-md-12">
-                <img src="{{ . }}" alt="" class="img-fluid img-thumbnail mb-4 mh-100 align-bottom">
-            </li>                
-            {{ end }}
-        </ul>            
-        {{ end }}
-        {{/* END - Grid Layout */}}
-
+     
     </div>
 {{ end }}
