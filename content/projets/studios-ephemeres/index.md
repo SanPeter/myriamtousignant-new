@@ -1,5 +1,6 @@
 ---
-title: 'Studios Éphémères'
+title: 'Résidence CAL - Studios Éphémères'
+description: "Documentation de la résidence d'artiste à l'hiver 2019"
 date: 2021-08-25T16:32:32-04:00
 draft: false
 weight: 70
@@ -7,8 +8,6 @@ featured: false
 summaryImage: 'images/photo_studio.jpg'
 listImage: 'images/photo_studio.jpg'
 projectImages:
-  - images/affiche_maskipeche.jpg
-  - images/Image-36.png
   - images/Image-35.png
   - images/Image-34.png
   - images/Image-32.png
@@ -21,22 +20,17 @@ projectImages:
   - images/Image-21.png
   - images/Image-20.png
   - images/Image-19.png
-  - images/Image-17.png
   - images/Image-16.png
   - images/Image-15.png
   - images/Image-14.png
   - images/Image-13.png
   - images/Image-12.png
-  - images/Image-11.png
-  - images/Image-10.png
-  - images/Image-9.png
   - images/Image-8.png
   - images/Image-7.png
   - images/Image-6.png
   - images/Image-5.png
   - images/Image-4.png
   - images/Image.jpg
-  - images/Image-3.jpg
   - images/photo_studio.jpg
 ---
 
