@@ -1,7 +1,7 @@
 baseURL = 'http://myriamtousignant.com/'
 languageCode = 'fr'
 title = 'Myriam Tousignant'
-googleAnalytics = 'UA-79769053-2'
+googleAnalytics = 'G-5FWE4D9ED7'
 publishDir = 'docs'
 
 [params]
