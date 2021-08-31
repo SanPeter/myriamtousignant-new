@@ -1,5 +1,6 @@
 ---
 title: 'Diffuser confiné.e'
+description: "Résidence virtuelle sur le compte Instagram du centre d'artistes Caravansérail"
 date: 2021-08-23T11:47:33-04:00
 draft: false
 weight: 30
