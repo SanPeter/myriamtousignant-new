@@ -3,21 +3,8 @@
         {{ partial "components/jumbotron.html" . }}
 
         {{ .Content }}
-        
-        {{/* Grid Layout */}}
-        {{ range .Params.grids }}
-            {{ with .title }}
-            <h2 class="display-6"> {{ . }}</h2>    
-            {{ end }}
-            <ul class="row flex-container list-unstyled">
-                {{ range .images }}
-                <li class="col-lg-4 col-md-12">
-                    <img src="{{ . }}" alt="" class="img-fluid img-thumbnail mb-4 mh-100 align-bottom">
-                </li>                
-                {{ end }}
-            </ul>            
-        {{ end }}
-        {{/* END - Grid Layout */}}
+
+        {{ partial "components/grid-images.html" .}}
 
     </div>
 {{ end }}

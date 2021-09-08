@@ -1,0 +1,7 @@
+<div class="grid-projets">  
+    <ul class="row flex-container list-unstyled">
+        {{ range where .Site.RegularPages "Section" ($.Scratch.Get "section-type") }}
+            {{ .Render "li" }}
+        {{ end }}
+    </ul>
+</div>

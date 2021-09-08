@@ -1,0 +1,17 @@
+{{/* Grid Layout */}}
+{{ range .Params.grids }}
+    <div class='grid-images'> 
+        {{ with .title }}
+        <h2 class="display-6"> {{ . }}</h2>    
+        {{ end }}
+
+        <ul class="row flex-container list-unstyled">
+            {{ range .images }}
+            <li class="col-lg-4 col-md-12">
+                <img src="{{ . }}" alt="" class="img-fluid img-thumbnail mb-4 mh-100 align-bottom">
+            </li>                
+            {{ end }}
+        </ul>   
+    </div>                 
+{{ end }}
+{{/* END - Grid Layout */}}
