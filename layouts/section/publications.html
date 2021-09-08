@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="container">
-    {{ partial "jumbotron.html" . }}
+    {{ partial "components/jumbotron.html" . }}
     
     <ul class="row list-unstyled">
         {{ range where .Site.RegularPages "Section" "publications"}}

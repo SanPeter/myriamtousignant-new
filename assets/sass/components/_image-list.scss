@@ -12,14 +12,3 @@
   object-fit: cover;
   vertical-align: bottom;
 }
-
-@media (min-width: 576px) {
-  .carousel-item img {
-    width: auto !important;
-  }
-}
-
-.carousel-item img {
-  object-fit: cover;
-  max-height: 100%;
-}

@@ -1,9 +1,9 @@
 {{ define "main" }}
     <div class="container">
         <!-- Page content -->
-        {{ partial "jumbotron.html" . }}
+        {{ partial "components/jumbotron.html" . }}
 
-        {{ partial "social-sharing.html" . }}
+        {{ partial "components/social-icons.html" . }}
         {{ .Content }}
         <!-- END -- Page content -->
     </div>

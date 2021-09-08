@@ -1,46 +1,8 @@
 {{ define "main" }}
     <div class="container">
-        {{ partial "jumbotron.html" . }}
+        {{ partial "components/jumbotron.html" . }}
 
-        {{/* Carousel */}}
-        {{ with .Params.projectImages}}
-        <div id="carouselControls" class="carousel carousel-dark slide mx-auto mb-5" data-bs-ride="carousel" data-bs-interval="false">
-            {{/*  Indicators  */}}
-            <div class="carousel-indicators">
-                {{ $active := true }}
-                {{ $i := 0 }}
-                {{ range $.Params.projectImages }}
-                    <button type="button" data-bs-target="#carouselControls" data-bs-slide-to="{{ $i }}" class="{{ if $active }} active {{ $active = false }} {{ end }}" aria-current="true" aria-label="Image {{ add $i 1 }}"></button>
-                    {{ $i = add $i 1 }}
-                {{ end }}
-            </div>
-            
-            {{/*  Carousel items  */}}
-            <div class="carousel-inner">
-                {{ $active := true }}
-                {{ range $.Params.projectImages }}
-                    {{ $resource := $.Resources.GetMatch . }}
-                    {{ $image := $resource.Resize "x560" }}
-                    {{ with $image }}
-                    <div class="carousel-item {{ if $active }} active {{ $active = false }} {{ end }}">
-                        <div class="d-flex justify-content-center"><img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="img-fluid mb-1"></div>
-                    </div>
-                    {{ end }}
-                {{ end }}
-            </div>
-
-            {{/*  Prev / Next buttons  */}}
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselControls" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Précédent</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselControls" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Suivant</span>
-            </button>        
-        </div> 
-        {{ end }}
-        {{/* END - Carousel */}}
+        {{ partial "components/carousel.html" .}}
 
         {{ .Content }}
      
