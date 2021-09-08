@@ -1,12 +1,9 @@
 {{ define "main" }}
 <div class="container">
 
-    {{ partial "jumbotron.html" . }}
-    
-    <ul class="row flex-container list-unstyled">
-        {{ range where .Site.RegularPages "Section" "projets"}}
-            {{ .Render "li" }}
-        {{ end }}
-    </ul>
+    {{ partial "components/jumbotron.html" . }}
+
+    {{ .Scratch.Set "section-type" "projets"}}
+    {{ partial "components/grid-projets.html" . }}
 </div>
-{{ end }}
+{{ end }} 

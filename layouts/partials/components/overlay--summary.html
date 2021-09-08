@@ -1,0 +1,10 @@
+{{ $resource := .Resources.GetMatch (.Params.summaryImage) }}
+{{ $image := $resource.Resize "x1500" }}
+{{ with $image }}
+    <div class="overlay__container">
+        <img src="{{ $image.RelPermalink }}" alt="{{ $.Title }}" class='img-fluid mb-5 mh-100'>
+        <div class="overlay__middle">   
+            <div class="overlay__summary">{{ $.Title }}</div>
+        </div>
+    </div>
+{{ end }}

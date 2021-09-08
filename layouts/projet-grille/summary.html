@@ -1,14 +1,5 @@
 <div class="summary">
     <a href="{{ .Permalink }}" class=''>
-        {{ $resource := .Resources.GetMatch (.Params.summaryImage) }}
-        {{ $image := $resource.Resize "x1500" }}
-        {{ with $image }}
-            <div class="overlay-container">
-                <img src="{{ $image.RelPermalink }}" alt="{{ $.Title }}" class='img-fluid mb-5'>
-                <div class="middle">   
-                    <div class="overlay-summary">{{ $.Title }}</div>
-                </div>
-            </div>
-        {{ end }}
+        {{ partial "components/overlay--summary.html" .}}
     </a>        
 </div>

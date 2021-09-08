@@ -1,11 +1,10 @@
 {{ define "main" }}
 <div class="container">
-    {{ partial "jumbotron.html" . }}
+    {{ partial "components/jumbotron.html" . }}
     
-    <ul class="row flex-container list-unstyled">
-        {{ range where .Site.RegularPages "Section" "livres-artiste"}}
-            {{ .Render "li" }}
-        {{ end }}
-    </ul>
+
+    {{ .Scratch.Set "section-type" "livres-artiste"}}
+    {{ partial "components/grid-projets.html" . }}
+
 </div>
 {{ end }}
