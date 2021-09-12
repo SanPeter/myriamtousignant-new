@@ -34,6 +34,26 @@ projectImages:
   - images/photo_studio.jpg
 ---
 
+<style>
+.logo--studioephemere {
+  display: block;
+  text-indent: -9999px;
+  width: 100px;
+  height: 82px;
+  background: url(images/studios_ephemeres_logo.svg);
+  background-size: 100px 82px;
+}
+
+.logo--cal {
+  display: block;
+  text-indent: -9999px;
+  width: 200px;
+  height: 64px;
+  background: url(images/cal_logo.svg);
+  background-size: 200px 64px;
+}
+</style>
+
 [Studios de création éphémères pour artistes - Studios Éphémères](https://studiosephemeres.com/?fbclid=IwAR2RKjjgVDVYF8LqA5aT_MVGTZgB53QbzgNkORqPZCClHq9kMizv46tCTIw)
 
 Le Conseil des arts de Longueuil transforme la station de métro Longueuil–Université-de-Sherbrooke en studios éphémères de création pour artistes.
@@ -42,4 +62,5 @@ Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019)
 
 Cette installation entend associer les images fixes, la vidéo et des représentations tridimensionnelles pour proposer une expérience immersive qui explore l’idée de chantier, de coulisse, en lien avec la cabane de pêche et ses constructions précaires dans le paysage québécois.
 
-[studiosephemeres.com](http://studiosephemeres.com/)
+<a class="logo--studioephemere" href="http://studiosephemeres.com/" target="blank">studiosephemeres.com</a>
+<a class="logo--cal" href="https://www.conseildesartsdelongueuil.ca/" target="blank">Conseil des Arts de Longueuil</a>

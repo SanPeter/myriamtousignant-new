@@ -4,6 +4,9 @@ title = 'Myriam Tousignant'
 googleAnalytics = 'G-5FWE4D9ED7'
 publishDir = 'docs'
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 copyrightInfo = '© 2021 Myriam Tousignant Tous Droits Réservés.'
 description = 'Artiste, peintre en art contemporain'

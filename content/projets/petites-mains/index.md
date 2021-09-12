@@ -1,6 +1,7 @@
 ---
 type: projets
 title: 'Petites mains'
+description: 'Projet multidisciplinaire'
 date: 2021-08-19T18:44:11-04:00
 draft: false
 featured: true
@@ -15,6 +16,8 @@ projectImages:
   - images/petites-mains-05.jpg
   - images/petites-mains-06.jpg
 ---
+
+_Automne 2021 - en cours_
 
 Le projet multidisciplinaire Petites mains est né pour donner suite à la découverte des archives personnelles de ma grand-mère maternelle, Réjanne Martin, décédée à l’âge de 94 ans. Ces documents témoignent des nombreux changements survenus lors du siècle dernier et font écho à des enjeux récemment soulevés comme la place qu’occupent les aînés au sein de la société québécoise.
 

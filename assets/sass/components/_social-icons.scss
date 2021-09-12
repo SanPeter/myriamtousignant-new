@@ -1,4 +1,7 @@
 /* social icons */
+
+$icon-color: #212529;
+
 @font-face {
   font-family: 'si';
   src: url('/images/social-icons/socicon.eot');
@@ -65,7 +68,7 @@
       -moz-border-radius: 50px;
       border-radius: 50px;
       margin-right: 5px;
-      color: #212529;
+      color: $icon-color;
     }
   }
 
@@ -127,5 +130,27 @@
   -moz-border-radius: 50px;
   border-radius: 50px;
   margin-right: 5px;
-  color: #212529;
+  color: $icon-color;
+}
+
+.link-social {
+  text-decoration: none;
+  position: relative;
+  display: block;
+
+  color: $icon-color;
+  padding-left: 20px;
+
+  &::before {
+    font-family: si !important;
+    position: absolute;
+    left: 0px;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  &:hover {
+    color: $icon-color;
+  }
 }
