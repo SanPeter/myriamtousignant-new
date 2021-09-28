@@ -9,12 +9,21 @@ weight: 10
 summaryImage: 'images/petites_mains_fullres.jpg'
 listImage: 'images/petites_mains_fullres.jpg'
 projectImages:
-  - images/petites-mains-01.jpg
   - images/petites-mains-02.jpg
   - images/petites-mains-03.jpg
   - images/petites-mains-04.jpg
   - images/petites-mains-05.jpg
   - images/petites-mains-06.jpg
+  - images/petites-mains-10.jpg
+  - images/petites-mains-12.jpg
+  - images/petites-mains-13.jpg
+  - images/petites-mains-14.jpg
+  - images/petites-mains-15.jpg
+  - images/petites-mains-01.jpg
+  - images/petites-mains-07.jpg
+  - images/petites-mains-08.jpg
+  - images/petites-mains-09.jpg
+  - images/petites-mains-11.jpg
 ---
 
 _Automne 2021 - en cours_
