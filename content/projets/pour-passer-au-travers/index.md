@@ -1,5 +1,6 @@
 ---
 title: 'Pour passer au travers'
+description: 'Documentation photographique'
 date: 2021-08-25T16:32:15-04:00
 draft: false
 weight: 40
@@ -29,7 +30,8 @@ projectImages:
   - images/pour-passer-au-travers-20.jpg
 ---
 
-_16 mars 2020 - en cours_
+_Crédits photo: Éric St-Pierre et Myriam Tousignant  
+Printemps - été 2020_
 
 « Pour passer au travers » est un projet d’autorésidence qui mènera à la réalisation d’un livre d’artiste, composé de poèmes quotidiens issus d’extraits de journaux produits pendant cette période d’isolement.
 
