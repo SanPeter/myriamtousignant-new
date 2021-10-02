@@ -8,6 +8,12 @@ featured: false
 summaryImage: 'images/image_accueil_residence.jpg'
 listImage: 'images/image_accueil_residence.jpg'
 projectImages:
+  - images/diffuser-confinee-1.jpg
+  - images/diffuser-confinee-2.jpg
+  - images/diffuser-confinee-3.jpg
+  - images/diffuser-confinee-4.jpg
+  - images/diffuser-confinee-5.jpg
+  - images/diffuser-confinee-6.jpg
   - images/DSC3066.jpg
   - images/DSC3068.jpg
   - images/DSC3070.jpg
@@ -18,10 +24,10 @@ projectImages:
   - images/DSC3077.jpg
   - images/DSC3078.jpg
   - images/DSC3081.jpg
-  - images/1-MTousignant.jpg
 ---
 
-_Juin 2020_
+_Crédits photo: Éric St-Pierre et Myriam Tousignant  
+Juin 2020_
 
 Je suis une artiste multidisciplinaire qui privilégie les arts d’impressions au sein de sa pratique. Je m’intéresse à conserver et à transmettre notre patrimoine par le biais de l’art. À ma façon, je témoigne de la petite comme de la grande Histoire. Mes projets antérieurs sont ponctués de récits de vie de gens de mon entourage et/ou encore historiques. Avant tout, je souhaite raconter des histoires trouvant écho chez les autres.
 
@@ -33,7 +39,7 @@ J’ai amorcé en avril dernier un projet d’écriture comme pratique quotidien
 
 C’est avec une grande joie que je prends le contrôle du compte Instagram de Caravansérail lors de cette résidence virtuelle. Je vous invite à découvrir le processus à l’œuvre dans mon projet d’écriture poétique « Pour passer au travers ».
 
-Bonne découverte. N’hésitez pas à commenter et à partager
+Bonne découverte.
 
 <a href="https://www.caravanserail.org/" target="blank">
   <svg class="Logo" width="249px" height="171px" viewBox="0 0 249 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
