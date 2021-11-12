@@ -4,3 +4,5 @@
 
 # Nodejs modules
 /node_modules/
+
+.vs/
