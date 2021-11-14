@@ -1,0 +1,27 @@
+{
+  "name": "repos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "embla-carousel": "^4.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch": "hugo server",
+    "build": "hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanPeter/myriamtousignant-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanPeter/myriamtousignant-new/issues"
+  },
+  "homepage": "https://github.com/SanPeter/myriamtousignant-new#readme"
+}
