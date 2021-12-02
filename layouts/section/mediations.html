@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="container">
+    {{ partial "components/jumbotron.html" . }}
+    
+
+    {{ .Scratch.Set "section-type" "mediations"}}
+    {{ partial "components/grid-projets.html" . }}
+
+</div>
+{{ end }}
