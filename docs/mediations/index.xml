@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Médiations on Myriam Tousignant</title>
+    <link>https://myriamtousignant.com/mediations/</link>
+    <description>Recent content in Médiations on Myriam Tousignant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 01 Nov 2021 10:00:00 -0400</lastBuildDate><atom:link href="https://myriamtousignant.com/mediations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Médiation - Centre Culturel George-Vanier</title>
+      <link>https://myriamtousignant.com/mediations/ccgv/</link>
+      <pubDate>Mon, 01 Nov 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://myriamtousignant.com/mediations/ccgv/</guid>
+      <description>Atelier de poésie visuelle et création d’un fanzine
+Animatrice : Myriam Tousignant
+CCGV, Centre culturel Georges-Vanier
+Série de 3 ateliers
+octobre - novembre 2021
+Lien site web: Poésie visuelle et création d’un fanzine (ccgv.ca)
+Cette série de trois ateliers créatifs a été offerte à l’automne 2021 au centre culturel Georges-Vanier à Montréal. Les participantes ont eu l’occasion de découvrir l’univers créatif de la poésie visuelle et des fanzines en créant leur propre petite publication.</description>
+    </item>
+    
+  </channel>
+</rss>
