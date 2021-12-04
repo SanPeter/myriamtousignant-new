@@ -80,7 +80,7 @@ Dans l’installation Maskipêche les images fixes, la projection et les représ
       <pubDate>Wed, 25 Aug 2021 16:32:32 -0400</pubDate>
       
       <guid>https://myriamtousignant.com/projets/studios-ephemeres/</guid>
-      <description>.logo--studioephemere {display: block;text-indent: -9999px;width: 100px;height: 82px;background: url(images/studios_ephemeres_logo.svg);background-size: 100px 82px;}.logo--cal {display: block;text-indent: -9999px;width: 200px;height: 64px;background: url(images/cal_logo.svg);background-size: 200px 64px;}Studios de création éphémères pour artistes - Studios Éphémères
+      <description>.logo--studioephemere { display: block; text-indent: -9999px; width: 100px; height: 82px; background: url(images/studios_ephemeres_logo.svg); background-size: 100px 82px; } .logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Studios de création éphémères pour artistes - Studios Éphémères
 Le Conseil des arts de Longueuil transforme la station de métro Longueuil–Université-de-Sherbrooke en studios éphémères de création pour artistes.
 Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019) aux Studios Éphémères au métro Longueuil.</description>
     </item>
