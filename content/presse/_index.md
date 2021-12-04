@@ -5,6 +5,10 @@ draft: false
 weight: 5
 ---
 
+##### Décembre 2021
+
+[Septième résidence Instagram : découvrez l'artiste Myriam Tousignant](https://culturemonteregie.qc.ca/septieme-residence-instagram-decouvrez-lartiste-myriam-tousignant/)
+
 ##### Mars 2021
 
 ["Petites mains"/ Une histoire de famille, entrevue pour l'émission Studio Direct sur TVRS, Jeudi 11 mars 2021, 6min13 sec.](https://www.tvrs.ca/emissions/studio-direct/sur-demande?show=199980&fbclid=IwAR29q90fOyEs-Fvl8u9q3Kne_PvFkDJlMRsQ5wokHdIFWNe16p5UU06SuCg)
