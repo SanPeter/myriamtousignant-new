@@ -32,14 +32,14 @@ projectImages:
 
 _Atelier de poésie visuelle et création d’un fanzine  
 Animatrice : Myriam Tousignant  
-CCGV, Centre culturel Georges-Vanier_
+CCGV, Centre Culturel Georges-Vanier_
 
 _Série de 3 ateliers  
 octobre - novembre 2021_
 
 Lien site web: [Poésie visuelle et création d’un fanzine (ccgv.ca)](https://www.ccgv.ca/formation/poesie-visuelle-et-creation-dun-fanzine/)
 
-Cette série de trois ateliers créatifs a été offerte à l’automne 2021 au centre culturel Georges-Vanier à Montréal. Les participantes ont eu l’occasion de découvrir l’univers créatif de la poésie visuelle et des fanzines en créant leur propre petite publication.
+Cette série de trois ateliers créatifs a été offerte à l’automne 2021 au Centre Culturel Georges-Vanier à Montréal. Les participantes ont eu l’occasion de découvrir l’univers créatif de la poésie visuelle et des fanzines en créant leur propre petite publication.
 
 L’objectif était de se familiariser à cet univers qui combine les arts visuels à la littérature, en plus de découvrir des artistes et poètes afin de stimuler la créativité.
 
@@ -49,4 +49,10 @@ Ces rencontres ont été l’occasion unique de découvrir différentes stratég
 
 Un lancement au printemps 2022 est prévu, comprenant les fanzines des deux cohortes de l’année au CCGV.
 
-[![CCGV](images/logo_CCGV.jpg)](https://www.ccgv.ca/)
+{{<rawhtml>}}
+<p>
+  <a href="https://www.ccgv.ca/">
+    <img src="images/logo_CCGV.jpg" alt="CCGV" style="max-width: 200px;">
+  </a>
+</p>
+{{</rawhtml>}}
