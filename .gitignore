@@ -6,3 +6,8 @@
 /node_modules/
 
 .vs/
+
+.DS_Store
+content/.DS_Store
+content/mediations/.DS_Store
+content/mediations/ccgv/.DS_Store

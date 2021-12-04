@@ -9,6 +9,11 @@ weight: 10
 summaryImage: 'images/mediation-ccgv-00.jpg'
 listImage: 'images/mediation-ccgv-00.jpg'
 projectImages:
+  - images/fanzine-ccgv-01.jpg
+  - images/fanzine-ccgv-02.jpg
+  - images/fanzine-ccgv-03.jpg
+  - images/fanzine-ccgv-04.jpg
+  - images/fanzine-ccgv-05.jpg    
   - images/mediation-ccgv-00.jpg
   - images/mediation-ccgv-01.jpg
   - images/mediation-ccgv-21.jpg
