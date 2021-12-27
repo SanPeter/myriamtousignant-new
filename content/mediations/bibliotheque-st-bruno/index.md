@@ -1,7 +1,7 @@
 ---
 type: projets
 title: 'Médiation - Bibliothèque St-Bruno'
-description: "Atelier de d'initiation à la poésie visuelle"
+description: "Atelier d'initiation à la poésie visuelle"
 date: 2021-12-04T10:00:00-04:00
 draft: false
 featured: false
