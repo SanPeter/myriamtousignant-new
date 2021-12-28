@@ -7,6 +7,10 @@ weight: 5
 
 ##### Décembre 2021
 
+[Culture Montérégie dévoile sa 2e cohorte des résidences Instagram](https://www.fm1033.ca/culture-monteregie-devoile-sa-2e-cohorte-des-residences-instagram/)
+
+[Quatre artistes de la Montérégie choisis pour la 2e cohorte des résidences Instagram de Culture Montérégie](https://www.valleedurichelieuexpress.ca/actualites/culturel/445084/quatre-artistes-de-la-monteregie-choisis-pour-la-2e-cohorte-des-residences-instagram-de-culture-monteregie)
+
 [Septième résidence Instagram : découvrez l'artiste Myriam Tousignant](https://culturemonteregie.qc.ca/septieme-residence-instagram-decouvrez-lartiste-myriam-tousignant/)
 
 ##### Mars 2021
