@@ -28,6 +28,8 @@ projectImages:
 
 _Automne 2021 - en cours_
 
+{{< video "videos/entrevue_maman.mp4" "d-flex justify-content-center my-5" >}}
+
 Le projet multidisciplinaire Petites mains est né pour donner suite à la découverte des archives personnelles de ma grand-mère maternelle, Réjanne Martin, décédée à l’âge de 94 ans. Ces documents témoignent des nombreux changements survenus lors du siècle dernier et font écho à des enjeux récemment soulevés comme la place qu’occupent les aînés au sein de la société québécoise.
 
 Depuis plusieurs mois, je développe une correspondance avec des femmes âgées de plus de 65 ans dans le but de découvrir leur parcours de vie et de collecter des images provenant de leur archive personnelle. Les sujets de la maternité, de l’enfance et du mariage font partie des thèmes qui ont été abordés jusqu’à présent. Les nombreuses photographies qui m’ont été partagées me permettent de développer une nouvelle série de dessins. Ces dessins sont par la suite numérisés puis imprimés pour la création de tissages de papier.
