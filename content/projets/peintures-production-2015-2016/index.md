@@ -17,5 +17,6 @@ projectImages:
   - images/fac-2016-8.jpg
   - images/fac-2016-9.jpg
 ---
+{{< carousel >}}
 
 _crédit photo : Eric St-Pierre_

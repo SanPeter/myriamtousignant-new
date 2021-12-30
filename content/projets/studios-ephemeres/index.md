@@ -33,7 +33,7 @@ projectImages:
   - images/Image.jpg
   - images/photo_studio.jpg
 ---
-
+{{< carousel >}}
 <style>
 .logo--studioephemere {
   display: block;

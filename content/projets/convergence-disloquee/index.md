@@ -9,6 +9,7 @@ listImage: 'images/Matane-Regnes-1.png'
 projectImages:
   - images/Matane-Regnes-1.png
 ---
+{{< carousel >}}
 
 _Exposition collective, Galerie d&rsquo;Art de Matane, 26 juin au 28 août 2008  
 Série Règnes, Acrylique et huile sur bois, sérigraphie, 2006  

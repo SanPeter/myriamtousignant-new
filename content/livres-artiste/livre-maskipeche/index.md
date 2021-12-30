@@ -18,6 +18,6 @@ projectImages:
   - images/maskipeche-8.jpg
   - images/maskipeche-9.jpg
 ---
-
+{{< carousel >}}
 _Production 2015  
 crédit photo : Eric St-Pierre_

@@ -28,7 +28,7 @@ projectImages:
   - images/St-Bruno_14.jpg
   - images/St-Bruno_15.jpg   
 ---
-
+{{< carousel >}}
 _Atelier «Y’a pas d’âge pour…créer de la poésie!»  
 Mardi 21 septembre 2021 - 19 h à 21 h  
 À la bibliothèque Saint-Bruno pour les 18 ans et +  

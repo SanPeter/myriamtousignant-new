@@ -15,6 +15,7 @@ projectImages:
   - images/Bestiaire-6.png
   - images/1-Bestiaire.png
 ---
+{{< carousel >}}
 
 _Présenté au centre L&rsquo;Écart, 15 oct au 14 nov 2010  
 Acrylique et huile sur bois,sérigraphie, médiums mixtes, 76 X 76 cm, 2009  

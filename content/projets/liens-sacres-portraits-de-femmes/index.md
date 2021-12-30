@@ -12,6 +12,7 @@ projectImages:
   - images/Web-6-zoc.png
   - images/Web-Zocalo-1-Cara-Dery-copy.png
 ---
+{{< carousel >}}
 
 _Présenté à Zocalo du 8 au 22 avril 2013.  
 crédit photo : Cara Déry_

@@ -16,6 +16,7 @@ projectImages:
   - images/le-corps-pictural-7.jpg
   - images/le-corps-pictural-8.jpg
 ---
+{{< carousel >}}
 
 _Exposition de Julien Boily et Myriam Tousignant, 30 janvier au 7 mars 2009  
 acrylique et huile sur bois, sérigraphie, médiums mixtes, 2006  

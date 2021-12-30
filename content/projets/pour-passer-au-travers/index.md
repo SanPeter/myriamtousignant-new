@@ -29,7 +29,7 @@ projectImages:
   - images/pour-passer-au-travers-19.jpg
   - images/pour-passer-au-travers-20.jpg
 ---
-
+{{< carousel >}}
 _Crédits photo: Éric St-Pierre et Myriam Tousignant  
 Printemps - été 2020_
 

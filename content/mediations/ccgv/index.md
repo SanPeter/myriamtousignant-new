@@ -34,7 +34,7 @@ projectImages:
   - images/mediation-ccgv-24.jpg
   - images/mediation-ccgv-25.jpg
 ---
-
+{{< carousel >}}
 _Atelier de poésie visuelle et création d’un fanzine  
 Animatrice : Myriam Tousignant  
 CCGV, Centre Culturel Georges-Vanier_

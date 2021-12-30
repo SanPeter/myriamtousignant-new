@@ -21,6 +21,7 @@ projectImages:
   - images/Serie-Puff-2.png
   - images/Maman-puff.png
 ---
+{{< carousel >}}
 
 _Présenté au CDEx (centre de diffusion et d&rsquo;expérimentation), 15 oct au 20 oct 2012  
 Sérigraphie sur papier peint et tissus, 30 X 30 cm  

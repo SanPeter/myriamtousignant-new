@@ -19,7 +19,7 @@ projectImages:
   - images/10-MTousignant.jpg
   - images/affiche_maskipeche.jpg
 ---
-
+{{< carousel >}}
 _Janvier à Avril 2019_
 
 Dans l’installation Maskipêche les images fixes, la projection et les représentations tri-dimensionnelles s’entrecroisent afin de proposer une expérience immersive qui explore l’idée de chantier, de coulisse, en lien avec la cabane de pêche et ses constructions précaires dans le paysage québécois. L'idée de ce projet est née d'une courte nouvelle écrite par ma soeur. Il s'agit d'un hommage à notre père et le récit nous livre l'incroyable histoire d'un citadin qui décida le temps d'une saison de devenir pourvoyeur de pêche blanche. Maskipêche est le nom de la pourvoirie bâtie sur les berges du lac St-Pierre.

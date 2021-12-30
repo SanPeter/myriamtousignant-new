@@ -26,6 +26,8 @@ projectImages:
   - images/DSC3081.jpg
 ---
 
+{{< carousel >}}
+
 _Crédits photo: Éric St-Pierre et Myriam Tousignant  
 Juin 2020_
 

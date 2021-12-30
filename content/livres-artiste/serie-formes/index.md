@@ -20,7 +20,7 @@ projectImages:
   - images/livrets-arprim-17.jpg
   - images/livrets-arprim-18.jpg
 ---
-
+{{< carousel >}}
 _Série - Les formes: Triangle isocèle et Losange  
 Production 2016  
 crédit photo : Eric St-Pierre_
