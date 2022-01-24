@@ -1,4 +1,29 @@
-<footer class='footer position-fixed bottom-0 start-0 w-100 bg-light'>
-    <p>{{ .Site.Params.copyrightInfo }}</p>
+<footer class='footer row d-flex w-100 bg-light p-3'>
+    <div class="col-3">
+        <h4 style="font-weight: 500">Myriam Tousignant</h4>
+        <p>{{ .Site.Params.copyrightInfo }}</p>
+    </div>
+    <div class="col-md"></div>
+    <div class="col-md justify-content-center">
+        <h5 style="font-weight: 500; border-bottom: 1px solid rgb(216, 222, 233)">Réalisations</h5>
+        <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="/projets" class="nav-link p-0 text-muted">Projets</a></li>
+            <li class="nav-item mb-2"><a href="/mediations/" class="nav-link p-0 text-muted">Médiations</a></li>
+            <li class="nav-item mb-2"><a href="/livres-artiste/" class="nav-link p-0 text-muted">Livres d'artiste</a></li>
+        </ul>
+    </div>
+    <div class="col-md">
+        <h5 style="font-weight: 500; border-bottom: 1px solid rgb(216, 222, 233)">Publications</h5>
+        <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="/publications/" class="nav-link p-0 text-muted">Publications</a></li>
+            <li class="nav-item mb-2"><a href="/presse/" class="nav-link p-0 text-muted">Presse</a></li>
+        </ul>
+    </div>
+    <div class="col-md">
+        <h5 style="font-weight: 500; border-bottom: 1px solid rgb(216, 222, 233)">Biographie</h5>
+        <ul class="nav flex-column">
+            <li class="nav-item mb-2"><a href="/biographie-demarche/" class="nav-link p-0 text-muted">Biographie & démarche</a></li>
+        </ul>
+    </div>    
 </footer>
 
