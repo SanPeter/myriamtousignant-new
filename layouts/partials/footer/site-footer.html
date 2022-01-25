@@ -1,29 +1,34 @@
-<footer class='footer row d-flex w-100 bg-light p-3'>
-    <div class="col-3">
-        <h4 style="font-weight: 500">Myriam Tousignant</h4>
-        <p>{{ .Site.Params.copyrightInfo }}</p>
+<footer class="footer d-flex flex-column-reverse flex-lg-row justify-content-between w-100 bg-light p-3 mt-5">
+    <div class="text-center text-lg-start mt-4 mt-lg-0 pt-1" style="border-top: 1px solid rgb(216, 222, 233)">
+        <h5 class="" >Myriam Tousignant</h5>
+        <p class="">{{ .Site.Params.copyrightInfo }}</p>
     </div>
-    <div class="col-md"></div>
-    <div class="col-md justify-content-center">
-        <h5 style="font-weight: 500; border-bottom: 1px solid rgb(216, 222, 233)">Réalisations</h5>
-        <ul class="nav flex-column">
-            <li class="nav-item mb-2"><a href="/projets" class="nav-link p-0 text-muted">Projets</a></li>
-            <li class="nav-item mb-2"><a href="/mediations/" class="nav-link p-0 text-muted">Médiations</a></li>
-            <li class="nav-item mb-2"><a href="/livres-artiste/" class="nav-link p-0 text-muted">Livres d'artiste</a></li>
-        </ul>
+    <div class="d-flex flex-column flex-lg-row align-items-center align-items-lg-start pe-lg-3">
+        <div class="pe-5 me-lg-5">
+            <h5 class="" style="border-bottom: 1px solid rgb(216, 222, 233)">Réalisations</h5>
+            <ul class="nav flex-column">
+                <li class="nav-item mb-2"><a href="/projets" class="nav-link p-0 text-muted">Projets</a></li>
+
+                <li class="nav-item mb-2"><a href="/mediations/" class="nav-link p-0 text-muted">Médiations</a></li>
+                <li class="nav-item mb-2"><a href="/livres-artiste/" class="nav-link p-0 text-muted">Livres d'artiste</a></li>
+            </ul>
+        </div>
+    
+        <div class="pt-3 pt-lg-0 pe-5 me-lg-5">
+            <h5 class="" style="border-bottom: 1px solid rgb(216, 222, 233)">Publications</h5>
+            <ul class="nav flex-column">
+                <li class="nav-item mb-2"><a href="/publications/" class="nav-link p-0 text-muted">Publications</a></li>
+                <li class="nav-item mb-2"><a href="/presse/" class="nav-link p-0 text-muted">Presse</a></li>
+    
+            </ul>
+        </div>
+
+        <div class="pt-3 pt-lg-0 pe-lg-3">
+            <h5 class="" style="border-bottom: 1px solid rgb(216, 222, 233)">Biographie</h5>
+            <ul class="nav flex-column">
+                <li class="nav-item mb-2"><a href="/biographie-demarche/" class="nav-link p-0 text-muted">Biographie & démarche</a></li>
+            </ul>
+        </div>        
     </div>
-    <div class="col-md">
-        <h5 style="font-weight: 500; border-bottom: 1px solid rgb(216, 222, 233)">Publications</h5>
-        <ul class="nav flex-column">
-            <li class="nav-item mb-2"><a href="/publications/" class="nav-link p-0 text-muted">Publications</a></li>
-            <li class="nav-item mb-2"><a href="/presse/" class="nav-link p-0 text-muted">Presse</a></li>
-        </ul>
-    </div>
-    <div class="col-md">
-        <h5 style="font-weight: 500; border-bottom: 1px solid rgb(216, 222, 233)">Biographie</h5>
-        <ul class="nav flex-column">
-            <li class="nav-item mb-2"><a href="/biographie-demarche/" class="nav-link p-0 text-muted">Biographie & démarche</a></li>
-        </ul>
-    </div>    
 </footer>
 
