@@ -1,4 +1,36 @@
-<footer class='footer position-fixed bottom-0 start-0 w-100 bg-light'>
-    <p>{{ .Site.Params.copyrightInfo }}</p>
+<footer class="footer w-100 bg-light p-3 mt-5">
+    <div class="w-75 mx-auto d-flex flex-column-reverse flex-lg-row justify-content-between ">
+        <div class="mt-4 mt-lg-0 pt-1 me-lg-5">
+            <!-- border-top: 1px solid rgb(216, 222, 233) -->
+            <h5 class="fw-bold text-uppercase" >Myriam Tousignant</h5>
+            <p>{{ .Site.Params.copyrightInfo }}</p>
+        </div>
+        <div class="d-flex flex-column flex-lg-row pe-lg-3">
+            <div class="pe-lg-5 me-lg-5">
+                <h5 class="text-uppercase">Réalisations</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item mb-2"><a href="/projets" class="nav-link p-0">Projets</a></li>
+    
+                    <li class="nav-item mb-2"><a href="/mediations/" class="nav-link p-0">Médiations</a></li>
+                    <li class="nav-item mb-2"><a href="/livres-artiste/" class="nav-link p-0">Livres d'artiste</a></li>
+                </ul>
+            </div>
+        
+            <div class="pt-3 pt-lg-0 pe-lg-5 me-lg-5">
+                <h5 class="text-uppercase">Publications</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item mb-2"><a href="/publications/" class="nav-link p-0">Publications</a></li>
+                    <li class="nav-item mb-2"><a href="/presse/" class="nav-link p-0">Presse</a></li>
+        
+                </ul>
+            </div>
+    
+            <div class="pt-3 pt-lg-0 pe-lg-3">
+                <h5 class="text-uppercase" >Biographie</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item mb-2"><a href="/biographie-demarche/" class="nav-link p-0">Biographie & démarche</a></li>
+                </ul>
+            </div>        
+        </div>
+    </div>
 </footer>
-

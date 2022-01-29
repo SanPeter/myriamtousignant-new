@@ -37,10 +37,10 @@
     {{ end }}
 </head>
 <body>
-    <div style="padding-bottom: 60px;">
+    <div class="d-flex flex-column justify-content-between min-vh-100">
         {{ partial "header/site-header.html" . }}
-
-        <div class="mt-4">
+           
+        <div class="mt-4 w-75 mx-auto">
             {{ block "main" . }}{{ end }}
         </div>
     
