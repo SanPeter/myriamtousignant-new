@@ -13,16 +13,11 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="/projets/petites-mains/">Petites mains</a>
+                    {{ $pageTitle := "Petites mains" }}
+                    {{ $pageUrl := "/projets/petites-mains/" }}
+                    {{ $active := eq $.Title $pageTitle }}
+                    <a class="nav-link {{ if $active }} fw-bolder {{ end }}" href="{{ $pageUrl }}">{{ $pageTitle }}</a>
                 </li>
-
-{{/*                {{ range .Site.Sections }}
-                    <li class="nav-item">
-                        {{ $active := eq $.Section .Section }}
-                        <a class="nav-link {{ if $active }} active {{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
-                    </li>
-            {{ end }}
-*/}}
             </ul>
         </div>
     </div>
