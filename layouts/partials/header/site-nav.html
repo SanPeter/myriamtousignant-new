@@ -12,12 +12,9 @@
                     <a class="nav-item-social soc-instagram bg-light text-muted" target="blank" title="Instagram" href="{{ .Site.Params.instagram }}"></a>
                 </li>
 
-                <li class="nav-item">
-                    {{ $pageTitle := "Petites mains" }}
-                    {{ $pageUrl := "/projets/petites-mains/" }}
-                    {{ $active := eq $.Title $pageTitle }}
-                    <a class="nav-link {{ if $active }} fw-bolder {{ end }}" href="{{ $pageUrl }}">{{ $pageTitle }}</a>
-                </li>
+                {{ range where .Site.Pages "Params.HeaderFeatured" true }}
+                    {{ partial "header/link-header" (dict "context" . "title" $.Title)}}
+                {{ end }}
             </ul>
         </div>
     </div>

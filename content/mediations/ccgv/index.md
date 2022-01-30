@@ -5,7 +5,8 @@ description: 'Atelier de poésie visuelle et création d’un fanzine'
 date: 2021-11-01T10:00:00-04:00
 draft: false
 featured: false
-weight: 10
+weight: 15
+headerFeatured: false
 summaryImage: 'images/mediation-ccgv-00.jpg'
 listImage: 'images/mediation-ccgv-00.jpg'
 projectImages:
