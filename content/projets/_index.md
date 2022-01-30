@@ -1,4 +1,5 @@
 ---
 title: 'Projets'
-weight: 1
+weight: 20
+headerFeatured: true
 ---
