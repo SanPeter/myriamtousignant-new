@@ -1,0 +1,6 @@
+{{ range (where .sections "Title" .title) }}
+<li class="nav-item mb-2">
+    {{ $active := eq $.linkSection .Section }}
+    <a class="nav-link p-0 {{ if $active }} fw-bolder {{ end }}" href="{{ .Permalink }}">{{ .Title }}</a>
+</li>
+{{ end }}

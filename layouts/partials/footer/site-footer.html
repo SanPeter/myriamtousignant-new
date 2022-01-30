@@ -9,26 +9,24 @@
             <div class="pe-lg-5 me-lg-5">
                 <h5 class="text-uppercase">Réalisations</h5>
                 <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="/projets" class="nav-link p-0">Projets</a></li>
-    
-                    <li class="nav-item mb-2"><a href="/mediations/" class="nav-link p-0">Médiations</a></li>
-                    <li class="nav-item mb-2"><a href="/livres-artiste/" class="nav-link p-0">Livres d'artiste</a></li>
+                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Projets") }}
+                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Médiations") }}
+                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Livres d'artiste") }}
                 </ul>
             </div>
         
             <div class="pt-3 pt-lg-0 pe-lg-5 me-lg-5">
                 <h5 class="text-uppercase">Publications</h5>
                 <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="/publications/" class="nav-link p-0">Publications</a></li>
-                    <li class="nav-item mb-2"><a href="/presse/" class="nav-link p-0">Presse</a></li>
-        
+                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Publications") }}
+                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Presse") }}
                 </ul>
             </div>
     
             <div class="pt-3 pt-lg-0 pe-lg-3">
                 <h5 class="text-uppercase" >Biographie</h5>
                 <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="/biographie-demarche/" class="nav-link p-0">Biographie & démarche</a></li>
+                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Biographie & démarche") }}
                 </ul>
             </div>        
         </div>
