@@ -6,6 +6,10 @@ weight: 5
 ---
 ##### Février 2022
 
+[Maskipêche : un hommage personnel à la nordicité](https://www.lecourrierdusud.ca/maskipeche-un-hommage-personnel-a-la-nordicite/)
+
+[Myriam Tousignant : Maskipêche - DICI](https://dici.ca/evenements/myriam-tousignant-maskipeche-1)
+
 [Communiqué de presse Maskipêche](docs/maskipeche-fev2022.pdf)
 
 ##### Décembre 2021
