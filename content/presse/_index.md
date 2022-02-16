@@ -6,6 +6,8 @@ weight: 5
 ---
 ##### Février 2022
 
+[Zone Campus - Atelier Presse Papier: Myriam Tousignant | «Maskipêche»](https://zonecampus.ca/atelier-presse-papier-myriam-tousignant-maskipeche/)
+
 [Maskipêche : un hommage personnel à la nordicité](https://www.lecourrierdusud.ca/maskipeche-un-hommage-personnel-a-la-nordicite/)
 
 [Myriam Tousignant : Maskipêche - DICI](https://dici.ca/evenements/myriam-tousignant-maskipeche-1)
