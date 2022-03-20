@@ -12,6 +12,19 @@ projectImages:
   - images/presse-papier-03.jpg
   - images/presse-papier-04.jpg
   - images/presse-papier-05.jpg
+  - images/presse-papier-06.jpg
+  - images/presse-papier-07.jpg
+  - images/presse-papier-08.jpg
+  - images/presse-papier-09.jpg
+  - images/presse-papier-10.jpg
+  - images/presse-papier-11.jpg
+  - images/presse-papier-12.jpg
+  - images/presse-papier-13.jpg
+  - images/presse-papier-14.jpg
+  - images/presse-papier-15.jpg
+  - images/presse-papier-16.jpg
+  - images/presse-papier-17.jpg
+  - images/presse-papier-18.jpg
 ---
 
 _10 février au 13 mars 2022  
