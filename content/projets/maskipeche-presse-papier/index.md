@@ -3,7 +3,7 @@ title: 'Maskipêche - Exposition au centre de diffusion Presse Papier de Trois-R
 date: 2022-02-13T10:00:00-04:00
 draft: false
 weight: 5
-featured: true
+featured: false
 summaryImage: 'images/presse-papier-02.jpg'
 listImage: 'images/presse-papier-02.jpg'
 projectImages:

@@ -10,7 +10,9 @@
            </a>
        </div>
        */}}
-
+    {{ range where (where .Site.Pages "Section" "mediations") "Params.Featured" true }}
+       {{ .Render "summary" }}
+   {{ end }}
     {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true }}
         {{ .Render "summary" }}
     {{ end }}
