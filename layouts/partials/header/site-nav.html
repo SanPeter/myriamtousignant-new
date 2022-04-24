@@ -10,11 +10,15 @@
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item mt-1">
                     <a class="nav-item-social soc-instagram bg-light text-muted" target="blank" title="Instagram" href="{{ .Site.Params.instagram }}"></a>
-                </li>
+                </li>              
 
                 {{ range where .Site.Pages "Params.HeaderFeatured" true }}
                     {{ partial "header/link-header" (dict "context" . "title" $.Title)}}
                 {{ end }}
+
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ .Site.Params.onlineshop }}">Boutique</a>
+                </li>                  
             </ul>
         </div>
     </div>
