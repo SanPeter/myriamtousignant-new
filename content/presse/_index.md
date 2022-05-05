@@ -4,6 +4,10 @@ date: 2021-08-24T14:37:58-04:00
 draft: false
 weight: 5
 ---
+##### Mai 2022
+
+[Exposition Tête-à-tête | du 3 au 29 mai | Vernissage le 5 mai - Zocalo (zocaloweb.org)](https://zocaloweb.org/exposition-tete-a-tete/?fbclid=IwAR3I7ioMM1aLn39bl9yBN7MFb_84pTpme3G1kYUjqJeBQVjUora4_zSa2dQ)
+
 ##### Février 2022
 
 [Zone Campus - Atelier Presse Papier: Myriam Tousignant | «Maskipêche»](https://zonecampus.ca/atelier-presse-papier-myriam-tousignant-maskipeche/)
