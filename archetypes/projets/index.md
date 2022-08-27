@@ -1,9 +1,11 @@
 ---
+type: 'projets'
 title: "{{ replace .Name "-" " " | title }}"
+description: ''
 date: {{ .Date }}
 draft: true
-weight: 1
 featured: false
+weight: 1
 summaryImage: ''
 listImage: ''
 projectImages:

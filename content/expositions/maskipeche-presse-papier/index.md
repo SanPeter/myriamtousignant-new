@@ -1,4 +1,5 @@
 ---
+type: 'projets'
 title: 'Maskipêche - Exposition au centre de diffusion Presse Papier de Trois-Rivières'
 date: 2022-02-13T10:00:00-04:00
 draft: false

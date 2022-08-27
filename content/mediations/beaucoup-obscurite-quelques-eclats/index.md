@@ -1,13 +1,13 @@
 ---
-type: projets
+type: 'projets'
 title: 'Projet de médiation culturelle « Pour beaucoup d’obscurité, quelques éclats »'
 description: "Participants et participantes recherchés"
 date: 2022-04-13T10:00:00-04:00
 draft: false
 featured: true
 weight: 10
-summaryImage: 'images/Promo-1_mediationculturelle.jpg'
-listImage: 'images/Promo-1_mediationculturelle.jpg'
+summaryImage: 'images/mediation-1.jpg'
+listImage: 'images/mediation-1.jpg'
 projectImages:
   - images/mediation-1.jpg
 ---
