@@ -1,11 +1,12 @@
 ---
+type: 'projets'
 title: "Projet d'art public Tête à tête"
 date: 2022-05-05T10:00:00-04:00
 draft: false
 weight: 5
 featured: true
-summaryImage: 'images/tete-a-tete_1.jpeg'
-listImage: 'images/tete-a-tete_1.jpeg'
+summaryImage: 'images/tete-a-tete_2.jpeg'
+listImage: 'images/tete-a-tete_2.jpeg'
 projectImages:
   - images/tete-a-tete_1.jpeg
   - images/tete-a-tete_2.jpeg

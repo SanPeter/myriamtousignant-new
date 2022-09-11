@@ -1,4 +1,5 @@
 ---
+type: 'projets'
 title: 'Les fenêtres qui parlent - Poésie dans la ville'
 description: "Projet d'art public sur le territoire de Longueuil - 2020"
 date: 2021-08-19T19:41:45-04:00
