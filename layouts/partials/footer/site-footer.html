@@ -9,9 +9,9 @@
             <div class="pe-lg-5 me-lg-5">
                 <h5 class="text-uppercase">Réalisations</h5>
                 <ul class="nav flex-column">
+                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Expositions") }}
                     {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Projets") }}
                     {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Art public") }}
-                    {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Expositions") }}
                     {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Médiations") }}
                     {{ partial "footer/link-footer" (dict "context" . "sections" .Site.Sections "linkSection" $.Section "title" "Livres d'artiste") }}
                 </ul>
