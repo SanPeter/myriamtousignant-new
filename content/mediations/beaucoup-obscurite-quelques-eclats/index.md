@@ -4,7 +4,7 @@ title: 'Projet de médiation culturelle « Pour beaucoup d’obscurité, quelque
 description: "Participants et participantes recherchés"
 date: 2022-04-13T10:00:00-04:00
 draft: false
-featured: true
+featured: false
 weight: 10
 summaryImage: 'images/mediation-1.jpg'
 listImage: 'images/mediation-1.jpg'
