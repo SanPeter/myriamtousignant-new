@@ -4,7 +4,7 @@ title: 'Petites mains'
 description: 'Projet multidisciplinaire'
 date: 2021-08-19T18:44:11-04:00
 draft: false
-featured: true
+featured: false
 headerFeatured: false
 weight: 10
 summaryImage: 'images/petites_mains_fullres.jpg'
