@@ -10,6 +10,16 @@
            </a>
        </div>
        */}}
+
+        <div class="summary">
+            <a href="https://reseau.ovation.ca/pesite.asp?CodeSalleSpectacle=1400N6&Lang=fr>">
+                <div>
+                    <img src="/images/banniere-table-ronde-nov2022.jpeg" alt="Invitation table ronde"
+                            class='img-fluid mb-5 mh-100'>
+                </div>
+            </a>
+        </div>
+      
        {{ range where (where .Site.Pages "Section" "expositions") "Params.Featured" true }}
        {{ .Render "summary" }}
    {{ end }} 
