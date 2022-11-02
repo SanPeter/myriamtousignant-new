@@ -5,10 +5,16 @@ date: 2022-09-10T10:00:00-04:00
 draft: false
 weight: 5
 featured: true
-summaryImage: 'images/manifestation-jeus_00.jpeg'
-listImage: 'images/manifestation-jeus_00.jpeg'
+summaryImage: 'images/manifestation-jeus_01.jpg'
+listImage: 'images/manifestation-jeus_01.jpg'
 projectImages:
-  - images/manifestation-jeus_00.jpeg
+  - images/manifestation-jeus_01.jpg
+  - images/manifestation-jeus_02.jpg
+  - images/manifestation-jeus_03.jpg
+  - images/manifestation-jeus_04.jpg
+  - images/manifestation-jeus_05.jpg
+  - images/manifestation-jeus_06.jpg
+  - images/manifestation-jeus_07.jpg            
 ---
 
 _Exposition collective  "J'habite, les territoires", Édition 2022 de Manifestation JE/US,  
