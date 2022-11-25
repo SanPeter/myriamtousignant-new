@@ -1,4 +1,5 @@
 ---
+type: 'projets'
 title: 'Convergence disloquée'
 date: 2021-08-25T16:30:42-04:00
 draft: false
