@@ -40,5 +40,5 @@ Photographies et documentation visuelle Jean-Michael Seminaro et Éric St-Pierre
 
 Ce livre d’artiste a été imprimé à 75 exemplaires en risographie sur les presses de l’Atelier Universel à l’automne 2022 à Montréal. La couverture a été estampée à chaud et imprimée en sérigraphie à L’imprimerie sur du papier Mohawk noir. 
 
-{{<partnerlink src="images/logo-mam.png" herf="https://www.mam.qc.ca" alt="MAM">}}
+{{<partnerlink src="images/logo-mam.png" href="https://www.mam.qc.ca" alt="MAM">}}
 ![Développement culturel](images/entente-development-culturel.jpg)
