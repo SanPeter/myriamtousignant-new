@@ -1,4 +1,5 @@
 ---
+type: 'projets'
 title: 'Le corps pictural'
 date: 2021-08-25T16:31:17-04:00
 draft: false

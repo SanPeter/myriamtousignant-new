@@ -1,4 +1,5 @@
 ---
+type: 'projets'
 title: 'Liens sacrés, Portraits de femmes / CDEx'
 date: 2021-08-25T16:32:06-04:00
 draft: false

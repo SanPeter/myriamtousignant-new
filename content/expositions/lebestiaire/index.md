@@ -1,4 +1,5 @@
 ---
+type: 'projets'
 title: 'Le Bestiaire'
 date: 2021-08-25T16:31:08-04:00
 draft: false
