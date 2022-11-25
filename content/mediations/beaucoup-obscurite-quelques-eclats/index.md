@@ -1,42 +1,38 @@
 ---
 type: 'projets'
 title: 'Projet de médiation culturelle « Pour beaucoup d’obscurité, quelques éclats »'
-description: "Participants et participantes recherchés"
+description: ""
 date: 2022-04-13T10:00:00-04:00
 draft: false
 featured: false
 weight: 10
-summaryImage: 'images/mediation-1.jpg'
-listImage: 'images/mediation-1.jpg'
+summaryImage: 'images/mediation-beaucoup-obscurite-1.jpg'
+listImage: 'images/mediation-beaucoup-obscurite-1.jpg'
 projectImages:
-  - images/mediation-1.jpg
+  - images/mediation-beaucoup-obscurite-1.jpg
+  - images/mediation-beaucoup-obscurite-2.jpg
+  - images/mediation-beaucoup-obscurite-3.jpg
+  - images/mediation-beaucoup-obscurite-4.jpg
+  - images/mediation-beaucoup-obscurite-5.jpg
+  - images/mediation-beaucoup-obscurite-6.jpg
+  - images/mediation-beaucoup-obscurite-7.jpg
+  - images/mediation-beaucoup-obscurite-8.jpg
+  - images/mediation-beaucoup-obscurite-9.jpg
+  - images/mediation-beaucoup-obscurite-10.jpg
+  - images/mediation-beaucoup-obscurite-11.jpg
+  - images/mediation-beaucoup-obscurite-12.jpg
+  - images/mediation-beaucoup-obscurite-13.jpg
+  - images/mediation-beaucoup-obscurite-14.jpg
 ---
 
-Ce printemps, participez à des ateliers de créations et de poésie visuelle qui s’adressent aux parents ayant vécu un deuil périnatal. La définition du deuil périnatal englobe les situations suivantes : fausse couche, grossesse ectopique, interruption de grossesse-anomalie, décès du bébé dans l’utérus, à la naissance ou dans les semaines suivant la naissance.
+_2022  
+Crédit photo : Jean-Michael Seminaro et Éric St-Pierre_
 
-Ces ateliers seront animés par l’artiste et médiatrice Myriam Tousignant et auront lieu aux bureaux de l’organisme partenaire MAM, autour de la maternité et se dérouleront au courant du mois de mai et du mois de juin. Deux groupes de dix participants seront formés pour la tenue de ces ateliers.
+Le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclats a été mené au printemps 2022 par l’artiste multidisciplinaire Myriam Tousignant sur le territoire longueuillois. Ces ateliers s’adressaient aux parents ayant vécu un deuil périnatal. Lors de ces rencontres, les participant·e·s ont été convié·e·s à s’exprimer sur leurs expériences personnelles de cette épreuve par le biais du dessin, de l’écriture et de la poésie visuelle. Voici un survol en images de ce projet novateur. 
 
-La participation à ces ateliers se fait sur une base volontaire et l’implication de la part des participants demeure essentielle. Lors de ces ateliers, des thèmes associés au deuil périnatal seront abordés par des exercices dirigés dont l’objectif principal demeure de pouvoir s’exprimer par l’art. Les participants seront conviés à utiliser comme moyens d’expression l’écriture, le collage et le dessin. 
+Ce projet bénéficie par ailleurs d’un soutien financier découlant de l’entente de développement culturel conclue entre la Ville de Longueuil et le gouvernement du Québec. Un remerciement chaleureux à Stéphanie Laquerre, responsable des projets de médiation culturelle au Bureau de la culture et des bibliothèques de Longueuil, pour l’accompagnement, les conseils et la confiance. Ce projet n’aurait pas pu se concrétiser sans cette précieuse collaboration. 
 
-Il est important d’informer les futurs participants, que ces ateliers ne constituent pas une alternative à une thérapie ou à un groupe de paroles. Aucuns prérequis en art ou en écriture ne sont demandés afin de participer à ces ateliers.
+Merci à l’équipe du MAM, autour de la maternité pour le partenariat et l’appui dans le cadre de ce projet de médiation culturelle.  
 
-_Groupe 1 - mai 2022_  
-**Gratuit**  
-**Durée** : 19h à 21h  
-**Lieu** : 	Bureaux du MAM, autour de la maternité  
-2060, rue Holmes, Saint-Hubert  
-**Dates** : Les mardis 3 mai, 10 mai, 17 mai et 24 mai.  
-
-_Groupe 2 - juin 2022_  
-**Gratuit**  
-**Durée** : 19 h à 21h  
-**Lieu** : 	Bureaux du MAM, autour de la maternité  
-2060, rue Holmes, Saint-Hubert  
-**Dates** : Les jeudis 2 juin, 9 juin, 16 juin et le 30 juin.  
-
-Pour vous inscrire ou pour obtenir plus d’informations, contactez l’artiste médiatrice Myriam Tousignant à l’adresse courriel suivante:  myriam_tousignant@hotmail.com
-
-L’artiste tient à remercier l’organisme partenaire de ce projet de médiation culturelle MAM, autour de la maternité. Ce projet bénéficie également du soutien de l’entente de développement culturel conclue entre la Ville de Longueuil et le gouvernement du Québec.
-
-[![MAM](images/logo-mam.png)](https://www.mam.qc.ca)
+{{<partnerlink src="images/logo-mam.png" href="https://www.mam.qc.ca" alt="MAM">}}
 ![Développement culturel](images/entente-development-culturel.jpg)
