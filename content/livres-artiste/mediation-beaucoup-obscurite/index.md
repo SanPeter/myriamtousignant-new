@@ -1,5 +1,5 @@
 ---
-type: 'projets'
+type: 'projet-grille'
 title: "Livre d’artiste “Pour beaucoup d’obscurité, quelques éclats, Un projet de médiation culturelle”"
 description: ''
 date: 2022-11-24T19:17:32-05:00
@@ -8,16 +8,18 @@ featured: true
 weight: 1
 summaryImage: 'images/MyriamTousignantBook (1 of 9).jpg'
 listImage: 'images/MyriamTousignantBook (1 of 9).jpg'
-projectImages:
-  - "images/MyriamTousignantBook (1 of 9).jpg"
-  - "images/MyriamTousignantBook (2 of 9).jpg"
-  - "images/MyriamTousignantBook (3 of 9).jpg"
-  - "images/MyriamTousignantBook (4 of 9).jpg"
-  - "images/MyriamTousignantBook (5 of 9).jpg"
-  - "images/MyriamTousignantBook (6 of 9).jpg"
-  - "images/MyriamTousignantBook (7 of 9).jpg"
-  - "images/MyriamTousignantBook (8 of 9).jpg"
-  - "images/MyriamTousignantBook (9 of 9).jpg"  
+grids:
+  - title: ''
+    images:
+    - "images/MyriamTousignantBook (1 of 9).jpg"
+    - "images/MyriamTousignantBook (2 of 9).jpg"
+    - "images/MyriamTousignantBook (3 of 9).jpg"
+    - "images/MyriamTousignantBook (4 of 9).jpg"
+    - "images/MyriamTousignantBook (5 of 9).jpg"
+    - "images/MyriamTousignantBook (6 of 9).jpg"
+    - "images/MyriamTousignantBook (7 of 9).jpg"
+    - "images/MyriamTousignantBook (8 of 9).jpg"
+    - "images/MyriamTousignantBook (9 of 9).jpg"  
 ---
 
 _2022  
