@@ -11,14 +11,9 @@
        </div>
        */}}
 
-        <div class="summary">
-            <a href="https://reseau.ovation.ca/Reservation/Billets/ChoixBillets.asp?CodeRepresentation=140132&LP=27Mw756&PER=276ei56&Lang=FR&CodeSiteClient=00001R">
-                <div>
-                    <img src="/images/banniere-table-ronde-nov2022.jpeg" alt="Invitation table ronde"
-                            class='img-fluid mb-5 mh-100'>
-                </div>
-            </a>
-        </div>
+       {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
+       {{ .Render "summary" }}
+   {{ end }} 
       
        {{ range where (where .Site.Pages "Section" "expositions") "Params.Featured" true }}
        {{ .Render "summary" }}
