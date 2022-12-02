@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art public on Myriam Tousignant</title>
-    <link>https://myriamtousignant.com/art-public/</link>
+    <link>http://localhost:5173/art-public/</link>
     <description>Recent content in Art public on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 05 May 2022 10:00:00 -0400</lastBuildDate><atom:link href="https://myriamtousignant.com/art-public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 10:00:00 -0400</lastBuildDate><atom:link href="http://localhost:5173/art-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projet d&#39;art public Tête à tête</title>
-      <link>https://myriamtousignant.com/art-public/tete-a-tete/</link>
+      <link>http://localhost:5173/art-public/tete-a-tete/</link>
       <pubDate>Thu, 05 May 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/art-public/tete-a-tete/</guid>
+      <guid>http://localhost:5173/art-public/tete-a-tete/</guid>
       <description>.logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Projet d&amp;rsquo;art public Tête à tête
 du 3 au 29 mai 2022
 crédit photo Johanna Griffith &amp;amp; Éric St-Pierre
@@ -22,10 +22,10 @@ L’exposition, coordonnée par Johanna Griffith présente le travail des artist
     
     <item>
       <title>Les fenêtres qui parlent - Poésie dans la ville</title>
-      <link>https://myriamtousignant.com/art-public/fenetres-qui-parlent/</link>
+      <link>http://localhost:5173/art-public/fenetres-qui-parlent/</link>
       <pubDate>Thu, 19 Aug 2021 19:41:45 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/art-public/fenetres-qui-parlent/</guid>
+      <guid>http://localhost:5173/art-public/fenetres-qui-parlent/</guid>
       <description>Poésie dans la ville/ Parcours éphémère
 Projet d’art public
 Du 12 au 24 août 2020

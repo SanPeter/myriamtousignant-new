@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Myriam Tousignant</title>
-    <link>https://myriamtousignant.com/</link>
+    <link>http://localhost:5173/</link>
     <description>Recent content in Accueil on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 29 Nov 2022 18:52:36 -0500</lastBuildDate><atom:link href="https://myriamtousignant.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 18:52:36 -0500</lastBuildDate><atom:link href="http://localhost:5173/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maskipeche - Boucherville</title>
-      <link>https://myriamtousignant.com/expositions/maskipeche-boucherville/</link>
+      <link>http://localhost:5173/expositions/maskipeche-boucherville/</link>
       <pubDate>Tue, 29 Nov 2022 18:52:36 -0500</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/maskipeche-boucherville/</guid>
+      <guid>http://localhost:5173/expositions/maskipeche-boucherville/</guid>
       <description>Du 28 septembre au 30 octobre 2022
 Galerie Vincent-D’Indy
 Centre multifonctionnel Francine-Gadbois
@@ -21,10 +21,10 @@ Maskipêche est le nom de la pourvoirie que son père a jadis bâtie sur les ber
     
     <item>
       <title>Table ronde et lancement de livre</title>
-      <link>https://myriamtousignant.com/mediations/table-ronde-lancement-livre/</link>
+      <link>http://localhost:5173/mediations/table-ronde-lancement-livre/</link>
       <pubDate>Thu, 24 Nov 2022 20:44:40 -0500</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/table-ronde-lancement-livre/</guid>
+      <guid>http://localhost:5173/mediations/table-ronde-lancement-livre/</guid>
       <description>Édifice Marcel-Robidas- Longueuil
 Crédit photo : Jean-Michael Seminaro
 Animation : Émilie de la Durantaye
@@ -37,10 +37,10 @@ Emmanuelle Guay, ministère de la culture et des communication</description>
     
     <item>
       <title>Livre d’artiste “Pour beaucoup d’obscurité, quelques éclats, Un projet de médiation culturelle”</title>
-      <link>https://myriamtousignant.com/livres-artiste/mediation-beaucoup-obscurite/</link>
+      <link>http://localhost:5173/livres-artiste/mediation-beaucoup-obscurite/</link>
       <pubDate>Thu, 24 Nov 2022 19:17:32 -0500</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/mediation-beaucoup-obscurite/</guid>
+      <guid>http://localhost:5173/livres-artiste/mediation-beaucoup-obscurite/</guid>
       <description>2022
 Crédit photo : Jean-Michael Seminaro Dépôt légal Bibliothèque et archives nationales du Québec, 2022 ISBN version imprimée 978-2-9815507-1-2
 Ce livre d’artiste propose de vous faire découvrir autrement le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclats qui a été mené au printemps 2022 par l’artiste multidisciplinaire Myriam Tousignant sur le territoire longueuillois. Ces ateliers s’adressaient aux parents ayant vécu un deuil périnatal. Lors de ces rencontres, les participant·e·s ont été convié·e·s à s’exprimer sur leurs expériences personnelles de cette épreuve par le biais du dessin, de l’écriture et de la poésie visuelle.</description>
@@ -48,28 +48,28 @@ Ce livre d’artiste propose de vous faire découvrir autrement le projet de mé
     
     <item>
       <title>Métier artiste: l&#39;envers du décor de Jennifer Lupien</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-jennifer-lupien/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-jennifer-lupien/</link>
       <pubDate>Thu, 26 Aug 2021 10:09:56 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-jennifer-lupien/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-jennifer-lupien/</guid>
       <description>«J&amp;rsquo;aime être en mode de production. Mais, avec le métier d&amp;rsquo;artiste, tu es beaucoup en mode administration, et une fois de temps en temps tu es en mode production.»</description>
     </item>
     
     <item>
       <title>Métier artiste: l&#39;envers du décor de Cynthia Dinan-Mitchell</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-cynthia-dinan-mithcell/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-cynthia-dinan-mithcell/</link>
       <pubDate>Thu, 26 Aug 2021 10:09:37 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-cynthia-dinan-mithcell/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-cynthia-dinan-mithcell/</guid>
       <description>« Pendant de longues années, je me sentais comme une intruse dans les métiers d&amp;rsquo;arts et en arts visuels. Je me sentais toujours comme entre les deux. Aujourd&amp;rsquo;hui, je m&amp;rsquo;affirme un peu mieux. Je suis une artiste et une artisane. Le monde des métiers d&amp;rsquo;arts influence mon art et vice-versa. C&amp;rsquo;est vraiment perméable. »</description>
     </item>
     
     <item>
       <title>Exposition collective &#34;J&#39;habite, les territoires&#34;, Édition 2022 de Manifestation JE/US</title>
-      <link>https://myriamtousignant.com/expositions/manifastation-jeus/</link>
+      <link>http://localhost:5173/expositions/manifastation-jeus/</link>
       <pubDate>Sat, 10 Sep 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/manifastation-jeus/</guid>
+      <guid>http://localhost:5173/expositions/manifastation-jeus/</guid>
       <description>Exposition collective &amp;ldquo;J&amp;rsquo;habite, les territoires&amp;rdquo;, Édition 2022 de Manifestation JE/US,
 Du 22 septembre au 16 octobre 2022, à l’intérieur et aux alentours de l&amp;rsquo;Édifice Marcel-Robidas - Maison de la culture à Longueuil.
 &amp;ldquo;Pour beaucoup d&amp;rsquo;obscurité, quelques éclats&amp;rdquo;
@@ -80,10 +80,10 @@ Un foetus se forme. Une vie s’annonce in utero, habitant le territoire des pos
     
     <item>
       <title>Projet d&#39;art public Tête à tête</title>
-      <link>https://myriamtousignant.com/art-public/tete-a-tete/</link>
+      <link>http://localhost:5173/art-public/tete-a-tete/</link>
       <pubDate>Thu, 05 May 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/art-public/tete-a-tete/</guid>
+      <guid>http://localhost:5173/art-public/tete-a-tete/</guid>
       <description>.logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Projet d&amp;rsquo;art public Tête à tête
 du 3 au 29 mai 2022
 crédit photo Johanna Griffith &amp;amp; Éric St-Pierre
@@ -93,10 +93,10 @@ L’exposition, coordonnée par Johanna Griffith présente le travail des artist
     
     <item>
       <title>Maskipêche - Exposition au centre de diffusion Presse Papier de Trois-Rivières</title>
-      <link>https://myriamtousignant.com/expositions/maskipeche-presse-papier/</link>
+      <link>http://localhost:5173/expositions/maskipeche-presse-papier/</link>
       <pubDate>Sun, 13 Feb 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/maskipeche-presse-papier/</guid>
+      <guid>http://localhost:5173/expositions/maskipeche-presse-papier/</guid>
       <description>10 février au 13 mars 2022
 Centre de diffusion Presse Papier - Trois-Rivières
 Le Centre de Diffusion de l&amp;rsquo;Atelier Presse Papier est fier de vous présenter l’exposition Maskipêche de l’artiste Myriam Tousignant.
@@ -105,55 +105,55 @@ Maskipêche est le nom de la pourvoirie que son père a jadis bâtie sur les ber
     
     <item>
       <title>Métier artiste: l&#39;envers du décor d&#39;Andréanne Gagnon</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-dandreanne-gagnon/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-dandreanne-gagnon/</link>
       <pubDate>Thu, 26 Aug 2021 10:09:21 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-dandreanne-gagnon/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-dandreanne-gagnon/</guid>
       <description>« L&amp;rsquo;idée de créer cette série d&amp;rsquo;articles est née au contact d&amp;rsquo;Andréanne, que j&amp;rsquo;ai connue lors d&amp;rsquo;une résidence d&amp;rsquo;artiste au centre Zocalo à Longueuil. Elle est donc la muse de ce projet, la petite étincelle qui a fait jaillir l&amp;rsquo;inspiration nécessaire pour passer à l&amp;rsquo;action et vouloir écrire sur les aléas professionnels des artistes en arts visuels. »</description>
     </item>
     
     <item>
       <title>Métier artiste: l&#39;envers du décor d&#39;Emmanuel Galland</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-demmanuel-galland/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-demmanuel-galland/</link>
       <pubDate>Thu, 26 Aug 2021 10:10:36 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-demmanuel-galland/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-demmanuel-galland/</guid>
       <description>« Un succès, c&amp;rsquo;est beaucoup de refus. Chaque réussite est beaucoup de travail et le travail ne mène pas nécessairement à un accomplissement. »</description>
     </item>
     
     <item>
       <title>Métier artiste: l&#39;envers du décor de Patsy Van Roost</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-patsy-van-roost/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-patsy-van-roost/</link>
       <pubDate>Thu, 26 Aug 2021 10:10:25 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-patsy-van-roost/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-patsy-van-roost/</guid>
       <description>« Les gens ne réalisent pas ce qu&amp;rsquo;est le travail d&amp;rsquo;artiste. C&amp;rsquo;est comme être mère, c&amp;rsquo;est 24 heures sur 24. »</description>
     </item>
     
     <item>
       <title>Métier artiste: l&#39;envers du décor de Julie Lequin</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-julie-lequin/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-julie-lequin/</link>
       <pubDate>Thu, 26 Aug 2021 10:10:13 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-julie-lequin/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-julie-lequin/</guid>
       <description>« J&amp;rsquo;ai vu que même si tes oeuvres voyagent beaucoup, tu ne peux pas vraiment vivre de ça. Tu ne peux pas vivre de ta gloire sans un sou. »</description>
     </item>
     
     <item>
       <title>Métier artiste: l&#39;envers du décor d&#39;Andrée-Anne Dupuis Bourret</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-dandree-anne-dupuis-bourret/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-dandree-anne-dupuis-bourret/</link>
       <pubDate>Tue, 24 Aug 2021 14:09:55 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-dandree-anne-dupuis-bourret/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-dandree-anne-dupuis-bourret/</guid>
       <description>« À mon avis, les artistes qui réussissent le mieux dans ce milieu sont à l&amp;rsquo;image de cette créatrice. Ils travaillent tous de façon boulimique et acharnée. »</description>
     </item>
     
     <item>
       <title>Atelier de découverte / Poésie visuelle</title>
-      <link>https://myriamtousignant.com/mediations/zocalo-atelier-poesie-aut2022/</link>
+      <link>http://localhost:5173/mediations/zocalo-atelier-poesie-aut2022/</link>
       <pubDate>Sun, 30 Oct 2022 08:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/zocalo-atelier-poesie-aut2022/</guid>
+      <guid>http://localhost:5173/mediations/zocalo-atelier-poesie-aut2022/</guid>
       <description>Atelier de découverte / Poésie visuelle
 23 octobre 2022
 Zocalo centre d’artistes en art imprimé
@@ -163,19 +163,19 @@ Poésie visuelle - Zocalo (zocaloweb.org)</description>
     
     <item>
       <title>Médiations scolaires/ École primaire Paul-VI, Boucherville</title>
-      <link>https://myriamtousignant.com/mediations/mediation-boucherville/</link>
+      <link>http://localhost:5173/mediations/mediation-boucherville/</link>
       <pubDate>Sun, 16 Oct 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/mediation-boucherville/</guid>
+      <guid>http://localhost:5173/mediations/mediation-boucherville/</guid>
       <description>Cette série de médiations scolaires a été offerte à l’automne 2022 dans des classes de troisièmes années à l’école primaire Paul-VI. Deux ateliers créatifs ont été proposés issus de l’univers visuel de l’exposition Maskipêche et de la pêche blanche. Les étudiants ont pu vivre l’expérience de créer un tissage simple en papier réalisé à l’aide de cartons de couleurs et d’images fournies par l’artiste. Les œuvres réalisées par les élèves lors de ces ateliers ont été présentées à la bibliothèque Montarville-Boucher-De La Bruère.</description>
     </item>
     
     <item>
       <title>Projet de médiation culturelle « Pour beaucoup d’obscurité, quelques éclats »</title>
-      <link>https://myriamtousignant.com/mediations/beaucoup-obscurite-quelques-eclats/</link>
+      <link>http://localhost:5173/mediations/beaucoup-obscurite-quelques-eclats/</link>
       <pubDate>Wed, 13 Apr 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/beaucoup-obscurite-quelques-eclats/</guid>
+      <guid>http://localhost:5173/mediations/beaucoup-obscurite-quelques-eclats/</guid>
       <description>2022
 Crédit photo : Jean-Michael Seminaro et Éric St-Pierre
 Le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclats a été mené au printemps 2022 par l’artiste multidisciplinaire Myriam Tousignant sur le territoire longueuillois. Ces ateliers s’adressaient aux parents ayant vécu un deuil périnatal. Lors de ces rencontres, les participant·e·s ont été convié·e·s à s’exprimer sur leurs expériences personnelles de cette épreuve par le biais du dessin, de l’écriture et de la poésie visuelle.</description>
@@ -183,29 +183,29 @@ Le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclat
     
     <item>
       <title>Résidence Instagram - Culture Montérégie</title>
-      <link>https://myriamtousignant.com/projets/residence-ig-culture-monteregie/</link>
+      <link>http://localhost:5173/projets/residence-ig-culture-monteregie/</link>
       <pubDate>Thu, 06 Jan 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/residence-ig-culture-monteregie/</guid>
+      <guid>http://localhost:5173/projets/residence-ig-culture-monteregie/</guid>
       <description>Décembre 2021
 Septième résidence Instagram : découvrez l&amp;rsquo;artiste Myriam Tousignant Constatant le succès des premières résidences Instagram, Culture Montérégie a décidé de récidiver et d&amp;rsquo;offrir la possibilité à quatre autres artistes de prendre le contrôle du compte Instagram Culture locale, culture vitale. Pour la septième résidence et première de cette deuxième cohorte, découvrez Myriam Tousignant (Longueuil), artiste multidisciplinaire. Elle mettra en relief sa démarche artistique du 1 au 28 décembre 2021.</description>
     </item>
     
     <item>
       <title>Métier artiste: l&#39;envers du décor de Stanley Février</title>
-      <link>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-stanley-fevrier/</link>
+      <link>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-stanley-fevrier/</link>
       <pubDate>Tue, 24 Aug 2021 13:54:56 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/publications/metier-artiste-lenvers-du-decor-de-stanley-fevrier/</guid>
+      <guid>http://localhost:5173/publications/metier-artiste-lenvers-du-decor-de-stanley-fevrier/</guid>
       <description>« Si la valeur du métier est proportionnelle au salaire accordé, on va se le dire tout de suite: être artiste n&amp;rsquo;est pas vraiment valorisé par la société. »</description>
     </item>
     
     <item>
       <title>Série - Les formes</title>
-      <link>https://myriamtousignant.com/livres-artiste/serie-formes/</link>
+      <link>http://localhost:5173/livres-artiste/serie-formes/</link>
       <pubDate>Tue, 24 Aug 2021 11:46:51 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/serie-formes/</guid>
+      <guid>http://localhost:5173/livres-artiste/serie-formes/</guid>
       <description>Série - Les formes: Triangle isocèle et Losange
 Production 2016
 crédit photo : Eric St-Pierre</description>
@@ -213,10 +213,10 @@ crédit photo : Eric St-Pierre</description>
     
     <item>
       <title>Petites mains</title>
-      <link>https://myriamtousignant.com/projets/petites-mains/</link>
+      <link>http://localhost:5173/projets/petites-mains/</link>
       <pubDate>Thu, 19 Aug 2021 18:44:11 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/petites-mains/</guid>
+      <guid>http://localhost:5173/projets/petites-mains/</guid>
       <description>Automne 2021 - en cours
 Le projet multidisciplinaire Petites mains est né pour donner suite à la découverte des archives personnelles de ma grand-mère maternelle, Réjanne Martin, décédée à l’âge de 94 ans. Ces documents témoignent des nombreux changements survenus lors du siècle dernier et font écho à des enjeux récemment soulevés comme la place qu’occupent les aînés au sein de la société québécoise.
 Depuis plusieurs mois, je développe une correspondance avec des femmes âgées de plus de 65 ans dans le but de découvrir leur parcours de vie et de collecter des images provenant de leur archive personnelle.</description>
@@ -224,10 +224,10 @@ Depuis plusieurs mois, je développe une correspondance avec des femmes âgées 
     
     <item>
       <title>Médiation - Centre Culturel George-Vanier</title>
-      <link>https://myriamtousignant.com/mediations/ccgv/</link>
+      <link>http://localhost:5173/mediations/ccgv/</link>
       <pubDate>Mon, 01 Nov 2021 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/ccgv/</guid>
+      <guid>http://localhost:5173/mediations/ccgv/</guid>
       <description>Atelier de poésie visuelle et création d’un fanzine
 Animatrice : Myriam Tousignant
 CCGV, Centre Culturel Georges-Vanier
@@ -239,10 +239,10 @@ Cette série de trois ateliers créatifs a été offerte à l’automne 2021 au 
     
     <item>
       <title>Médiation - Bibliothèque St-Bruno</title>
-      <link>https://myriamtousignant.com/mediations/bibliotheque-st-bruno/</link>
+      <link>http://localhost:5173/mediations/bibliotheque-st-bruno/</link>
       <pubDate>Sat, 04 Dec 2021 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/bibliotheque-st-bruno/</guid>
+      <guid>http://localhost:5173/mediations/bibliotheque-st-bruno/</guid>
       <description>Atelier «Y’a pas d’âge pour…créer de la poésie!»
 Mardi 21 septembre 2021 - 19 h à 21 h
 À la bibliothèque Saint-Bruno pour les 18 ans et +
@@ -252,20 +252,20 @@ Offrez-vous la chance d’explorer une nouvelle façon de vous exprimer avec la 
     
     <item>
       <title>Maskipêche</title>
-      <link>https://myriamtousignant.com/livres-artiste/livre-maskipeche/</link>
+      <link>http://localhost:5173/livres-artiste/livre-maskipeche/</link>
       <pubDate>Thu, 26 Aug 2021 09:59:17 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/livre-maskipeche/</guid>
+      <guid>http://localhost:5173/livres-artiste/livre-maskipeche/</guid>
       <description>Production 2015
 crédit photo : Eric St-Pierre</description>
     </item>
     
     <item>
       <title>Les fenêtres qui parlent - Poésie dans la ville</title>
-      <link>https://myriamtousignant.com/art-public/fenetres-qui-parlent/</link>
+      <link>http://localhost:5173/art-public/fenetres-qui-parlent/</link>
       <pubDate>Thu, 19 Aug 2021 19:41:45 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/art-public/fenetres-qui-parlent/</guid>
+      <guid>http://localhost:5173/art-public/fenetres-qui-parlent/</guid>
       <description>Poésie dans la ville/ Parcours éphémère
 Projet d’art public
 Du 12 au 24 août 2020
@@ -275,10 +275,10 @@ Poésie dans la ville est un projet d’art public réalisé dans le cadre de l�
     
     <item>
       <title>Atelier de fanzines - Zocalo</title>
-      <link>https://myriamtousignant.com/mediations/faimtl-zocalo/</link>
+      <link>http://localhost:5173/mediations/faimtl-zocalo/</link>
       <pubDate>Wed, 05 Jan 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/faimtl-zocalo/</guid>
+      <guid>http://localhost:5173/mediations/faimtl-zocalo/</guid>
       <description>Atelier Fanzine - Zocalo
 Vendredi 22 mars 2019 de 14h à 17h
 Zocalo
@@ -288,19 +288,19 @@ L’artiste multidisciplinaire, Myriam Tousignant a réalisé au mois de mars 20
     
     <item>
       <title>Fanzines #MoiAussi et Les racines enfouies</title>
-      <link>https://myriamtousignant.com/livres-artiste/fanzines/</link>
+      <link>http://localhost:5173/livres-artiste/fanzines/</link>
       <pubDate>Thu, 26 Aug 2021 09:58:07 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/fanzines/</guid>
+      <guid>http://localhost:5173/livres-artiste/fanzines/</guid>
       <description>Les fanzines #MoiAussi et Les racines enfouies ont été produits dans le cadre Festival des arts imprimés de Montréal (2019). Cette création collaborative est le fruit de l’atelier donné au centre d&amp;rsquo;artistes Zocalo à Longueuil. Les participants ont été conviés à s’inspirer de la forme d’expression du Blackout poetry ou poésie par soustraction en utilisant le journal comme matériau de base à la création de courtes phrases percutantes. Les illustrations ont été produites par Mélodie Vachon Boucher, autrice de bandes dessinées et illustratrice.</description>
     </item>
     
     <item>
       <title>Diffuser confiné.e</title>
-      <link>https://myriamtousignant.com/projets/diffuser-confinee/</link>
+      <link>http://localhost:5173/projets/diffuser-confinee/</link>
       <pubDate>Mon, 23 Aug 2021 11:47:33 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/diffuser-confinee/</guid>
+      <guid>http://localhost:5173/projets/diffuser-confinee/</guid>
       <description>Crédits photo: Éric St-Pierre et Myriam Tousignant
 Juin 2020
 Je suis une artiste multidisciplinaire qui privilégie les arts d’impressions au sein de sa pratique. Je m’intéresse à conserver et à transmettre notre patrimoine par le biais de l’art. À ma façon, je témoigne de la petite comme de la grande Histoire. Mes projets antérieurs sont ponctués de récits de vie de gens de mon entourage et/ou encore historiques. Avant tout, je souhaite raconter des histoires trouvant écho chez les autres.</description>
@@ -308,10 +308,10 @@ Je suis une artiste multidisciplinaire qui privilégie les arts d’impressions 
     
     <item>
       <title>Pour passer au travers</title>
-      <link>https://myriamtousignant.com/projets/pour-passer-au-travers/</link>
+      <link>http://localhost:5173/projets/pour-passer-au-travers/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:15 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/pour-passer-au-travers/</guid>
+      <guid>http://localhost:5173/projets/pour-passer-au-travers/</guid>
       <description>Crédits photo: Éric St-Pierre et Myriam Tousignant
 Printemps - été 2020
 « Pour passer au travers » est un projet d’autorésidence qui mènera à la réalisation d’un livre d’artiste, composé de poèmes quotidiens issus d’extraits de journaux produits pendant cette période d’isolement.
@@ -320,30 +320,30 @@ La situation dans laquelle nous évoluons depuis quelques semaines est déroutan
     
     <item>
       <title>Pour passer au travers - Poésie quotidienne</title>
-      <link>https://myriamtousignant.com/projets/poesie-quotidienne/</link>
+      <link>http://localhost:5173/projets/poesie-quotidienne/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:57 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/poesie-quotidienne/</guid>
+      <guid>http://localhost:5173/projets/poesie-quotidienne/</guid>
       <description>« Pour passer au travers » est un projet d’autorésidence qui mènera à la réalisation d’un livre d’artiste, composé de poèmes quotidiens issus d’extraits de journaux produits pendant cette période d’isolement.
 La situation dans laquelle nous évoluons depuis quelques semaines est déroutante. Pour moi, ça a été de me retrouver dans la position de mère au foyer à temps plein et de composer avec ce nouveau quotidien. En réponse à cette période de confinement imposé dans laquelle la pandémie nous a plongés, j’ai entamé un projet de poésie par soustraction.</description>
     </item>
     
     <item>
       <title>Maskipêche oeuvre installative</title>
-      <link>https://myriamtousignant.com/projets/maskipeche/</link>
+      <link>http://localhost:5173/projets/maskipeche/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:34 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/maskipeche/</guid>
+      <guid>http://localhost:5173/projets/maskipeche/</guid>
       <description>Janvier à Avril 2019
 Dans l’installation Maskipêche les images fixes, la projection et les représentations tri-dimensionnelles s’entrecroisent afin de proposer une expérience immersive qui explore l’idée de chantier, de coulisse, en lien avec la cabane de pêche et ses constructions précaires dans le paysage québécois. L&amp;rsquo;idée de ce projet est née d&amp;rsquo;une courte nouvelle écrite par ma soeur. Il s&amp;rsquo;agit d&amp;rsquo;un hommage à notre père et le récit nous livre l&amp;rsquo;incroyable histoire d&amp;rsquo;un citadin qui décida le temps d&amp;rsquo;une saison de devenir pourvoyeur de pêche blanche.</description>
     </item>
     
     <item>
       <title>Résidence CAL - Studios Éphémères</title>
-      <link>https://myriamtousignant.com/projets/studios-ephemeres/</link>
+      <link>http://localhost:5173/projets/studios-ephemeres/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:32 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/studios-ephemeres/</guid>
+      <guid>http://localhost:5173/projets/studios-ephemeres/</guid>
       <description>.logo--studioephemere { display: block; text-indent: -9999px; width: 100px; height: 82px; background: url(images/studios_ephemeres_logo.svg); background-size: 100px 82px; } .logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Studios de création éphémères pour artistes - Studios Éphémères
 Le Conseil des arts de Longueuil transforme la station de métro Longueuil–Université-de-Sherbrooke en studios éphémères de création pour artistes.
 Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019) aux Studios Éphémères au métro Longueuil.</description>
@@ -351,19 +351,19 @@ Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019)
     
     <item>
       <title>Peintures - Production 2015 / 2016</title>
-      <link>https://myriamtousignant.com/projets/peintures-production-2015-2016/</link>
+      <link>http://localhost:5173/projets/peintures-production-2015-2016/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:49 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/peintures-production-2015-2016/</guid>
+      <guid>http://localhost:5173/projets/peintures-production-2015-2016/</guid>
       <description>crédit photo : Eric St-Pierre</description>
     </item>
     
     <item>
       <title>Liens sacrés, Portraits de femmes / Zocalo</title>
-      <link>https://myriamtousignant.com/projets/liens-sacres-portraits-de-femmes/</link>
+      <link>http://localhost:5173/projets/liens-sacres-portraits-de-femmes/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:24 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/liens-sacres-portraits-de-femmes/</guid>
+      <guid>http://localhost:5173/projets/liens-sacres-portraits-de-femmes/</guid>
       <description>Présenté à Zocalo du 8 au 22 avril 2013.
 crédit photo : Cara Déry
 Liens sacrés / Portraits de femmes, est la deuxième présentation publique de mon travail de recherche mené lors de la maîtrise à l’université du Québec à Montréal. Il s’agit d’une réinterprétation de l’exposition présenté en octobre 2012 au CDEx lors de mon exposition de diplômation.</description>
@@ -371,20 +371,20 @@ Liens sacrés / Portraits de femmes, est la deuxième présentation publique de 
     
     <item>
       <title>Series Liens Sacres Portraits De Femmes</title>
-      <link>https://myriamtousignant.com/projets/series-liens-sacres-portraits-de-femmes/</link>
+      <link>http://localhost:5173/projets/series-liens-sacres-portraits-de-femmes/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:23 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/series-liens-sacres-portraits-de-femmes/</guid>
+      <guid>http://localhost:5173/projets/series-liens-sacres-portraits-de-femmes/</guid>
       <description>Liens sacrés / Portraits de femmes
 crédit photo : Éric St-Pierre</description>
     </item>
     
     <item>
       <title>Liens sacrés, Portraits de femmes / CDEx</title>
-      <link>https://myriamtousignant.com/expositions/portraits-de-femmes-liens-sacres/</link>
+      <link>http://localhost:5173/expositions/portraits-de-femmes-liens-sacres/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:06 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/portraits-de-femmes-liens-sacres/</guid>
+      <guid>http://localhost:5173/expositions/portraits-de-femmes-liens-sacres/</guid>
       <description>Présenté au CDEx (centre de diffusion et d’expérimentation), 15 oct au 20 oct 2012
 Sérigraphie sur papier peint et tissus, 30 X 30 cm
 Crédit photo : Atelier Oil and sugar
@@ -393,10 +393,10 @@ Où réside le sacré et comment le traduire en image ? Cette recherche a pour b
     
     <item>
       <title>Le Bestiaire</title>
-      <link>https://myriamtousignant.com/expositions/lebestiaire/</link>
+      <link>http://localhost:5173/expositions/lebestiaire/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:08 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/lebestiaire/</guid>
+      <guid>http://localhost:5173/expositions/lebestiaire/</guid>
       <description>Présenté au centre L’Écart, 15 oct au 14 nov 2010
 Acrylique et huile sur bois,sérigraphie, médiums mixtes, 76 X 76 cm, 2009
 crédit photo : Cyclopes
@@ -406,10 +406,10 @@ Avec la série Bestiaire, Myriam Tousignant poursuit son incursion au sein de la
     
     <item>
       <title>Le corps pictural</title>
-      <link>https://myriamtousignant.com/expositions/le-corps-pictural/</link>
+      <link>http://localhost:5173/expositions/le-corps-pictural/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:17 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/le-corps-pictural/</guid>
+      <guid>http://localhost:5173/expositions/le-corps-pictural/</guid>
       <description>Exposition de Julien Boily et Myriam Tousignant, 30 janvier au 7 mars 2009
 acrylique et huile sur bois, sérigraphie, médiums mixtes, 2006
 crédit photo : Steve Leroux
@@ -418,10 +418,10 @@ Quelle est la gêne du peintre devant l’image à faire? Quelle est son hésita
     
     <item>
       <title>Convergence disloquée</title>
-      <link>https://myriamtousignant.com/expositions/convergence-disloquee/</link>
+      <link>http://localhost:5173/expositions/convergence-disloquee/</link>
       <pubDate>Wed, 25 Aug 2021 16:30:42 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/convergence-disloquee/</guid>
+      <guid>http://localhost:5173/expositions/convergence-disloquee/</guid>
       <description>Exposition collective, Galerie d’Art de Matane, 26 juin au 28 août 2008
 Série Règnes, Acrylique et huile sur bois, sérigraphie, 2006
 crédit photo : Myriam Tousignant

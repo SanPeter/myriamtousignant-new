@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Médiations on Myriam Tousignant</title>
-    <link>https://myriamtousignant.com/mediations/</link>
+    <link>http://localhost:5173/mediations/</link>
     <description>Recent content in Médiations on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 24 Nov 2022 20:44:40 -0500</lastBuildDate><atom:link href="https://myriamtousignant.com/mediations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 20:44:40 -0500</lastBuildDate><atom:link href="http://localhost:5173/mediations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Table ronde et lancement de livre</title>
-      <link>https://myriamtousignant.com/mediations/table-ronde-lancement-livre/</link>
+      <link>http://localhost:5173/mediations/table-ronde-lancement-livre/</link>
       <pubDate>Thu, 24 Nov 2022 20:44:40 -0500</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/table-ronde-lancement-livre/</guid>
+      <guid>http://localhost:5173/mediations/table-ronde-lancement-livre/</guid>
       <description>Édifice Marcel-Robidas- Longueuil
 Crédit photo : Jean-Michael Seminaro
 Animation : Émilie de la Durantaye
@@ -25,10 +25,10 @@ Emmanuelle Guay, ministère de la culture et des communication</description>
     
     <item>
       <title>Atelier de découverte / Poésie visuelle</title>
-      <link>https://myriamtousignant.com/mediations/zocalo-atelier-poesie-aut2022/</link>
+      <link>http://localhost:5173/mediations/zocalo-atelier-poesie-aut2022/</link>
       <pubDate>Sun, 30 Oct 2022 08:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/zocalo-atelier-poesie-aut2022/</guid>
+      <guid>http://localhost:5173/mediations/zocalo-atelier-poesie-aut2022/</guid>
       <description>Atelier de découverte / Poésie visuelle
 23 octobre 2022
 Zocalo centre d’artistes en art imprimé
@@ -38,19 +38,19 @@ Poésie visuelle - Zocalo (zocaloweb.org)</description>
     
     <item>
       <title>Médiations scolaires/ École primaire Paul-VI, Boucherville</title>
-      <link>https://myriamtousignant.com/mediations/mediation-boucherville/</link>
+      <link>http://localhost:5173/mediations/mediation-boucherville/</link>
       <pubDate>Sun, 16 Oct 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/mediation-boucherville/</guid>
+      <guid>http://localhost:5173/mediations/mediation-boucherville/</guid>
       <description>Cette série de médiations scolaires a été offerte à l’automne 2022 dans des classes de troisièmes années à l’école primaire Paul-VI. Deux ateliers créatifs ont été proposés issus de l’univers visuel de l’exposition Maskipêche et de la pêche blanche. Les étudiants ont pu vivre l’expérience de créer un tissage simple en papier réalisé à l’aide de cartons de couleurs et d’images fournies par l’artiste. Les œuvres réalisées par les élèves lors de ces ateliers ont été présentées à la bibliothèque Montarville-Boucher-De La Bruère.</description>
     </item>
     
     <item>
       <title>Projet de médiation culturelle « Pour beaucoup d’obscurité, quelques éclats »</title>
-      <link>https://myriamtousignant.com/mediations/beaucoup-obscurite-quelques-eclats/</link>
+      <link>http://localhost:5173/mediations/beaucoup-obscurite-quelques-eclats/</link>
       <pubDate>Wed, 13 Apr 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/beaucoup-obscurite-quelques-eclats/</guid>
+      <guid>http://localhost:5173/mediations/beaucoup-obscurite-quelques-eclats/</guid>
       <description>2022
 Crédit photo : Jean-Michael Seminaro et Éric St-Pierre
 Le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclats a été mené au printemps 2022 par l’artiste multidisciplinaire Myriam Tousignant sur le territoire longueuillois. Ces ateliers s’adressaient aux parents ayant vécu un deuil périnatal. Lors de ces rencontres, les participant·e·s ont été convié·e·s à s’exprimer sur leurs expériences personnelles de cette épreuve par le biais du dessin, de l’écriture et de la poésie visuelle.</description>
@@ -58,10 +58,10 @@ Le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclat
     
     <item>
       <title>Médiation - Centre Culturel George-Vanier</title>
-      <link>https://myriamtousignant.com/mediations/ccgv/</link>
+      <link>http://localhost:5173/mediations/ccgv/</link>
       <pubDate>Mon, 01 Nov 2021 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/ccgv/</guid>
+      <guid>http://localhost:5173/mediations/ccgv/</guid>
       <description>Atelier de poésie visuelle et création d’un fanzine
 Animatrice : Myriam Tousignant
 CCGV, Centre Culturel Georges-Vanier
@@ -73,10 +73,10 @@ Cette série de trois ateliers créatifs a été offerte à l’automne 2021 au 
     
     <item>
       <title>Médiation - Bibliothèque St-Bruno</title>
-      <link>https://myriamtousignant.com/mediations/bibliotheque-st-bruno/</link>
+      <link>http://localhost:5173/mediations/bibliotheque-st-bruno/</link>
       <pubDate>Sat, 04 Dec 2021 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/bibliotheque-st-bruno/</guid>
+      <guid>http://localhost:5173/mediations/bibliotheque-st-bruno/</guid>
       <description>Atelier «Y’a pas d’âge pour…créer de la poésie!»
 Mardi 21 septembre 2021 - 19 h à 21 h
 À la bibliothèque Saint-Bruno pour les 18 ans et +
@@ -86,10 +86,10 @@ Offrez-vous la chance d’explorer une nouvelle façon de vous exprimer avec la 
     
     <item>
       <title>Atelier de fanzines - Zocalo</title>
-      <link>https://myriamtousignant.com/mediations/faimtl-zocalo/</link>
+      <link>http://localhost:5173/mediations/faimtl-zocalo/</link>
       <pubDate>Wed, 05 Jan 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/mediations/faimtl-zocalo/</guid>
+      <guid>http://localhost:5173/mediations/faimtl-zocalo/</guid>
       <description>Atelier Fanzine - Zocalo
 Vendredi 22 mars 2019 de 14h à 17h
 Zocalo

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expositions on Myriam Tousignant</title>
-    <link>https://myriamtousignant.com/expositions/</link>
+    <link>http://localhost:5173/expositions/</link>
     <description>Recent content in Expositions on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 29 Nov 2022 18:52:36 -0500</lastBuildDate><atom:link href="https://myriamtousignant.com/expositions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 18:52:36 -0500</lastBuildDate><atom:link href="http://localhost:5173/expositions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Maskipeche - Boucherville</title>
-      <link>https://myriamtousignant.com/expositions/maskipeche-boucherville/</link>
+      <link>http://localhost:5173/expositions/maskipeche-boucherville/</link>
       <pubDate>Tue, 29 Nov 2022 18:52:36 -0500</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/maskipeche-boucherville/</guid>
+      <guid>http://localhost:5173/expositions/maskipeche-boucherville/</guid>
       <description>Du 28 septembre au 30 octobre 2022
 Galerie Vincent-D’Indy
 Centre multifonctionnel Francine-Gadbois
@@ -21,10 +21,10 @@ Maskipêche est le nom de la pourvoirie que son père a jadis bâtie sur les ber
     
     <item>
       <title>Exposition collective &#34;J&#39;habite, les territoires&#34;, Édition 2022 de Manifestation JE/US</title>
-      <link>https://myriamtousignant.com/expositions/manifastation-jeus/</link>
+      <link>http://localhost:5173/expositions/manifastation-jeus/</link>
       <pubDate>Sat, 10 Sep 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/manifastation-jeus/</guid>
+      <guid>http://localhost:5173/expositions/manifastation-jeus/</guid>
       <description>Exposition collective &amp;ldquo;J&amp;rsquo;habite, les territoires&amp;rdquo;, Édition 2022 de Manifestation JE/US,
 Du 22 septembre au 16 octobre 2022, à l’intérieur et aux alentours de l&amp;rsquo;Édifice Marcel-Robidas - Maison de la culture à Longueuil.
 &amp;ldquo;Pour beaucoup d&amp;rsquo;obscurité, quelques éclats&amp;rdquo;
@@ -35,10 +35,10 @@ Un foetus se forme. Une vie s’annonce in utero, habitant le territoire des pos
     
     <item>
       <title>Maskipêche - Exposition au centre de diffusion Presse Papier de Trois-Rivières</title>
-      <link>https://myriamtousignant.com/expositions/maskipeche-presse-papier/</link>
+      <link>http://localhost:5173/expositions/maskipeche-presse-papier/</link>
       <pubDate>Sun, 13 Feb 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/maskipeche-presse-papier/</guid>
+      <guid>http://localhost:5173/expositions/maskipeche-presse-papier/</guid>
       <description>10 février au 13 mars 2022
 Centre de diffusion Presse Papier - Trois-Rivières
 Le Centre de Diffusion de l&amp;rsquo;Atelier Presse Papier est fier de vous présenter l’exposition Maskipêche de l’artiste Myriam Tousignant.
@@ -47,10 +47,10 @@ Maskipêche est le nom de la pourvoirie que son père a jadis bâtie sur les ber
     
     <item>
       <title>Liens sacrés, Portraits de femmes / CDEx</title>
-      <link>https://myriamtousignant.com/expositions/portraits-de-femmes-liens-sacres/</link>
+      <link>http://localhost:5173/expositions/portraits-de-femmes-liens-sacres/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:06 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/portraits-de-femmes-liens-sacres/</guid>
+      <guid>http://localhost:5173/expositions/portraits-de-femmes-liens-sacres/</guid>
       <description>Présenté au CDEx (centre de diffusion et d’expérimentation), 15 oct au 20 oct 2012
 Sérigraphie sur papier peint et tissus, 30 X 30 cm
 Crédit photo : Atelier Oil and sugar
@@ -59,10 +59,10 @@ Où réside le sacré et comment le traduire en image ? Cette recherche a pour b
     
     <item>
       <title>Le Bestiaire</title>
-      <link>https://myriamtousignant.com/expositions/lebestiaire/</link>
+      <link>http://localhost:5173/expositions/lebestiaire/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:08 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/lebestiaire/</guid>
+      <guid>http://localhost:5173/expositions/lebestiaire/</guid>
       <description>Présenté au centre L’Écart, 15 oct au 14 nov 2010
 Acrylique et huile sur bois,sérigraphie, médiums mixtes, 76 X 76 cm, 2009
 crédit photo : Cyclopes
@@ -72,10 +72,10 @@ Avec la série Bestiaire, Myriam Tousignant poursuit son incursion au sein de la
     
     <item>
       <title>Le corps pictural</title>
-      <link>https://myriamtousignant.com/expositions/le-corps-pictural/</link>
+      <link>http://localhost:5173/expositions/le-corps-pictural/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:17 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/le-corps-pictural/</guid>
+      <guid>http://localhost:5173/expositions/le-corps-pictural/</guid>
       <description>Exposition de Julien Boily et Myriam Tousignant, 30 janvier au 7 mars 2009
 acrylique et huile sur bois, sérigraphie, médiums mixtes, 2006
 crédit photo : Steve Leroux
@@ -84,10 +84,10 @@ Quelle est la gêne du peintre devant l’image à faire? Quelle est son hésita
     
     <item>
       <title>Convergence disloquée</title>
-      <link>https://myriamtousignant.com/expositions/convergence-disloquee/</link>
+      <link>http://localhost:5173/expositions/convergence-disloquee/</link>
       <pubDate>Wed, 25 Aug 2021 16:30:42 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/expositions/convergence-disloquee/</guid>
+      <guid>http://localhost:5173/expositions/convergence-disloquee/</guid>
       <description>Exposition collective, Galerie d’Art de Matane, 26 juin au 28 août 2008
 Série Règnes, Acrylique et huile sur bois, sérigraphie, 2006
 crédit photo : Myriam Tousignant

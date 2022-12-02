@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Livres d&#39;artiste on Myriam Tousignant</title>
-    <link>https://myriamtousignant.com/livres-artiste/</link>
+    <link>http://localhost:5173/livres-artiste/</link>
     <description>Recent content in Livres d&#39;artiste on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 24 Nov 2022 19:17:32 -0500</lastBuildDate><atom:link href="https://myriamtousignant.com/livres-artiste/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 19:17:32 -0500</lastBuildDate><atom:link href="http://localhost:5173/livres-artiste/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Livre d’artiste “Pour beaucoup d’obscurité, quelques éclats, Un projet de médiation culturelle”</title>
-      <link>https://myriamtousignant.com/livres-artiste/mediation-beaucoup-obscurite/</link>
+      <link>http://localhost:5173/livres-artiste/mediation-beaucoup-obscurite/</link>
       <pubDate>Thu, 24 Nov 2022 19:17:32 -0500</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/mediation-beaucoup-obscurite/</guid>
+      <guid>http://localhost:5173/livres-artiste/mediation-beaucoup-obscurite/</guid>
       <description>2022
 Crédit photo : Jean-Michael Seminaro Dépôt légal Bibliothèque et archives nationales du Québec, 2022 ISBN version imprimée 978-2-9815507-1-2
 Ce livre d’artiste propose de vous faire découvrir autrement le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclats qui a été mené au printemps 2022 par l’artiste multidisciplinaire Myriam Tousignant sur le territoire longueuillois. Ces ateliers s’adressaient aux parents ayant vécu un deuil périnatal. Lors de ces rencontres, les participant·e·s ont été convié·e·s à s’exprimer sur leurs expériences personnelles de cette épreuve par le biais du dessin, de l’écriture et de la poésie visuelle.</description>
@@ -20,10 +20,10 @@ Ce livre d’artiste propose de vous faire découvrir autrement le projet de mé
     
     <item>
       <title>Série - Les formes</title>
-      <link>https://myriamtousignant.com/livres-artiste/serie-formes/</link>
+      <link>http://localhost:5173/livres-artiste/serie-formes/</link>
       <pubDate>Tue, 24 Aug 2021 11:46:51 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/serie-formes/</guid>
+      <guid>http://localhost:5173/livres-artiste/serie-formes/</guid>
       <description>Série - Les formes: Triangle isocèle et Losange
 Production 2016
 crédit photo : Eric St-Pierre</description>
@@ -31,20 +31,20 @@ crédit photo : Eric St-Pierre</description>
     
     <item>
       <title>Maskipêche</title>
-      <link>https://myriamtousignant.com/livres-artiste/livre-maskipeche/</link>
+      <link>http://localhost:5173/livres-artiste/livre-maskipeche/</link>
       <pubDate>Thu, 26 Aug 2021 09:59:17 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/livre-maskipeche/</guid>
+      <guid>http://localhost:5173/livres-artiste/livre-maskipeche/</guid>
       <description>Production 2015
 crédit photo : Eric St-Pierre</description>
     </item>
     
     <item>
       <title>Fanzines #MoiAussi et Les racines enfouies</title>
-      <link>https://myriamtousignant.com/livres-artiste/fanzines/</link>
+      <link>http://localhost:5173/livres-artiste/fanzines/</link>
       <pubDate>Thu, 26 Aug 2021 09:58:07 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/livres-artiste/fanzines/</guid>
+      <guid>http://localhost:5173/livres-artiste/fanzines/</guid>
       <description>Les fanzines #MoiAussi et Les racines enfouies ont été produits dans le cadre Festival des arts imprimés de Montréal (2019). Cette création collaborative est le fruit de l’atelier donné au centre d&amp;rsquo;artistes Zocalo à Longueuil. Les participants ont été conviés à s’inspirer de la forme d’expression du Blackout poetry ou poésie par soustraction en utilisant le journal comme matériau de base à la création de courtes phrases percutantes. Les illustrations ont été produites par Mélodie Vachon Boucher, autrice de bandes dessinées et illustratrice.</description>
     </item>
     

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets on Myriam Tousignant</title>
-    <link>https://myriamtousignant.com/projets/</link>
+    <link>http://localhost:5173/projets/</link>
     <description>Recent content in Projets on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:00:00 -0400</lastBuildDate><atom:link href="https://myriamtousignant.com/projets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 10:00:00 -0400</lastBuildDate><atom:link href="http://localhost:5173/projets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Résidence Instagram - Culture Montérégie</title>
-      <link>https://myriamtousignant.com/projets/residence-ig-culture-monteregie/</link>
+      <link>http://localhost:5173/projets/residence-ig-culture-monteregie/</link>
       <pubDate>Thu, 06 Jan 2022 10:00:00 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/residence-ig-culture-monteregie/</guid>
+      <guid>http://localhost:5173/projets/residence-ig-culture-monteregie/</guid>
       <description>Décembre 2021
 Septième résidence Instagram : découvrez l&amp;rsquo;artiste Myriam Tousignant Constatant le succès des premières résidences Instagram, Culture Montérégie a décidé de récidiver et d&amp;rsquo;offrir la possibilité à quatre autres artistes de prendre le contrôle du compte Instagram Culture locale, culture vitale. Pour la septième résidence et première de cette deuxième cohorte, découvrez Myriam Tousignant (Longueuil), artiste multidisciplinaire. Elle mettra en relief sa démarche artistique du 1 au 28 décembre 2021.</description>
     </item>
     
     <item>
       <title>Petites mains</title>
-      <link>https://myriamtousignant.com/projets/petites-mains/</link>
+      <link>http://localhost:5173/projets/petites-mains/</link>
       <pubDate>Thu, 19 Aug 2021 18:44:11 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/petites-mains/</guid>
+      <guid>http://localhost:5173/projets/petites-mains/</guid>
       <description>Automne 2021 - en cours
 Le projet multidisciplinaire Petites mains est né pour donner suite à la découverte des archives personnelles de ma grand-mère maternelle, Réjanne Martin, décédée à l’âge de 94 ans. Ces documents témoignent des nombreux changements survenus lors du siècle dernier et font écho à des enjeux récemment soulevés comme la place qu’occupent les aînés au sein de la société québécoise.
 Depuis plusieurs mois, je développe une correspondance avec des femmes âgées de plus de 65 ans dans le but de découvrir leur parcours de vie et de collecter des images provenant de leur archive personnelle.</description>
@@ -30,10 +30,10 @@ Depuis plusieurs mois, je développe une correspondance avec des femmes âgées 
     
     <item>
       <title>Diffuser confiné.e</title>
-      <link>https://myriamtousignant.com/projets/diffuser-confinee/</link>
+      <link>http://localhost:5173/projets/diffuser-confinee/</link>
       <pubDate>Mon, 23 Aug 2021 11:47:33 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/diffuser-confinee/</guid>
+      <guid>http://localhost:5173/projets/diffuser-confinee/</guid>
       <description>Crédits photo: Éric St-Pierre et Myriam Tousignant
 Juin 2020
 Je suis une artiste multidisciplinaire qui privilégie les arts d’impressions au sein de sa pratique. Je m’intéresse à conserver et à transmettre notre patrimoine par le biais de l’art. À ma façon, je témoigne de la petite comme de la grande Histoire. Mes projets antérieurs sont ponctués de récits de vie de gens de mon entourage et/ou encore historiques. Avant tout, je souhaite raconter des histoires trouvant écho chez les autres.</description>
@@ -41,10 +41,10 @@ Je suis une artiste multidisciplinaire qui privilégie les arts d’impressions 
     
     <item>
       <title>Pour passer au travers</title>
-      <link>https://myriamtousignant.com/projets/pour-passer-au-travers/</link>
+      <link>http://localhost:5173/projets/pour-passer-au-travers/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:15 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/pour-passer-au-travers/</guid>
+      <guid>http://localhost:5173/projets/pour-passer-au-travers/</guid>
       <description>Crédits photo: Éric St-Pierre et Myriam Tousignant
 Printemps - été 2020
 « Pour passer au travers » est un projet d’autorésidence qui mènera à la réalisation d’un livre d’artiste, composé de poèmes quotidiens issus d’extraits de journaux produits pendant cette période d’isolement.
@@ -53,30 +53,30 @@ La situation dans laquelle nous évoluons depuis quelques semaines est déroutan
     
     <item>
       <title>Pour passer au travers - Poésie quotidienne</title>
-      <link>https://myriamtousignant.com/projets/poesie-quotidienne/</link>
+      <link>http://localhost:5173/projets/poesie-quotidienne/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:57 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/poesie-quotidienne/</guid>
+      <guid>http://localhost:5173/projets/poesie-quotidienne/</guid>
       <description>« Pour passer au travers » est un projet d’autorésidence qui mènera à la réalisation d’un livre d’artiste, composé de poèmes quotidiens issus d’extraits de journaux produits pendant cette période d’isolement.
 La situation dans laquelle nous évoluons depuis quelques semaines est déroutante. Pour moi, ça a été de me retrouver dans la position de mère au foyer à temps plein et de composer avec ce nouveau quotidien. En réponse à cette période de confinement imposé dans laquelle la pandémie nous a plongés, j’ai entamé un projet de poésie par soustraction.</description>
     </item>
     
     <item>
       <title>Maskipêche oeuvre installative</title>
-      <link>https://myriamtousignant.com/projets/maskipeche/</link>
+      <link>http://localhost:5173/projets/maskipeche/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:34 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/maskipeche/</guid>
+      <guid>http://localhost:5173/projets/maskipeche/</guid>
       <description>Janvier à Avril 2019
 Dans l’installation Maskipêche les images fixes, la projection et les représentations tri-dimensionnelles s’entrecroisent afin de proposer une expérience immersive qui explore l’idée de chantier, de coulisse, en lien avec la cabane de pêche et ses constructions précaires dans le paysage québécois. L&amp;rsquo;idée de ce projet est née d&amp;rsquo;une courte nouvelle écrite par ma soeur. Il s&amp;rsquo;agit d&amp;rsquo;un hommage à notre père et le récit nous livre l&amp;rsquo;incroyable histoire d&amp;rsquo;un citadin qui décida le temps d&amp;rsquo;une saison de devenir pourvoyeur de pêche blanche.</description>
     </item>
     
     <item>
       <title>Résidence CAL - Studios Éphémères</title>
-      <link>https://myriamtousignant.com/projets/studios-ephemeres/</link>
+      <link>http://localhost:5173/projets/studios-ephemeres/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:32 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/studios-ephemeres/</guid>
+      <guid>http://localhost:5173/projets/studios-ephemeres/</guid>
       <description>.logo--studioephemere { display: block; text-indent: -9999px; width: 100px; height: 82px; background: url(images/studios_ephemeres_logo.svg); background-size: 100px 82px; } .logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Studios de création éphémères pour artistes - Studios Éphémères
 Le Conseil des arts de Longueuil transforme la station de métro Longueuil–Université-de-Sherbrooke en studios éphémères de création pour artistes.
 Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019) aux Studios Éphémères au métro Longueuil.</description>
@@ -84,19 +84,19 @@ Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019)
     
     <item>
       <title>Peintures - Production 2015 / 2016</title>
-      <link>https://myriamtousignant.com/projets/peintures-production-2015-2016/</link>
+      <link>http://localhost:5173/projets/peintures-production-2015-2016/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:49 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/peintures-production-2015-2016/</guid>
+      <guid>http://localhost:5173/projets/peintures-production-2015-2016/</guid>
       <description>crédit photo : Eric St-Pierre</description>
     </item>
     
     <item>
       <title>Liens sacrés, Portraits de femmes / Zocalo</title>
-      <link>https://myriamtousignant.com/projets/liens-sacres-portraits-de-femmes/</link>
+      <link>http://localhost:5173/projets/liens-sacres-portraits-de-femmes/</link>
       <pubDate>Wed, 25 Aug 2021 16:31:24 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/liens-sacres-portraits-de-femmes/</guid>
+      <guid>http://localhost:5173/projets/liens-sacres-portraits-de-femmes/</guid>
       <description>Présenté à Zocalo du 8 au 22 avril 2013.
 crédit photo : Cara Déry
 Liens sacrés / Portraits de femmes, est la deuxième présentation publique de mon travail de recherche mené lors de la maîtrise à l’université du Québec à Montréal. Il s’agit d’une réinterprétation de l’exposition présenté en octobre 2012 au CDEx lors de mon exposition de diplômation.</description>
@@ -104,10 +104,10 @@ Liens sacrés / Portraits de femmes, est la deuxième présentation publique de 
     
     <item>
       <title>Series Liens Sacres Portraits De Femmes</title>
-      <link>https://myriamtousignant.com/projets/series-liens-sacres-portraits-de-femmes/</link>
+      <link>http://localhost:5173/projets/series-liens-sacres-portraits-de-femmes/</link>
       <pubDate>Wed, 25 Aug 2021 16:32:23 -0400</pubDate>
       
-      <guid>https://myriamtousignant.com/projets/series-liens-sacres-portraits-de-femmes/</guid>
+      <guid>http://localhost:5173/projets/series-liens-sacres-portraits-de-femmes/</guid>
       <description>Liens sacrés / Portraits de femmes
 crédit photo : Éric St-Pierre</description>
     </item>

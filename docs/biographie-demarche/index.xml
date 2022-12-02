@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biographie &amp; démarche on Myriam Tousignant</title>
-    <link>https://myriamtousignant.com/biographie-demarche/</link>
+    <link>http://localhost:5173/biographie-demarche/</link>
     <description>Recent content in Biographie &amp; démarche on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Aug 2021 14:16:38 -0400</lastBuildDate><atom:link href="https://myriamtousignant.com/biographie-demarche/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 14:16:38 -0400</lastBuildDate><atom:link href="http://localhost:5173/biographie-demarche/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

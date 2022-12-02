@@ -7,12 +7,32 @@
     "doc": "docs"
   },
   "dependencies": {
-    "embla-carousel": "^4.5.3"
+    "bootstrap": "^5.2.3",
+    "embla-carousel": "^4.5.3",
+    "pro-gallery": "^4.1.76",
+    "sass": "^1.56.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^2.2.0",
+    "npm-run-all": "^4.1.5",
+    "onchange": "^7.1.0",
+    "react-images": "^1.2.0-beta.7",
+    "react-photo-gallery": "^8.0.0",
+    "tslib": "^2.4.1",
+    "typescript": "^4.9.3",
+    "vite": "^3.2.4",
+    "vite-hugo-plugin": "^3.0.5"
+  },
   "scripts": {
-    "watch": "hugo server",
-    "build": "hugo"
+    "dev": "npm run build:hugo && run-p dev:**",
+    "dev:vite": "vite --host",
+    "dev:hugo-watch": "onchange 'content/**/*.md' 'config.toml' '../layouts/**/*' -- npm run build:hugo",
+    "build": "npm run build:hugo && npm run build:vite",
+    "build:hugo": "env HUGO_BASEURL='http://localhost:5173/' hugo",
+    "build:vite": "vite build"
   },
   "repository": {
     "type": "git",
