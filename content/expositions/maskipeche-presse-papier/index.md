@@ -7,29 +7,12 @@ weight: 5
 featured: false
 summaryImage: 'images/presse-papier-02.jpg'
 listImage: 'images/presse-papier-02.jpg'
-projectImages:
-  - images/presse-papier-01.jpg
-  - images/presse-papier-02.jpg
-  - images/presse-papier-03.jpg
-  - images/presse-papier-04.jpg
-  - images/presse-papier-05.jpg
-  - images/presse-papier-06.jpg
-  - images/presse-papier-07.jpg
-  - images/presse-papier-08.jpg
-  - images/presse-papier-09.jpg
-  - images/presse-papier-10.jpg
-  - images/presse-papier-11.jpg
-  - images/presse-papier-12.jpg
-  - images/presse-papier-13.jpg
-  - images/presse-papier-14.jpg
-  - images/presse-papier-15.jpg
-  - images/presse-papier-16.jpg
-  - images/presse-papier-17.jpg
-  - images/presse-papier-18.jpg
 ---
 
 _10 février au 13 mars 2022  
 Centre de diffusion Presse Papier - Trois-Rivières_
+
+{{< gallery match="images/presse-papier-*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=enlarge lastRow=nojustify >}}
 
 Le Centre de Diffusion de l'Atelier Presse Papier est fier de vous présenter l’exposition Maskipêche de l’artiste Myriam Tousignant.
 

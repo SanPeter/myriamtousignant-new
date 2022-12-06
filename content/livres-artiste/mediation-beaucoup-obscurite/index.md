@@ -8,21 +8,13 @@ featured: true
 weight: 1
 summaryImage: 'images/MyriamTousignantBook (1 of 9).jpg'
 listImage: 'images/MyriamTousignantBook (1 of 9).jpg'
-projectImages:
-  - "images/MyriamTousignantBook (1 of 9).jpg"
-  - "images/MyriamTousignantBook (2 of 9).jpg"
-  - "images/MyriamTousignantBook (3 of 9).jpg"
-  - "images/MyriamTousignantBook (4 of 9).jpg"
-  - "images/MyriamTousignantBook (5 of 9).jpg"
-  - "images/MyriamTousignantBook (6 of 9).jpg"
-  - "images/MyriamTousignantBook (7 of 9).jpg"
-  - "images/MyriamTousignantBook (8 of 9).jpg"
-  - "images/MyriamTousignantBook (9 of 9).jpg"  
 ---
 
 _2022  
 Crédit photo : Jean-Michael Seminaro 
 Dépôt légal Bibliothèque et archives nationales du Québec, 2022 ISBN version imprimée 978-2-9815507-1-2_
+
+{{< gallery match="images/M*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true lastRow=nojustify thumbnailHoverEffect=enlarge >}}
 
 Ce livre d’artiste propose de vous faire découvrir autrement le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclats qui a été mené au printemps 2022 par l’artiste multidisciplinaire Myriam Tousignant sur le territoire longueuillois. Ces ateliers s’adressaient aux parents ayant vécu un deuil périnatal. Lors de ces rencontres, les participant·e·s ont été convié·e·s à s’exprimer sur leurs expériences personnelles de cette épreuve par le biais du dessin, de l’écriture et de la poésie visuelle.  
 

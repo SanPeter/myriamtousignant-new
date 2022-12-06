@@ -3,6 +3,7 @@ languageCode = 'fr'
 title = 'Myriam Tousignant'
 googleAnalytics = 'G-5FWE4D9ED7'
 publishDir = 'docs'
+theme = ["hugo-shortcode-gallery"]
 
 [markup.goldmark.renderer]
 unsafe= true
@@ -13,3 +14,5 @@ description = 'Artiste, peintre en art contemporain'
 keywords = 'Myriam Tousignant, artiste, peintre, peinture, art conteporain, vidéo, animation, Myriam,  Tousignant, expositions, exposition, UQÀM, myriam, myriam tousignant, tousignant'
 instagram = 'https://www.instagram.com/myriamtousignant_art/'
 onlineshop = 'https://www.etsy.com/ca-fr/shop/AtelierMTousignant'
+galleryLoadJQuery = true
+
