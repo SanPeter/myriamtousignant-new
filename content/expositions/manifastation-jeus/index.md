@@ -6,19 +6,13 @@ draft: false
 weight: 5
 featured: true
 summaryImage: 'images/manifestation-jeus_01.jpg'
-listImage: 'images/manifestation-jeus_01.jpg'
-projectImages:
-  - images/manifestation-jeus_01.jpg
-  - images/manifestation-jeus_02.jpg
-  - images/manifestation-jeus_03.jpg
-  - images/manifestation-jeus_04.jpg
-  - images/manifestation-jeus_05.jpg
-  - images/manifestation-jeus_06.jpg
-  - images/manifestation-jeus_07.jpg            
+listImage: 'images/manifestation-jeus_01.jpg'         
 ---
 
 _Exposition collective  "J'habite, les territoires", Édition 2022 de Manifestation JE/US,  
 Du 22 septembre au 16 octobre 2022, à l’intérieur et aux alentours de l'Édifice Marcel-Robidas - Maison de la culture à Longueuil._
+
+{{< gallery match="images/manifestation-jeus*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=enlarge >}}
 
 "Pour beaucoup d'obscurité, quelques éclats"  
 Installation  
