@@ -11,13 +11,14 @@
        </div>
        */}}
 
-       {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
-       {{ .Render "summary" }}
-   {{ end }} 
+
       
        {{ range where (where .Site.Pages "Section" "expositions") "Params.Featured" true }}
        {{ .Render "summary" }}
    {{ end }} 
+   {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
+   {{ .Render "summary" }}
+{{ end }} 
        {{ range where (where .Site.Pages "Section" "mediations") "Params.Featured" true }}
        {{ .Render "summary" }}
      {{ end }}       
