@@ -6,7 +6,16 @@
     <description>Recent content in Expositions on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 29 Nov 2022 18:52:36 -0500</lastBuildDate><atom:link href="https://myriamtousignant.com/expositions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 20:00:00 -0500</lastBuildDate><atom:link href="https://myriamtousignant.com/expositions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maskipêche - Vieux Presbytère de Saint-Bruno</title>
+      <link>https://myriamtousignant.com/expositions/maskipeche-st-bruno/</link>
+      <pubDate>Thu, 12 Jan 2023 20:00:00 -0500</pubDate>
+      
+      <guid>https://myriamtousignant.com/expositions/maskipeche-st-bruno/</guid>
+      <description>.logo--stbruno { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/logo-saint-bruno-de-montarville.svg); background-size: 200px 64px; }              if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-455765d88cc3c92d730d3bb976e117f3-0&#34;); let swipeboxInstance = null; gallery.on(&#39;jg.complete&#39;, () = { $(() = { $(&#39;.lazy&#39;).Lazy({ visibleOnly: true, afterLoad: element = element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;}) }); }); swipeboxInstance = $(&#39;.</description>
+    </item>
+    
     <item>
       <title>Maskipêche - Boucherville</title>
       <link>https://myriamtousignant.com/expositions/maskipeche-boucherville/</link>
