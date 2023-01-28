@@ -6,10 +6,10 @@ date: 2023-01-28T07:00:00-05:00
 draft: false
 featured: true
 weight: 1
-summaryImage: 'images/_DSC2993.jpg'
-listImage: 'images/_DSC2993.jpg'
+summaryImage: 'images/intervention-poetique-01.jpg'
+listImage: 'images/intervention-poetique-01.jpg'
 ---
-{{< gallery match="images/_DSC*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
+{{< gallery match="images/intervention-poetique-*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
 
 Myriam Tousignant poursuivra son travail en poésie visuelle afin d’enrichir le corpus du projet multidisciplinaire Pour beaucoup d’obscurité, quelques éclats qui aborde le thème du deuil périnatal. Par une résidence en bibliothèque, la conception d'un livre artisanal (fanzine) ainsi qu'une cabine de projection vidéo, l'artiste souhaite ouvrir le dialogue sur ce sujet et lui donner une visibilité.  
 
