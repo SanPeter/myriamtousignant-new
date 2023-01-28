@@ -4,7 +4,7 @@ title: 'Atelier de découverte / Poésie visuelle'
 description: "Atelier de découverte / Poésie visuelle - Zocalo - Octobre 2022"
 date: 2022-10-30T08:00:00-04:00
 draft: false
-featured: true
+featured: false
 weight: 10
 summaryImage: 'images/zocalo-atelier-poesie-aut20221-1.jpg'
 listImage: 'images/zocalo-atelier-poesie-aut20221-1.jpg'             

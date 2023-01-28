@@ -4,7 +4,7 @@ title: "Livre d’artiste “Pour beaucoup d’obscurité, quelques éclats, Un 
 description: ''
 date: 2022-11-24T19:17:32-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/MyriamTousignantBook (1 of 9).jpg'
 listImage: 'images/MyriamTousignantBook (1 of 9).jpg'

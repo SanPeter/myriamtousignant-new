@@ -4,7 +4,7 @@ title: Exposition collective "J'habite, les territoires", Édition 2022 de Manif
 date: 2022-09-10T10:00:00-04:00
 draft: false
 weight: 5
-featured: true
+featured: false
 summaryImage: 'images/manifestation-jeus_01.jpg'
 listImage: 'images/manifestation-jeus_01.jpg'         
 ---

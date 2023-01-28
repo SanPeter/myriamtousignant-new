@@ -4,7 +4,7 @@ title: "Maskipêche - Boucherville"
 description: ''
 date: 2022-11-29T18:52:36-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/maskipeche_boucherville-1.jpg'
 listImage: 'images/maskipeche_boucherville-1.jpg'

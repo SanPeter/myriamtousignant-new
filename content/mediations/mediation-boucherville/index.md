@@ -4,7 +4,7 @@ title: 'Médiations scolaires/ École primaire Paul-VI, Boucherville'
 description: "Médiations scolaires/ École primaire Paul-VI, Boucherville - Septembre 2022"
 date: 2022-10-16T10:00:00-04:00
 draft: false
-featured: true
+featured: false
 weight: 10
 summaryImage: 'images/mediation-boucherville-0.jpg'
 listImage: 'images/mediation-boucherville-1.jpg'
