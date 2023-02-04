@@ -7,12 +7,14 @@
     "doc": "docs"
   },
   "dependencies": {
-    "embla-carousel": "^4.5.3"
+    "dotenv": "^16.0.3",
+    "embla-carousel": "^4.5.3",
+    "ftp-deploy": "^2.4.3"
   },
-  "devDependencies": {},
   "scripts": {
     "watch": "hugo server",
-    "build": "hugo"
+    "build": "hugo",
+    "deploy": "node deploy"
   },
   "repository": {
     "type": "git",
