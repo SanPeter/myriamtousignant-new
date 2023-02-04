@@ -11,3 +11,7 @@
 content/.DS_Store
 content/mediations/.DS_Store
 content/mediations/ccgv/.DS_Store
+
+# dotenv environment variables file
+.env
+.env.test
