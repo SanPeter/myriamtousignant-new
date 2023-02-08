@@ -13,7 +13,7 @@
       <pubDate>Sat, 28 Jan 2023 07:00:00 -0500</pubDate>
       
       <guid>https://myriamtousignant.com/projets/interventions-poetiques/</guid>
-      <description>if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-b06ab15b20025278d930cf7950e7eb74-0&#34;); let swipeboxInstance = null; gallery.on(&#39;jg.complete&#39;, () = { $(() = { $(&#39;.lazy&#39;).Lazy({ visibleOnly: true, afterLoad: element = element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;}) }); }); swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox( jQuery.extend({}, { } ) ); }); gallery.justifiedGallery({ rowHeight : &#34;</description>
+      <description>if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;</description>
     </item>
     
     <item>
