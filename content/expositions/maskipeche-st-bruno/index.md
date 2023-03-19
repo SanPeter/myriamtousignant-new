@@ -20,7 +20,9 @@ listImage: 'images/mtousignant-lapourvoirie.jpg'
 }
 </style>
 
-{{< gallery match="images/carton*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
+{{< gallery match="images/maskipeche*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
+
+Crédit photo: Jean-Michael Seminaro et Éric St-Pierre
 
 _Du 22 janvier 2023 au 5 mars 2023  
 Vernissage le 22 janvier 2023 à 13h  
