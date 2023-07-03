@@ -5,7 +5,7 @@ description: 'Pour beaucoup d’obscurité, quelques éclats '
 date: 2022-11-24T20:44:40-05:00
 draft: false
 featured: false
-weight: 1
+weight: 2
 summaryImage: 'images/LongueuilTableRondeMyriamTousignantHiRes (1 of 17).jpg'
 listImage: 'images/LongueuilTableRondeMyriamTousignantHiRes (1 of 17).jpg'
 projectImages:
