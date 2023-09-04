@@ -9,8 +9,14 @@
                </div>
            </a>
        </div>
-       */}}
-
+       */}} 
+   
+   {{ with .Site.GetPage "/projets" }}
+       {{ with .GetPage "revue-moebius.md" }}
+        {{ .Render "summary" }}
+       {{ end }}
+   {{ end }}
+       
     <div class="summary">
         <a href="https://www.lafabriqueculturelle.tv/capsules/14628/pour-beaucoup-d-obscurite-quelques-eclats-projet-de-mediation-culturelle-de-myriam-tousignant" class=''>
             <div class="overlay__container">
