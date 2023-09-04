@@ -6,7 +6,20 @@
     <description>Recent content in Accueil on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 02 Jul 2023 10:00:00 -0400</lastBuildDate><atom:link href="https://myriamtousignant.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 15:00:00 -0400</lastBuildDate><atom:link href="https://myriamtousignant.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revue Moebius</title>
+      <link>https://myriamtousignant.com/projets/revue-moebius/</link>
+      <pubDate>Fri, 01 Sep 2023 15:00:00 -0400</pubDate>
+      
+      <guid>https://myriamtousignant.com/projets/revue-moebius/</guid>
+      <description>Le lit ne sera plus jamais blanc, revue Moeubius no 178
+Dirigé par Jennifer Bélanger et Kesso Saulnier
+Penser la création
+Myriam Tousignant, &amp;ldquo;Écrire pour se souvenir&amp;rdquo;
+Ces mots ruisselant de nos gorges baignent nos horizons de rouge. Nous pressentons l’incendie: cela s’enflamme déjà sous nos paupières. Nos émotions s’embrasent. Nous voulons être de bois, pour mieux nous enraciner à ce meuble qui nous plombe: brûler. Mais nos sèves coulent encore.</description>
+    </item>
+    
     <item>
       <title>Médiation - Atelier poésie et macarons</title>
       <link>https://myriamtousignant.com/mediations/atelier-poesie-macarons/</link>
@@ -27,7 +40,9 @@ En plus d&amp;rsquo;être bien ancrée dans l’ADN d’Hochelaga-Maisonneuve, l
       <pubDate>Sat, 28 Jan 2023 07:00:00 -0500</pubDate>
       
       <guid>https://myriamtousignant.com/projets/interventions-poetiques/</guid>
-      <description>if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;</description>
+      <description>Résidence d&amp;rsquo;écriture à la bibliothèque Raymond-Lévesque
+du 30 janvier au 3 février 2023
+Myriam Tousignant poursuivra son travail en poésie visuelle afin d’enrichir le corpus du projet multidisciplinaire Pour beaucoup d’obscurité, quelques éclats qui aborde le thème du deuil périnatal. Par une résidence en bibliothèque, la conception d&amp;rsquo;un livre artisanal (fanzine) ainsi qu&amp;rsquo;une cabine de projection vidéo, l&amp;rsquo;artiste souhaite ouvrir le dialogue sur ce sujet et lui donner une visibilité.</description>
     </item>
     
     <item>
@@ -36,7 +51,12 @@ En plus d&amp;rsquo;être bien ancrée dans l’ADN d’Hochelaga-Maisonneuve, l
       <pubDate>Thu, 12 Jan 2023 20:00:00 -0500</pubDate>
       
       <guid>https://myriamtousignant.com/expositions/maskipeche-st-bruno/</guid>
-      <description>.logo--stbruno { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/logo-saint-bruno-de-montarville.svg); background-size: 200px 64px; }                                                                                                  if (!</description>
+      <description>Crédit photo: Jean-Michael Seminaro et Éric St-Pierre
+Du 22 janvier 2023 au 5 mars 2023
+Vernissage le 22 janvier 2023 à 13h
+Centre d&amp;rsquo;exposition du Vieux Presbytère de Saint-Bruno
+Myriam Tousignant – Maskipêche
+Né d’un geste de réappropriation archivistique, Maskipêche est un projet poétique qui témoigne d’une mémoire familiale et collective à préserver. Les photographies relatant la période où le père de l’artiste était à la tête d’une pourvoirie en sont la pierre angulaire : c’est en effet en renouant avec le récit de l’unique saison où la pêche blanche sur le Lac Saint-Pierre est devenue la réalité quotidienne de la famille Tousignant que l’artiste parvient à penser et constituer cet hommage.</description>
     </item>
     
     <item>
@@ -48,7 +68,7 @@ En plus d&amp;rsquo;être bien ancrée dans l’ADN d’Hochelaga-Maisonneuve, l
       <description>Du 28 septembre au 30 octobre 2022
 Galerie Vincent-D’Indy
 Centre multifonctionnel Francine-Gadbois
-     .jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                                                                          if (!</description>
+Maskipêche est le nom de la pourvoirie que son père a jadis bâtie sur les berges du lac Saint-Pierre. Ce projet est né d&amp;rsquo;une courte nouvelle écrite par sa sœur qui raconte le récit de leur père qui décida le temps d&amp;rsquo;une saison de devenir pourvoyeur de pêche blanche. Son approche de la pêche hivernale, ou pêche blanche n’est pas seulement autobiographique, mais aussi collective.</description>
     </item>
     
     <item>
@@ -59,7 +79,7 @@ Centre multifonctionnel Francine-Gadbois
       <guid>https://myriamtousignant.com/livres-artiste/mediation-beaucoup-obscurite/</guid>
       <description>2022
 Crédit photo : Jean-Michael Seminaro Dépôt légal Bibliothèque et archives nationales du Québec, 2022 ISBN version imprimée 978-2-9815507-1-2
-     .jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                                if (!</description>
+Ce livre d’artiste propose de vous faire découvrir autrement le projet de médiation culturelle Pour beaucoup d’obscurité, quelques éclats qui a été mené au printemps 2022 par l’artiste multidisciplinaire Myriam Tousignant sur le territoire longueuillois. Ces ateliers s’adressaient aux parents ayant vécu un deuil périnatal. Lors de ces rencontres, les participant·e·s ont été convié·e·s à s’exprimer sur leurs expériences personnelles de cette épreuve par le biais du dessin, de l’écriture et de la poésie visuelle.</description>
     </item>
     
     <item>
@@ -104,7 +124,10 @@ Emmanuelle Guay, ministère de la culture et des communication</description>
       <guid>https://myriamtousignant.com/expositions/manifastation-jeus/</guid>
       <description>Exposition collective &amp;ldquo;J&amp;rsquo;habite, les territoires&amp;rdquo;, Édition 2022 de Manifestation JE/US,
 Du 22 septembre au 16 octobre 2022, à l’intérieur et aux alentours de l&amp;rsquo;Édifice Marcel-Robidas - Maison de la culture à Longueuil.
-     .jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                             if (!</description>
+&amp;ldquo;Pour beaucoup d&amp;rsquo;obscurité, quelques éclats&amp;rdquo;
+Installation
+Carton, foamcore, découpes de livres et journaux
+Un foetus se forme. Une vie s’annonce in utero, habitant le territoire des possibles, des rêves, pour tous ceux qui l’attendent et se projettent en un à-venir.</description>
     </item>
     
     <item>
@@ -113,7 +136,7 @@ Du 22 septembre au 16 octobre 2022, à l’intérieur et aux alentours de l&amp;
       <pubDate>Thu, 05 May 2022 10:00:00 -0400</pubDate>
       
       <guid>https://myriamtousignant.com/art-public/tete-a-tete/</guid>
-      <description>.logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Projet d&amp;rsquo;art public Tête à tête
+      <description>Projet d&amp;rsquo;art public Tête à tête
 du 3 au 29 mai 2022
 crédit photo Johanna Griffith &amp;amp; Éric St-Pierre
 Le Centre vous invite à découvrir du 3 au 29 mai : 𝐓𝐄̂𝐓𝐄-𝐀̀-𝐓𝐄̂𝐓𝐄, une exposition collective et éphémère qui réunit quatre duos d&amp;rsquo;artistes dans quatre lieux publics à Longueuil.
@@ -128,7 +151,8 @@ L’exposition, coordonnée par Johanna Griffith présente le travail des artist
       <guid>https://myriamtousignant.com/expositions/maskipeche-presse-papier/</guid>
       <description>10 février au 13 mars 2022
 Centre de diffusion Presse Papier - Trois-Rivières
-     .jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                                                           if (!</description>
+Le Centre de Diffusion de l&amp;rsquo;Atelier Presse Papier est fier de vous présenter l’exposition Maskipêche de l’artiste Myriam Tousignant.
+Maskipêche est le nom de la pourvoirie que son père a jadis bâtie sur les berges du lac Saint- Pierre. Ce projet est né d&amp;rsquo;une courte nouvelle écrite par sa sœur qui raconte le récit de leur père qui décida le temps d&amp;rsquo;une saison de devenir pourvoyeur de pêche blanche.</description>
     </item>
     
     <item>
@@ -185,7 +209,8 @@ Centre de diffusion Presse Papier - Trois-Rivières
       <description>Atelier de découverte / Poésie visuelle
 23 octobre 2022
 Zocalo centre d’artistes en art imprimé
-     .jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                                if (!jQuery) { alert(&#34;jquery is not loaded&#34;</description>
+Cet atelier offert à l’automne 2022 au centre d’artistes Zocalo situé à Longueuil a permis aux participants de s’initier au genre de la poésie visuelle. Les participants ont eu la chance de rédiger de la poésie à l’aide de différents exercices dirigés. Des ouvrages de référence étaient disponibles sur place.
+Poésie visuelle - Zocalo (zocaloweb.org)</description>
     </item>
     
     <item>
@@ -194,7 +219,7 @@ Zocalo centre d’artistes en art imprimé
       <pubDate>Sun, 16 Oct 2022 10:00:00 -0400</pubDate>
       
       <guid>https://myriamtousignant.com/mediations/mediation-boucherville/</guid>
-      <description>.jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                                                        if (!</description>
+      <description>Cette série de médiations scolaires a été offerte à l’automne 2022 dans des classes de troisièmes années à l’école primaire Paul-VI. Deux ateliers créatifs ont été proposés issus de l’univers visuel de l’exposition Maskipêche et de la pêche blanche. Les étudiants ont pu vivre l’expérience de créer un tissage simple en papier réalisé à l’aide de cartons de couleurs et d’images fournies par l’artiste. Les œuvres réalisées par les élèves lors de ces ateliers ont été présentées à la bibliothèque Montarville-Boucher-De La Bruère.</description>
     </item>
     
     <item>
@@ -371,9 +396,10 @@ Dans l’installation Maskipêche les images fixes, la projection et les représ
       <pubDate>Wed, 25 Aug 2021 16:32:32 -0400</pubDate>
       
       <guid>https://myriamtousignant.com/projets/studios-ephemeres/</guid>
-      <description>.logo--studioephemere { display: block; text-indent: -9999px; width: 100px; height: 82px; background: url(images/studios_ephemeres_logo.svg); background-size: 100px 82px; } .logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Studios de création éphémères pour artistes - Studios Éphémères
+      <description>Studios de création éphémères pour artistes - Studios Éphémères
 Le Conseil des arts de Longueuil transforme la station de métro Longueuil–Université-de-Sherbrooke en studios éphémères de création pour artistes.
-Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019) aux Studios Éphémères au métro Longueuil.</description>
+Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019) aux Studios Éphémères au métro Longueuil. Le but est donc d’offrir une documentation de la progression de mon installation.
+Cette installation entend associer les images fixes, la vidéo et des représentations tridimensionnelles pour proposer une expérience immersive qui explore l’idée de chantier, de coulisse, en lien avec la cabane de pêche et ses constructions précaires dans le paysage québécois.</description>
     </item>
     
     <item>
