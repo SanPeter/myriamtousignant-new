@@ -4,7 +4,7 @@ title: "Maskipêche - Vieux Presbytère de Saint-Bruno"
 description: ''
 date: 2023-01-12T20:00:00-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/mtousignant-lapourvoirie.jpg'
 listImage: 'images/mtousignant-lapourvoirie.jpg'

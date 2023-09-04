@@ -6,14 +6,29 @@
     <description>Recent content in Projets on Myriam Tousignant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 28 Jan 2023 07:00:00 -0500</lastBuildDate><atom:link href="https://myriamtousignant.com/projets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 15:00:00 -0400</lastBuildDate><atom:link href="https://myriamtousignant.com/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revue Moebius</title>
+      <link>https://myriamtousignant.com/projets/revue-moebius/</link>
+      <pubDate>Fri, 01 Sep 2023 15:00:00 -0400</pubDate>
+      
+      <guid>https://myriamtousignant.com/projets/revue-moebius/</guid>
+      <description>Le lit ne sera plus jamais blanc, revue Moeubius no 178
+Dirigé par Jennifer Bélanger et Kesso Saulnier
+Penser la création
+Myriam Tousignant, &amp;ldquo;Écrire pour se souvenir&amp;rdquo;
+Ces mots ruisselant de nos gorges baignent nos horizons de rouge. Nous pressentons l’incendie: cela s’enflamme déjà sous nos paupières. Nos émotions s’embrasent. Nous voulons être de bois, pour mieux nous enraciner à ce meuble qui nous plombe: brûler. Mais nos sèves coulent encore.</description>
+    </item>
+    
     <item>
       <title>Interventions poétiques- Pour beaucoup d&#39;obscurité quelques éclats</title>
       <link>https://myriamtousignant.com/projets/interventions-poetiques/</link>
       <pubDate>Sat, 28 Jan 2023 07:00:00 -0500</pubDate>
       
       <guid>https://myriamtousignant.com/projets/interventions-poetiques/</guid>
-      <description>if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;</description>
+      <description>Résidence d&amp;rsquo;écriture à la bibliothèque Raymond-Lévesque
+du 30 janvier au 3 février 2023
+Myriam Tousignant poursuivra son travail en poésie visuelle afin d’enrichir le corpus du projet multidisciplinaire Pour beaucoup d’obscurité, quelques éclats qui aborde le thème du deuil périnatal. Par une résidence en bibliothèque, la conception d&amp;rsquo;un livre artisanal (fanzine) ainsi qu&amp;rsquo;une cabine de projection vidéo, l&amp;rsquo;artiste souhaite ouvrir le dialogue sur ce sujet et lui donner une visibilité.</description>
     </item>
     
     <item>
@@ -86,9 +101,10 @@ Dans l’installation Maskipêche les images fixes, la projection et les représ
       <pubDate>Wed, 25 Aug 2021 16:32:32 -0400</pubDate>
       
       <guid>https://myriamtousignant.com/projets/studios-ephemeres/</guid>
-      <description>.logo--studioephemere { display: block; text-indent: -9999px; width: 100px; height: 82px; background: url(images/studios_ephemeres_logo.svg); background-size: 100px 82px; } .logo--cal { display: block; text-indent: -9999px; width: 200px; height: 64px; background: url(images/cal_logo.svg); background-size: 200px 64px; }  Studios de création éphémères pour artistes - Studios Éphémères
+      <description>Studios de création éphémères pour artistes - Studios Éphémères
 Le Conseil des arts de Longueuil transforme la station de métro Longueuil–Université-de-Sherbrooke en studios éphémères de création pour artistes.
-Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019) aux Studios Éphémères au métro Longueuil.</description>
+Voici la documentation visuelle de ma résidence d’artiste (janvier-mars 2019) aux Studios Éphémères au métro Longueuil. Le but est donc d’offrir une documentation de la progression de mon installation.
+Cette installation entend associer les images fixes, la vidéo et des représentations tridimensionnelles pour proposer une expérience immersive qui explore l’idée de chantier, de coulisse, en lien avec la cabane de pêche et ses constructions précaires dans le paysage québécois.</description>
     </item>
     
     <item>
