@@ -11,12 +11,18 @@
        </div>
        */}} 
    
-   {{ with .Site.GetPage "/projets" }}
-       {{ with .GetPage "revue-moebius.md" }}
+    {{/*   
+        {{ with .Site.GetPage "/projets" }}
+        {{ with .GetPage "revue-moebius.md" }}
+            {{ .Render "summary" }}
+        {{ end }}
+    {{ end }}
+    */}}       
+
+    {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
         {{ .Render "summary" }}
-       {{ end }}
-   {{ end }}
-       
+    {{ end }} 
+
     <div class="summary">
         <a href="https://www.lafabriqueculturelle.tv/capsules/14628/pour-beaucoup-d-obscurite-quelques-eclats-projet-de-mediation-culturelle-de-myriam-tousignant" class=''>
             <div class="overlay__container">
@@ -40,9 +46,6 @@
        {{ .Render "summary" }}
     {{ end }}
 
-    {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
-        {{ .Render "summary" }}
-    {{ end }} 
        
     {{ range where (where .Site.Pages "Section" "art-public") "Params.Featured" true }}
        {{ .Render "summary" }}

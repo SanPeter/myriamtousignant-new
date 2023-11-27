@@ -9,7 +9,7 @@ theme = ["hugo-shortcode-gallery"]
 unsafe= true
 
 [params]
-copyrightInfo = '© 2021 - 2022 Myriam Tousignant Tous Droits Réservés.'
+copyrightInfo = '© 2021 - 2023 Myriam Tousignant Tous Droits Réservés.'
 description = 'Artiste, peintre en art contemporain'
 keywords = 'Myriam Tousignant, artiste, peintre, peinture, art conteporain, vidéo, animation, Myriam,  Tousignant, expositions, exposition, UQÀM, myriam, myriam tousignant, tousignant'
 instagram = 'https://www.instagram.com/myriamtousignant_art/'

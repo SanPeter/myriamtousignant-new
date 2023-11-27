@@ -4,7 +4,7 @@ title: 'Médiation - Atelier poésie et macarons'
 description: ""
 date: 2023-07-02T10:00:00-04:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/atelier-poesie-macarons-1.jpg'
 listImage: 'images/atelier-poesie-macarons-1.jpg'
