@@ -17,16 +17,21 @@
             {{ .Render "summary" }}
         {{ end }}
     {{ end }}
-    */}}       
+    */}}
 
-    {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
+    {{ range where (where .Site.Pages "Section" "expositions") "Params.Featured" true }}
+       {{ .Render "summary" }} 
+   {{ end }}
+
+
+       {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
         {{ .Render "summary" }}
     {{ end }} 
 
-    <div class="summary">
+    <div class="summary" >
         <a href="https://www.lafabriqueculturelle.tv/capsules/14628/pour-beaucoup-d-obscurite-quelques-eclats-projet-de-mediation-culturelle-de-myriam-tousignant" class=''>
             <div class="overlay__container">
-                <img src="/images/banniere_beaucoup_obscrite.jpg" alt="La Fabrique Culturelle - Pour beaucoup d’obscurité, quelques éclats" class='img-fluid mb-5 mh-100'>
+                <img src="/images/banniere_beaucoup_obscrite.jpg" alt="La Fabrique Culturelle - Pour beaucoup d’obscurité, quelques éclats" class='img-fluid mb-5 h-50'>
                 <div class="overlay__middle">   
                     <div class="overlay__summary">La Fabrique Culturelle - Pour beaucoup d’obscurité, quelques éclats</div>
                 </div>
@@ -36,16 +41,11 @@
     
     {{ range where (where .Site.Pages "Section" "mediations") "Params.Featured" true }}
         {{ .Render "summary" }}
-    {{ end }}  
-
-    {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true }}
-        {{ .Render "summary" }}
-    {{ end }}           
-
-    {{ range where (where .Site.Pages "Section" "expositions") "Params.Featured" true }}
-       {{ .Render "summary" }}
     {{ end }}
-
+       
+    {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true }}
+       {{ .Render "summary" }}  
+   {{ end }}
        
     {{ range where (where .Site.Pages "Section" "art-public") "Params.Featured" true }}
        {{ .Render "summary" }}
