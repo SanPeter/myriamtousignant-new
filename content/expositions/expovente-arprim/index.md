@@ -6,8 +6,8 @@ date: 2024-01-25T19:00:00-05:00
 draft: false
 featured: true
 weight: 1
-summaryImage: 'images/expovente-arprim-01.jpg'
-listImage: 'images/expovente-arprim-01.jpg'
+summaryImage: 'images/expovente-arprim-03.jpg'
+listImage: 'images/expovente-arprim-03.jpg'
 ---
 
 {{< gallery match="images/expovente*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
