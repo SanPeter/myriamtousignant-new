@@ -19,6 +19,14 @@
     {{ end }}
     */}}
 
+
+    {{ with .Site.GetPage "/livres-artiste" }}
+        {{ with .GetPage "livre-artiste-briser-silence" }}
+        {{ .Render "summary" }}
+        {{ end }}
+    {{ end }}
+
+
     {{ range where (where .Site.Pages "Section" "expositions") "Params.Featured" true }}
        {{ .Render "summary" }} 
    {{ end }}

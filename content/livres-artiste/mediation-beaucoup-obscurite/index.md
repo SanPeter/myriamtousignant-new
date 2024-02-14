@@ -5,7 +5,7 @@ description: ''
 date: 2022-11-24T19:17:32-05:00
 draft: false
 featured: false
-weight: 1
+weight: 3
 summaryImage: 'images/MyriamTousignantBook (1 of 9).jpg'
 listImage: 'images/MyriamTousignantBook (1 of 9).jpg'
 ---
