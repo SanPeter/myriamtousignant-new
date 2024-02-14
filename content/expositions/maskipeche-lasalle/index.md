@@ -4,7 +4,7 @@ title: "Maskipêche - LaSalle"
 description: ''
 date: 2024-01-24T20:00:00-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/maskipeche-lasalle_01.jpg'
 listImage: 'images/maskipeche-lasalle_01.jpg'

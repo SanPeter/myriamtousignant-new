@@ -4,7 +4,7 @@ title: "Installation Récit choral/Petites mains"
 description: ''
 date: 2023-12-11T20:00:00-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/recit-choral-1.jpg'
 listImage: 'images/recit-choral-1.jpg'

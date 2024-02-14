@@ -36,6 +36,7 @@
         {{ .Render "summary" }}
     {{ end }} 
 
+    {{/*
     <div class="summary" >
         <a href="https://www.lafabriqueculturelle.tv/capsules/14628/pour-beaucoup-d-obscurite-quelques-eclats-projet-de-mediation-culturelle-de-myriam-tousignant" class=''>
             <div class="overlay__container">
@@ -46,6 +47,7 @@
             </div>
         </a>        
     </div>
+    */}}
     
     {{ range where (where .Site.Pages "Section" "mediations") "Params.Featured" true }}
         {{ .Render "summary" }}

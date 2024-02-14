@@ -4,7 +4,7 @@ title: "Fanzine «Et si je me permettais de briser ces silences»"
 description: ''
 date: 2023-11-25T19:19:00-05:00
 draft: false
-featured: true
+featured: false
 weight: 2
 summaryImage: 'images/LanguesPenduesNovembre2023 (24 of 30).jpg'
 listImage: 'images/LanguesPenduesNovembre2023 (24 of 30).jpg'
