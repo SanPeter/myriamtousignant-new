@@ -1,0 +1,9 @@
+{{ define "main" }}
+    <div class="container">
+        <!-- Page content -->
+        {{ partial "components/jumbotron.html" . }}
+        
+        {{ .Content }}
+        <!-- END -- Page content -->
+    </div>
+{{ end }}
