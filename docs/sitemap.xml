@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://myriamtousignant.com/projets/se-raconter-par-poesie/</loc>
+    <loc>https://myriamtousignant.com/mediations/racines-plurielles/</loc>
+    <lastmod>2024-02-25T20:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://myriamtousignant.com/mediations/se-raconter-par-poesie/</loc>
     <lastmod>2024-02-25T19:30:00-05:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/livres-artiste/livre-artiste-briser-silence/</loc>
@@ -32,6 +35,9 @@
     <loc>https://myriamtousignant.com/expositions/maskipeche-boucherville/</loc>
     <lastmod>2022-11-29T18:52:36-05:00</lastmod>
   </url><url>
+    <loc>https://myriamtousignant.com/mediations/</loc>
+    <lastmod>2024-02-25T20:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://myriamtousignant.com/livres-artiste/</loc>
     <lastmod>2024-02-13T19:30:07-05:00</lastmod>
   </url><url>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>https://myriamtousignant.com/livres-artiste/zone-interventions-poeitiques/</loc>
     <lastmod>2023-11-25T19:19:00-05:00</lastmod>
-  </url><url>
-    <loc>https://myriamtousignant.com/mediations/</loc>
-    <lastmod>2023-07-02T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/mediations/table-ronde-lancement-livre/</loc>
     <lastmod>2022-11-24T20:44:40-05:00</lastmod>
@@ -117,7 +120,7 @@
     <lastmod>2021-11-01T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/projets/</loc>
-    <lastmod>2024-02-25T19:30:00-05:00</lastmod>
+    <lastmod>2023-09-01T15:00:00-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/mediations/bibliotheque-st-bruno/</loc>
     <lastmod>2021-12-04T10:00:00-04:00</lastmod>
@@ -171,7 +174,7 @@
     <lastmod>2021-08-25T16:30:42-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/</loc>
-    <lastmod>2024-02-25T19:30:00-05:00</lastmod>
+    <lastmod>2024-02-25T20:00:00-05:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/boutique/</loc>
   </url><url>
