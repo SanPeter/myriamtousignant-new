@@ -31,6 +31,9 @@
        {{ .Render "summary" }} 
    {{ end }}
 
+   {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true }}
+    {{ .Render "summary" }}  
+    {{ end }}
 
        {{ range where (where .Site.Pages "Section" "livres-artiste") "Params.Featured" true }}
         {{ .Render "summary" }}
@@ -53,9 +56,7 @@
         {{ .Render "summary" }}
     {{ end }}
        
-    {{ range where (where .Site.Pages "Section" "projets") "Params.Featured" true }}
-       {{ .Render "summary" }}  
-   {{ end }}
+
        
     {{ range where (where .Site.Pages "Section" "art-public") "Params.Featured" true }}
        {{ .Render "summary" }}
