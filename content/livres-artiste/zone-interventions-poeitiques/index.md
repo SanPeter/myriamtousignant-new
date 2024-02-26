@@ -9,13 +9,13 @@ weight: 2
 summaryImage: 'images/LanguesPenduesNovembre2023 (24 of 30).jpg'
 listImage: 'images/LanguesPenduesNovembre2023 (24 of 30).jpg'
 projectImages:
+  - images/LanguesPenduesNovembre2023 (28 of 30).jpg
+  - images/LanguesPenduesNovembre2023 (29 of 30).jpg  
+  - images/LanguesPenduesNovembre2023 (30 of 30).jpg  
   - images/LanguesPenduesNovembre2023 (24 of 30).jpg
   - images/LanguesPenduesNovembre2023 (25 of 30).jpg
   - images/LanguesPenduesNovembre2023 (26 of 30).jpg
   - images/LanguesPenduesNovembre2023 (27 of 30).jpg
-  - images/LanguesPenduesNovembre2023 (28 of 30).jpg
-  - images/LanguesPenduesNovembre2023 (29 of 30).jpg  
-  - images/LanguesPenduesNovembre2023 (30 of 30).jpg  
 ---
 
 
