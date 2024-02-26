@@ -6,8 +6,8 @@ date: 2023-11-25T19:19:00-05:00
 draft: false
 featured: false
 weight: 2
-summaryImage: 'images/LanguesPenduesNovembre2023 (24 of 30).jpg'
-listImage: 'images/LanguesPenduesNovembre2023 (24 of 30).jpg'
+summaryImage: 'images/LanguesPenduesNovembre2023 (28 of 30).jpg'
+listImage: 'images/LanguesPenduesNovembre2023 (28 of 30).jpg'
 projectImages:
   - images/LanguesPenduesNovembre2023 (28 of 30).jpg
   - images/LanguesPenduesNovembre2023 (29 of 30).jpg  
