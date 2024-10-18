@@ -4,7 +4,7 @@ title: "Interventions poétiques - Expovente Arprim"
 description: 'Livre d’artiste « Et si je me permettais de briser ces silences » '
 date: 2024-01-25T19:00:00-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/expovente-arprim-03.jpg'
 listImage: 'images/expovente-arprim-03.jpg'

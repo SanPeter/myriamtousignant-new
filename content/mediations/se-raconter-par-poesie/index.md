@@ -4,7 +4,7 @@ title: "Projet de médiation culturelle « Se raconter par la poésie visuel
 description: ''
 date: 2024-02-25T19:30:00-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/raconter_poesie-13.jpg'
 listImage: 'images/raconter_poesie-13.jpg'

@@ -4,7 +4,7 @@ title: "Projet de médiation culturelle « Racines plurielles », Culture po
 description: ''
 date: 2024-02-25T20:00:00-05:00
 draft: false
-featured: true
+featured: false
 weight: 1
 summaryImage: 'images/racines_plurielles-01.jpg'
 listImage: 'images/racines_plurielles-01.jpg'
