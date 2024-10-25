@@ -8,16 +8,10 @@ featured: false
 weight: 1
 summaryImage: 'images/recit-choral-1.jpg'
 listImage: 'images/recit-choral-1.jpg'
-projectImages:
-  - 'images/recit-choral-1.jpg'
-  - 'images/recit-choral-2.jpg'
-  - 'images/recit-choral-3.jpg'
-  - 'images/recit-choral-4.jpg'
-  - 'images/recit-choral-5.jpg'
-  - 'images/recit-choral-6.jpg'
-  - 'images/recit-choral-7.jpg'
-  - 'images/recit-choral-8.jpg'
 ---
+
+{{< gallery match="images/recit-choral-*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
+
 Crédit photo: Éric St-Pierre
 
 _Installation Récit choral/Petites mains  
