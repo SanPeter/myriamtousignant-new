@@ -4,6 +4,9 @@ date: 2021-08-24T14:37:58-04:00
 draft: false
 weight: 5
 ---
+##### Octobre 2024
+[Communiqué de presse | Commémoration de la Journée mondiale du refus de la misère - CDC de l'agglomération de Longueuil](https://www.cdcal.org/communique-de-presse-commemoration-de-la-journee-mondiale-du-refus-de-la-misere/)
+
 ##### Mai 2022
 
 [Exposition Tête-à-tête | du 3 au 29 mai | Vernissage le 5 mai - Zocalo (zocaloweb.org)](https://zocaloweb.org/exposition-tete-a-tete/?fbclid=IwAR3I7ioMM1aLn39bl9yBN7MFb_84pTpme3G1kYUjqJeBQVjUora4_zSa2dQ)
