@@ -41,6 +41,9 @@
     <loc>https://myriamtousignant.com/expositions/maskipeche-boucherville/</loc>
     <lastmod>2022-11-29T18:52:36-05:00</lastmod>
   </url><url>
+    <loc>https://myriamtousignant.com/art-public/</loc>
+    <lastmod>2024-11-01T14:30:00-04:00</lastmod>
+  </url><url>
     <loc>https://myriamtousignant.com/expositions/</loc>
     <lastmod>2024-10-25T10:30:00-04:00</lastmod>
   </url><url>
@@ -55,9 +58,6 @@
   </url><url>
     <loc>https://myriamtousignant.com/mediations/table-ronde-lancement-livre/</loc>
     <lastmod>2022-11-24T20:44:40-05:00</lastmod>
-  </url><url>
-    <loc>https://myriamtousignant.com/art-public/</loc>
-    <lastmod>2022-05-05T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/livres-artiste/mediation-beaucoup-obscurite/</loc>
     <lastmod>2022-11-24T19:17:32-05:00</lastmod>
@@ -76,9 +76,6 @@
   </url><url>
     <loc>https://myriamtousignant.com/expositions/manifastation-jeus/</loc>
     <lastmod>2022-09-10T10:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://myriamtousignant.com/art-public/tete-a-tete/</loc>
-    <lastmod>2022-05-05T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/expositions/maskipeche-presse-papier/</loc>
     <lastmod>2022-02-13T10:00:00-04:00</lastmod>
@@ -125,8 +122,14 @@
     <loc>https://myriamtousignant.com/mediations/ccgv/</loc>
     <lastmod>2021-11-01T10:00:00-04:00</lastmod>
   </url><url>
+    <loc>https://myriamtousignant.com/art-public/refus-misere/</loc>
+    <lastmod>2024-11-01T14:30:00-04:00</lastmod>
+  </url><url>
     <loc>https://myriamtousignant.com/projets/</loc>
     <lastmod>2023-09-01T15:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://myriamtousignant.com/art-public/tete-a-tete/</loc>
+    <lastmod>2022-05-05T10:00:00-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/mediations/bibliotheque-st-bruno/</loc>
     <lastmod>2021-12-04T10:00:00-04:00</lastmod>
@@ -180,7 +183,7 @@
     <lastmod>2021-08-25T16:30:42-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/</loc>
-    <lastmod>2024-10-25T10:30:00-04:00</lastmod>
+    <lastmod>2024-11-01T14:30:00-04:00</lastmod>
   </url><url>
     <loc>https://myriamtousignant.com/boutique/</loc>
   </url><url>
