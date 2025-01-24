@@ -19,6 +19,11 @@
     {{ end }}
     */}}
 
+    {{ with .Site.GetPage "/mediations" }}
+        {{ with .GetPage "mediation-arprim-fev2025" }}
+            {{ .Render "summary" }}
+        {{ end }}
+    {{ end }}
 
     {{ with .Site.GetPage "/livres-artiste" }}
         {{ with .GetPage "livre-artiste-briser-silence" }}
