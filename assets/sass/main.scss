@@ -1,11 +1,11 @@
-@import 'base';
+@use 'base';
 
-@import 'footer/site-footer';
+@use 'footer/site-footer';
 
-@import 'components/carousel';
-@import 'components/gallery';
-@import 'components/grid-images';
-@import 'components/grid-projets';
-@import 'components/overlay';
-@import 'components/social-icons';
-@import 'components/summary';
+@use 'components/carousel';
+@use 'components/gallery';
+@use 'components/grid-images';
+@use 'components/grid-projets';
+@use 'components/overlay';
+@use 'components/social-icons';
+@use 'components/summary';
