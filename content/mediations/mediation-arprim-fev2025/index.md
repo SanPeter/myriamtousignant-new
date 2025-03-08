@@ -6,10 +6,10 @@ date: 2025-01-24T15:00:00-04:00
 draft: false
 featured: false
 weight: 1
-summaryImage: 'images/atelier-mediation.jpg'
-listImage: 'images/atelier-mediation.jpg'
+summaryImage: 'images/ArprimAtelierFevrier2025_0.jpg'
+listImage: 'images/ArprimAtelierFevrier2025_0.jpg'
 ---
-{{< gallery match="images/atelier*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
+{{< gallery match="images/ArprimAtelier*" sortOrder="asc" rowHeight="200" margins="10" thumbnailResizeOptions="600x600 q100 Lanczos" showExif=false previewType="blur" embedPreview=true thumbnailHoverEffect=none >}}
  
 _Atelier de médiation - Chorégraphies pour mains mouillées Sarah-Jeanne Landry  
 Animatrice : Myriam Tousignant  
