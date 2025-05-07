@@ -6,7 +6,7 @@ date: 2023-09-01T15:00:00-04:00
 draft: false
 featured: false
 headerFeatured: false
-weight: 1
+weight: 2
 summaryImage: 'images/revue-moebius-02.jpg'
 listImage: 'images/revue-moebius-02.jpg'
 projectImages:
